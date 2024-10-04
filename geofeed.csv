@@ -1,0 +1,4098 @@
+﻿ip_range,country,region,city
+154.46.28.0/24,US,US-CA,Los Angeles
+2a0a:6044:f000::/48,ZM,ZM-9,Lusaka
+2a0a:6044:f001::/48,ZM,ZM-8,Ndola
+2a0a:6044:f002::/48,ZM,ZM-8,Kitwe
+2a0a:6044:f003::/48,ZM,ZM-3,Chipata
+2a0a:6044:f004::/48,ZM,ZM-2,Kabwe
+2a0a:6044:f005::/48,ZM,ZM-8,Chingola
+2a0a:6044:f006::/48,ZM,ZM-8,Mufulira
+2a0a:6044:f007::/48,ZM,ZM-8,Luanshya
+2a0a:6044:f008::/48,ZM,ZM-7,Livingstone
+2a0a:6044:f009::/48,ZM,ZM-5,Kasama
+2a0a:6044:f00a::/48,ZM,ZM-8,Kalulushi
+2a0a:6044:f00b::/48,ZM,ZM-7,Mazabuka
+2a0a:6044:f00c::/48,ZM,ZM-8,Chililabombwe
+2a0a:6044:f00d::/48,ZM,ZM-1,Mongu
+2a0a:6044:f00e::/48,ZM,ZM-9,Kafue
+2a0a:6044:f00f::/48,ZW,ZW-HA,Harare
+2a0a:6044:f010::/48,ZW,ZW-BU,Bulawayo
+2a0a:6044:f011::/48,ZW,ZW-HA,Chitungwiza
+2a0a:6044:f012::/48,ZW,ZW-MA,Mutare
+2a0a:6044:f013::/48,ZW,ZW-MI,Gweru
+2a0a:6044:f014::/48,ZW,ZW-HA,Epworth
+2a0a:6044:f015::/48,ZW,ZW-MI,Kwekwe
+2a0a:6044:f016::/48,ZW,ZW-MW,Kadoma
+2a0a:6044:f017::/48,ZW,ZW-ME,Ruwa
+2a0a:6044:f018::/48,ZW,ZW-MW,Chinhoyi
+2a0a:6044:f019::/48,ZW,ZW-MV,Masvingo
+2a0a:6044:f01a::/48,ZW,ZW-MW,Norton
+2a0a:6044:f01b::/48,ZW,ZW-ME,Marondera
+2a0a:6044:f01c::/48,ZW,ZW-MW,Chegutu
+2a0a:6044:f01d::/48,ZW,ZW-MI,Zvishavane
+2a0a:6044:f01e::/48,AM,AM-ER,Yerevan
+2a0a:6044:f01f::/48,AM,AM-SH,Gyumri
+2a0a:6044:f020::/48,AM,AM-LO,Vanadzor
+2a0a:6044:f021::/48,AM,AM-AV,Vagharshapat
+2a0a:6044:f022::/48,AM,AM-KT,Hrazdan
+2a0a:6044:f023::/48,AM,AM-KT,Abovyan
+2a0a:6044:f024::/48,AM,AM-SU,Kapan
+2a0a:6044:f025::/48,AM,AM-AR,Ararat
+2a0a:6044:f026::/48,AM,AM-AV,Armavir
+2a0a:6044:f027::/48,AM,AM-LO,Step'anavan
+2a0a:6044:f028::/48,AM,AM-GR,Gavarr
+2a0a:6044:f029::/48,AM,AM-AR,Artashat
+2a0a:6044:f02a::/48,AM,AM-SU,Goris
+2a0a:6044:f02b::/48,AM,AM-AR,Masis
+2a0a:6044:f02c::/48,AM,AM-AG,Ashtarak
+2a0a:6044:f02d::/48,AZ,AZ-,Baku
+2a0a:6044:f02e::/48,AZ,AZ-BA,Sumqayit
+2a0a:6044:f02f::/48,AZ,AZ-GA,Ganja
+2a0a:6044:f030::/48,AZ,AZ-LAN,Lankaran
+2a0a:6044:f031::/48,AZ,AZ-TOV,Tovuz
+2a0a:6044:f032::/48,AZ,AZ-YEV,Yevlakh
+2a0a:6044:f033::/48,AZ,AZ-MI,Mingachevir
+2a0a:6044:f034::/48,AZ,AZ-SAT,Saatlı
+2a0a:6044:f035::/48,AZ,AZ-LER,Lerik
+2a0a:6044:f036::/48,AZ,AZ-,Qaraçuxur
+2a0a:6044:f037::/48,AZ,AZ-SAL,Şirvan
+2a0a:6044:f038::/48,AZ,AZ-SAK,Şǝki
+2a0a:6044:f039::/48,AZ,AZ-,Bakikhanov
+2a0a:6044:f03a::/48,AZ,AZ-NX,Nakhchivan
+2a0a:6044:f03b::/48,AZ,AZ-XCI,Khankendi
+2a0a:6044:f03c::/48,BH,BH-,Riffa
+2a0a:6044:f03d::/48,BH,BH-13,Manama
+2a0a:6044:f03e::/48,BH,BH-15,Al Muharraq
+2a0a:6044:f03f::/48,BH,BH-17,Dār Kulayb
+2a0a:6044:f040::/48,BH,BH-17,Hamad Town
+2a0a:6044:f041::/48,BH,BH-,Isa Town
+2a0a:6044:f042::/48,BH,BH-,Sitrah
+2a0a:6044:f043::/48,BH,BH-13,Jidd Ḩafş
+2a0a:6044:f044::/48,BH,BH-,Al Ḩadd
+2a0a:6044:f045::/48,BH,BH-13,Sanābis
+2a0a:6044:f046::/48,BH,BH-17,As Sahlah al Fawqīyah
+2a0a:6044:f047::/48,BH,BH-17,As Sahlat al Ḩadrīyah
+2a0a:6044:f048::/48,BH,BH-14,Al Qal‘ah
+2a0a:6044:f049::/48,BH,BH-,Wādiyān
+2a0a:6044:f04a::/48,BH,BH-14,Umm Jidr
+2a0a:6044:f04b::/48,BD,BD-C,Dhaka
+2a0a:6044:f04c::/48,BD,BD-B,Chittagong
+2a0a:6044:f04d::/48,BD,BD-D,Khulna
+2a0a:6044:f04e::/48,BD,BD-F,Rangpur City
+2a0a:6044:f04f::/48,BD,BD-B,Comilla
+2a0a:6044:f050::/48,BD,BD-E,Rajshahi
+2a0a:6044:f051::/48,BD,BD-E,Shibganj
+2a0a:6044:f052::/48,BD,BD-E,Natore
+2a0a:6044:f053::/48,BD,BD-C,Tongi
+2a0a:6044:f054::/48,BD,BD-C,Narsingdi
+2a0a:6044:f055::/48,BD,BD-D,Bagerhat
+2a0a:6044:f056::/48,BD,BD-B,Cox’s Bāzār
+2a0a:6044:f057::/48,BD,BD-D,Jessore
+2a0a:6044:f058::/48,BD,BD-C,Nāgarpur
+2a0a:6044:f059::/48,BD,BD-G,Sylhet
+2a0a:6044:f05a::/48,BT,BT-15,Thimphu
+2a0a:6044:f05b::/48,BT,BT-12,Phuntsholing
+2a0a:6044:f05c::/48,BT,BT-21,Tsirang
+2a0a:6044:f05d::/48,BT,BT-23,Punakha
+2a0a:6044:f05e::/48,BT,BT-43,Pemagatshel
+2a0a:6044:f05f::/48,BT,BT-11,Paro
+2a0a:6044:f060::/48,BT,BT-31,Sarpang
+2a0a:6044:f061::/48,BT,BT-45,Samdrup Jongkhar
+2a0a:6044:f062::/48,BT,BT-24,Wangdue Phodrang
+2a0a:6044:f063::/48,BT,BT-33,Jakar
+2a0a:6044:f064::/48,BT,BT-14,Samtse
+2a0a:6044:f065::/48,BT,BT-23,Pajo
+2a0a:6044:f066::/48,BT,BT-TY,Trashi Yangtse
+2a0a:6044:f067::/48,BT,BT-42,Mongar
+2a0a:6044:f068::/48,BT,BT-12,Tsimasham
+2a0a:6044:f069::/48,BN,BN-BM,Bandar Seri Begawan
+2a0a:6044:f06a::/48,BN,BN-BE,Kuala Belait
+2a0a:6044:f06b::/48,BN,BN-BE,Seria
+2a0a:6044:f06c::/48,BN,BN-TU,Tutong
+2a0a:6044:f06d::/48,BN,BN-BM,Kapok
+2a0a:6044:f06e::/48,BN,BN-TE,Bangar
+2a0a:6044:f06f::/48,BN,BN-BM,Mentiri
+2a0a:6044:f070::/48,BN,BN-BE,Kampung Sungai Teraban
+2a0a:6044:f071::/48,BN,BN-,Tempuan Ugas
+2a0a:6044:f072::/48,BN,BN-13,Temada
+2a0a:6044:f073::/48,BN,BN-BM,Tangki Ayer
+2a0a:6044:f074::/48,BN,BN-BE,Sukang Hilir
+2a0a:6044:f075::/48,BN,BN-BE,Sukang
+2a0a:6044:f076::/48,BN,BN-TU,Rumah Supon
+2a0a:6044:f077::/48,BN,BN-BE,Rumah Samawa
+2a0a:6044:f078::/48,KH,KH-12,Phnom Penh
+2a0a:6044:f079::/48,KH,KH-21,Takeo
+2a0a:6044:f07a::/48,KH,KH-17,Siem Reap
+2a0a:6044:f07b::/48,KH,KH-2,Battambang
+2a0a:6044:f07c::/48,KH,KH-1,Poipet
+2a0a:6044:f07d::/48,KH,KH-4,Kampong Chhnang
+2a0a:6044:f07e::/48,KH,KH-18,Sihanoukville
+2a0a:6044:f07f::/48,KH,KH-3,Kampong Cham
+2a0a:6044:f080::/48,KH,KH-15,Pursat
+2a0a:6044:f081::/48,KH,KH-8,Ta Khmau
+2a0a:6044:f082::/48,KH,KH-21,Phumĭ Véal Srê
+2a0a:6044:f083::/48,KH,KH-5,Kampong Speu
+2a0a:6044:f084::/48,KH,KH-9,Koh Kong
+2a0a:6044:f085::/48,KH,KH-14,Prey Veng
+2a0a:6044:f086::/48,KH,KH-25,Suong
+2a0a:6044:f087::/48,GE,GE-,Tbilisi
+2a0a:6044:f088::/48,GE,GE-,Batumi
+2a0a:6044:f089::/48,GE,GE-IM,Kutaisi
+2a0a:6044:f08a::/48,GE,GE-KK,Rustavi
+2a0a:6044:f08b::/48,GE,GE-AB,Sukhumi
+2a0a:6044:f08c::/48,GE,GE-SK,Gori
+2a0a:6044:f08d::/48,GE,GE-SZ,P’ot’i
+2a0a:6044:f08e::/48,GE,GE-SZ,Zugdidi
+2a0a:6044:f08f::/48,GE,GE-SK,Ts'khinvali
+2a0a:6044:f090::/48,GE,GE-IM,Samtredia
+2a0a:6044:f091::/48,GE,GE-SK,Khashuri
+2a0a:6044:f092::/48,GE,GE-SZ,Senaki
+2a0a:6044:f093::/48,GE,GE-AB,Stantsiya Novyy Afon
+2a0a:6044:f094::/48,GE,GE-IM,Zestaponi
+2a0a:6044:f095::/48,GE,GE-KA,Telavi
+2a0a:6044:f096::/48,HK,HK-HWC,Hong Kong
+2a0a:6044:f097::/48,HK,HK-NYL,New Territories
+2a0a:6044:f098::/48,HK,HK-KKC,Kowloon
+2a0a:6044:f099::/48,HK,HK-HWC,Hong Kong Island
+2a0a:6044:f09a::/48,HK,HK-HCW,Victoria
+2a0a:6044:f09b::/48,HK,HK-NTM,Tuen Mun
+2a0a:6044:f09c::/48,HK,HK-NST,Shatin
+2a0a:6044:f09d::/48,HK,HK-KSS,Sham Shui Po
+2a0a:6044:f09e::/48,HK,HK-KWT,Wong Tai Sin
+2a0a:6044:f09f::/48,HK,HK-NSK,Tseung Kwan O
+2a0a:6044:f0a0::/48,HK,HK-NKT,Kwai Chung
+2a0a:6044:f0a1::/48,HK,HK-NTW,Tsuen Wan
+2a0a:6044:f0a2::/48,HK,HK-NYL,Tin Shui Wai
+2a0a:6044:f0a3::/48,HK,HK-NTP,Tai Po
+2a0a:6044:f0a4::/48,HK,HK-NNO,Fanling
+2a0a:6044:f0a5::/48,IN,IN-MH,Mumbai
+2a0a:6044:f0a6::/48,IN,IN-DL,Delhi
+2a0a:6044:f0a7::/48,IN,IN-KA,Bengaluru
+2a0a:6044:f0a8::/48,IN,IN-TS,Hyderabad
+2a0a:6044:f0a9::/48,IN,IN-GJ,Ahmedabad
+2a0a:6044:f0aa::/48,IN,IN-TN,Chennai
+2a0a:6044:f0ab::/48,IN,IN-WB,Kolkata
+2a0a:6044:f0ac::/48,IN,IN-GJ,Surat
+2a0a:6044:f0ad::/48,IN,IN-MH,Pune
+2a0a:6044:f0ae::/48,IN,IN-UP,Kanpur
+2a0a:6044:f0af::/48,IN,IN-RJ,Jaipur
+2a0a:6044:f0b0::/48,IN,IN-MH,Navi Mumbai
+2a0a:6044:f0b1::/48,IN,IN-UP,Lucknow
+2a0a:6044:f0b2::/48,IN,IN-MH,Nagpur
+2a0a:6044:f0b3::/48,IN,IN-TN,Coimbatore
+2a0a:6044:f0b4::/48,ID,ID-JK,Jakarta
+2a0a:6044:f0b5::/48,ID,ID-JI,Surabaya
+2a0a:6044:f0b6::/48,ID,ID-JB,Bekasi
+2a0a:6044:f0b7::/48,ID,ID-JB,Bandung
+2a0a:6044:f0b8::/48,ID,ID-SU,Medan
+2a0a:6044:f0b9::/48,ID,ID-JB,Depok
+2a0a:6044:f0ba::/48,ID,ID-BT,Tangerang
+2a0a:6044:f0bb::/48,ID,ID-SS,Palembang
+2a0a:6044:f0bc::/48,ID,ID-JT,Semarang
+2a0a:6044:f0bd::/48,ID,ID-SN,Makassar
+2a0a:6044:f0be::/48,ID,ID-BT,South Tangerang
+2a0a:6044:f0bf::/48,ID,ID-JT,Jepara
+2a0a:6044:f0c0::/48,ID,ID-LA,Bandar Lampung
+2a0a:6044:f0c1::/48,ID,ID-KR,Batam
+2a0a:6044:f0c2::/48,ID,ID-JB,Bogor
+2a0a:6044:f0c3::/48,IQ,IQ-BG,Baghdad
+2a0a:6044:f0c4::/48,IQ,IQ-NI,Al Mawşil al Jadīdah
+2a0a:6044:f0c5::/48,IQ,IQ-BA,Al Başrah al Qadīmah
+2a0a:6044:f0c6::/48,IQ,IQ-NI,Mosul
+2a0a:6044:f0c7::/48,IQ,IQ-AR,Erbil
+2a0a:6044:f0c8::/48,IQ,IQ-BA,Basra
+2a0a:6044:f0c9::/48,IQ,IQ-KA,Karbala
+2a0a:6044:f0ca::/48,IQ,IQ-KI,Kirkuk
+2a0a:6044:f0cb::/48,IQ,IQ-BG,Abu Ghraib
+2a0a:6044:f0cc::/48,IQ,IQ-SU,Sulaymaniyah
+2a0a:6044:f0cd::/48,IQ,IQ-DQ,Nasiriyah
+2a0a:6044:f0ce::/48,IQ,IQ-NA,Najaf
+2a0a:6044:f0cf::/48,IQ,IQ-BB,Hillah
+2a0a:6044:f0d0::/48,IQ,IQ-DA,Dihok
+2a0a:6044:f0d1::/48,IQ,IQ-MA,Amarah
+2a0a:6044:f0d2::/48,IL,IL-JM,Jerusalem
+2a0a:6044:f0d3::/48,IL,IL-TA,Tel Aviv
+2a0a:6044:f0d4::/48,IL,IL-JM,West Jerusalem
+2a0a:6044:f0d5::/48,IL,IL-HA,Haifa
+2a0a:6044:f0d6::/48,IL,IL-M,Rishon LeZiyyon
+2a0a:6044:f0d7::/48,IL,IL-M,Petah Tikva
+2a0a:6044:f0d8::/48,IL,IL-M,Netanya
+2a0a:6044:f0d9::/48,IL,IL-D,Ashdod
+2a0a:6044:f0da::/48,IL,IL-TA,Bnei Brak
+2a0a:6044:f0db::/48,IL,IL-TA,Holon
+2a0a:6044:f0dc::/48,IL,IL-D,Beersheba
+2a0a:6044:f0dd::/48,IL,IL-TA,Ramat Gan
+2a0a:6044:f0de::/48,IL,IL-M,Rehovot
+2a0a:6044:f0df::/48,IL,IL-D,Ashqelon
+2a0a:6044:f0e0::/48,IL,IL-TA,Bat Yam
+2a0a:6044:f0e1::/48,JP,JP-13,Tokyo
+2a0a:6044:f0e2::/48,JP,JP-14,Yokohama
+2a0a:6044:f0e3::/48,JP,JP-27,Osaka
+2a0a:6044:f0e4::/48,JP,JP-23,Nagoya
+2a0a:6044:f0e5::/48,JP,JP-1,Sapporo
+2a0a:6044:f0e6::/48,JP,JP-40,Fukuoka
+2a0a:6044:f0e7::/48,JP,JP-14,Kawasaki
+2a0a:6044:f0e8::/48,JP,JP-28,Kobe
+2a0a:6044:f0e9::/48,JP,JP-26,Kyoto
+2a0a:6044:f0ea::/48,JP,JP-11,Saitama
+2a0a:6044:f0eb::/48,JP,JP-34,Hiroshima
+2a0a:6044:f0ec::/48,JP,JP-4,Sendai
+2a0a:6044:f0ed::/48,JP,JP-12,Chiba
+2a0a:6044:f0ee::/48,JP,JP-40,Kitakyushu
+2a0a:6044:f0ef::/48,JP,JP-15,Niigata
+2a0a:6044:f0f0::/48,JO,JO-AM,Amman
+2a0a:6044:f0f1::/48,JO,JO-AZ,Zarqa
+2a0a:6044:f0f2::/48,JO,JO-IR,Irbid
+2a0a:6044:f0f3::/48,JO,JO-AZ,Russeifa
+2a0a:6044:f0f4::/48,JO,JO-AM,Khuraybat as Sūq
+2a0a:6044:f0f5::/48,JO,JO-AM,Wadi Al Seer
+2a0a:6044:f0f6::/48,JO,JO-IR,Ar Ramtha
+2a0a:6044:f0f7::/48,JO,JO-IR,Ajloun
+2a0a:6044:f0f8::/48,JO,JO-BA,Salt
+2a0a:6044:f0f9::/48,JO,JO-MN,Aqaba
+2a0a:6044:f0fa::/48,JO,JO-MA,Rukban
+2a0a:6044:f0fb::/48,JO,JO-AM,Madaba
+2a0a:6044:f0fc::/48,JO,JO-MA,Al Mafraq
+2a0a:6044:f0fd::/48,JO,JO-MN,Ma'an
+2a0a:6044:f0fe::/48,JO,JO-AM,Al Jubayhah
+2a0a:6044:f0ff::/48,KW,KW-AH,Al Ahmadi
+2a0a:6044:f100::/48,KW,KW-HA,Ḩawallī
+2a0a:6044:f101::/48,KW,KW-,As Sālimīyah
+2a0a:6044:f102::/48,KW,KW-HA,Şabāḩ as Sālim
+2a0a:6044:f103::/48,KW,KW-FA,Al Farwānīyah
+2a0a:6044:f104::/48,KW,KW-,Al Faḩāḩīl
+2a0a:6044:f105::/48,KW,KW-KU,Kuwait City
+2a0a:6044:f106::/48,KW,KW-,Ar Rumaythīyah
+2a0a:6044:f107::/48,KW,KW-AH,Ar Riqqah
+2a0a:6044:f108::/48,KW,KW-MU,Salwá
+2a0a:6044:f109::/48,KW,KW-,Al Manqaf
+2a0a:6044:f10a::/48,KW,KW-FA,Ar Rābiyah
+2a0a:6044:f10b::/48,KW,KW-HA,Bayān
+2a0a:6044:f10c::/48,KW,KW-JA,Al Jahra
+2a0a:6044:f10d::/48,KW,KW-,Al Finţās
+2a0a:6044:f10e::/48,KG,KG-GB,Bishkek
+2a0a:6044:f10f::/48,KG,KG-O,Osh
+2a0a:6044:f110::/48,KG,KG-J,Jalal-Abad
+2a0a:6044:f111::/48,KG,KG-Y,Karakol
+2a0a:6044:f112::/48,KG,KG-C,Tokmok
+2a0a:6044:f113::/48,KG,KG-O,Uzgen
+2a0a:6044:f114::/48,KG,KG-C,Kara-Balta
+2a0a:6044:f115::/48,KG,KG-Y,Balykchy
+2a0a:6044:f116::/48,KG,KG-N,Naryn
+2a0a:6044:f117::/48,KG,KG-J,Bazar-Korgon
+2a0a:6044:f118::/48,KG,KG-T,Talas
+2a0a:6044:f119::/48,KG,KG-B,Razzakov
+2a0a:6044:f11a::/48,KG,KG-B,Kzyl-Kiya
+2a0a:6044:f11b::/48,KG,KG-J,Suzak
+2a0a:6044:f11c::/48,KG,KG-B,Batken
+2a0a:6044:f11d::/48,LA,LA-VT,Vientiane
+2a0a:6044:f11e::/48,LA,LA-SV,Savannakhet
+2a0a:6044:f11f::/48,LA,LA-CH,Pakse
+2a0a:6044:f120::/48,LA,LA-KH,Thakhek
+2a0a:6044:f121::/48,LA,LA-LP,Luang Prabang
+2a0a:6044:f122::/48,LA,LA-HO,Xam Nua
+2a0a:6044:f123::/48,LA,LA-XI,Muang Phônsavan
+2a0a:6044:f124::/48,LA,LA-OU,Muang Xay
+2a0a:6044:f125::/48,LA,LA-VI,Vang Vieng
+2a0a:6044:f126::/48,LA,LA-BL,Pakxan
+2a0a:6044:f127::/48,LA,LA-BK,Ban Houayxay
+2a0a:6044:f128::/48,LA,LA-CH,Muang Không
+2a0a:6044:f129::/48,LA,LA-PH,Phôngsali
+2a0a:6044:f12a::/48,LA,LA-XA,Sainyabuli
+2a0a:6044:f12b::/48,LA,LA-CH,Champasak
+2a0a:6044:f12c::/48,LB,LB-BA,Beirut
+2a0a:6044:f12d::/48,LB,LB-BA,Ra’s Bayrūt
+2a0a:6044:f12e::/48,LB,LB-AS,Tripoli
+2a0a:6044:f12f::/48,LB,LB-JA,Sidon
+2a0a:6044:f130::/48,LB,LB-JA,Tyre
+2a0a:6044:f131::/48,LB,LB-NA,Nabatîyé et Tahta
+2a0a:6044:f132::/48,LB,LB-NA,Habboûch
+2a0a:6044:f133::/48,LB,LB-JL,Jounieh
+2a0a:6044:f134::/48,LB,LB-BI,Zahle
+2a0a:6044:f135::/48,LB,LB-JA,Ghazieh
+2a0a:6044:f136::/48,LB,LB-BI,Baalbek
+2a0a:6044:f137::/48,LB,LB-JA,Naqoura
+2a0a:6044:f138::/48,LB,LB-JL,Byblos
+2a0a:6044:f139::/48,LB,LB-AS,Bcharré
+2a0a:6044:f13a::/48,LB,LB-AS,Batroûn
+2a0a:6044:f13b::/48,MO,MO-,Macao
+2a0a:6044:f13c::/48,MO,MO-,Taipa
+2a0a:6044:f13d::/48,MO,MO-,Lai Chi Van
+2a0a:6044:f13e::/48,MO,MO-,Heisha
+2a0a:6044:f13f::/48,MO,MO-,Luhuan
+2a0a:6044:f140::/48,MO,MO-,Zhuojiacun
+2a0a:6044:f141::/48,MO,MO-,Jiu’ao
+2a0a:6044:f142::/48,MY,MY-14,Kuala Lumpur
+2a0a:6044:f143::/48,MY,MY-10,Petaling Jaya
+2a0a:6044:f144::/48,MY,MY-10,Klang
+2a0a:6044:f145::/48,MY,MY-1,Johor Bahru
+2a0a:6044:f146::/48,MY,MY-8,Ipoh
+2a0a:6044:f147::/48,MY,MY-10,Kampung Baru Subang
+2a0a:6044:f148::/48,MY,MY-10,Shah Alam
+2a0a:6044:f149::/48,MY,MY-10,Subang Jaya
+2a0a:6044:f14a::/48,MY,MY-4,Malacca
+2a0a:6044:f14b::/48,MY,MY-3,Kota Bharu
+2a0a:6044:f14c::/48,MY,MY-6,Kuantan
+2a0a:6044:f14d::/48,MY,MY-12,Kota Kinabalu
+2a0a:6044:f14e::/48,MY,MY-12,Sandakan
+2a0a:6044:f14f::/48,MY,MY-11,Kuala Terengganu
+2a0a:6044:f150::/48,MY,MY-2,Alor Star
+2a0a:6044:f151::/48,MV,MV-MLE,Malé
+2a0a:6044:f152::/48,MV,MV-29,Fuvahmulah
+2a0a:6044:f153::/48,MV,MV-1,Hithadhoo
+2a0a:6044:f154::/48,MV,MV-23,Kulhudhuffushi
+2a0a:6044:f155::/48,MV,MV-28,Thinadhoo
+2a0a:6044:f156::/48,MV,MV-3,Naifaru
+2a0a:6044:f157::/48,MV,MV-MLE,Hulhumale
+2a0a:6044:f158::/48,MV,MV-7,Dhihdhoo
+2a0a:6044:f159::/48,MV,MV-26,Maafushi
+2a0a:6044:f15a::/48,MV,MV-27,Viligili
+2a0a:6044:f15b::/48,MV,MV-24,Funadhoo
+2a0a:6044:f15c::/48,MV,MV-20,Eydhafushi
+2a0a:6044:f15d::/48,MV,MV-0,Mahibadhoo
+2a0a:6044:f15e::/48,MV,MV-8,Vilufushi
+2a0a:6044:f15f::/48,MV,MV-8,Guraidhoo
+2a0a:6044:f160::/48,MN,MN-1,Ulaanbaatar
+2a0a:6044:f161::/48,MN,MN-67,Erdenet
+2a0a:6044:f162::/48,MN,MN-49,Darkhan
+2a0a:6044:f163::/48,MN,MN-41,Mörön
+2a0a:6044:f164::/48,MN,MN-69,Bayanhongor
+2a0a:6044:f165::/48,MN,MN-46,Ulaangom
+2a0a:6044:f166::/48,MN,MN-43,Khovd
+2a0a:6044:f167::/48,MN,MN-55,Arvayheer
+2a0a:6044:f168::/48,MN,MN-71,Ölgii
+2a0a:6044:f169::/48,MN,MN-55,Hovd
+2a0a:6044:f16a::/48,MN,MN-53,Dalandzadgad
+2a0a:6044:f16b::/48,MN,MN-39,Undurkhaan
+2a0a:6044:f16c::/48,MN,MN-49,Sühbaatar
+2a0a:6044:f16d::/48,MN,MN-73,Cecerleg
+2a0a:6044:f16e::/48,MN,MN-63,Saynshand
+2a0a:6044:f16f::/48,NP,NP-P3,Kathmandu
+2a0a:6044:f170::/48,NP,NP-P3,Bharatpur
+2a0a:6044:f171::/48,NP,NP-P3,Patan
+2a0a:6044:f172::/48,NP,NP-P2,Birgunj
+2a0a:6044:f173::/48,NP,NP-P1,Biratnagar
+2a0a:6044:f174::/48,NP,NP-P7,Dhangadhi
+2a0a:6044:f175::/48,NP,NP-P4,Pokhara
+2a0a:6044:f176::/48,NP,NP-P3,Hetauda
+2a0a:6044:f177::/48,NP,NP-P1,Dharān
+2a0a:6044:f178::/48,NP,NP-P5,Nepalgunj
+2a0a:6044:f179::/48,NP,NP-P3,Madhyapur Thimi
+2a0a:6044:f17a::/48,NP,NP-P2,Lahān
+2a0a:6044:f17b::/48,NP,NP-P2,Janakpur Dham
+2a0a:6044:f17c::/48,NP,NP-P5,Butwāl
+2a0a:6044:f17d::/48,NP,NP-P7,Mahendranagar
+2a0a:6044:f17e::/48,UY,UY-MO,Montevideo
+2a0a:6044:f17f::/48,UY,UY-SA,Salto
+2a0a:6044:f180::/48,UY,UY-PA,Paysandú
+2a0a:6044:f181::/48,UY,UY-CA,Las Piedras
+2a0a:6044:f182::/48,UY,UY-RV,Rivera
+2a0a:6044:f183::/48,UY,UY-MA,Maldonado
+2a0a:6044:f184::/48,UY,UY-TA,Tacuarembó
+2a0a:6044:f185::/48,UY,UY-CL,Melo
+2a0a:6044:f186::/48,UY,UY-SO,Mercedes
+2a0a:6044:f187::/48,UY,UY-AR,Artigas
+2a0a:6044:f188::/48,UY,UY-LA,Minas
+2a0a:6044:f189::/48,UY,UY-SJ,San José de Mayo
+2a0a:6044:f18a::/48,UY,UY-DU,Durazno
+2a0a:6044:f18b::/48,UY,UY-FD,Florida
+2a0a:6044:f18c::/48,UY,UY-CA,Barros Blancos
+2a0a:6044:f18d::/48,VE,VE-M,Caracas
+2a0a:6044:f18e::/48,VE,VE-V,Maracaibo
+2a0a:6044:f18f::/48,VE,VE-D,Maracay
+2a0a:6044:f190::/48,VE,VE-G,Valencia
+2a0a:6044:f191::/48,VE,VE-K,Barquisimeto
+2a0a:6044:f192::/48,VE,VE-F,Ciudad Guayana
+2a0a:6044:f193::/48,VE,VE-B,Barcelona
+2a0a:6044:f194::/48,VE,VE-N,Maturín
+2a0a:6044:f195::/48,VE,VE-F,Ciudad Bolivar
+2a0a:6044:f196::/48,VE,VE-R,Cumaná
+2a0a:6044:f197::/48,VE,VE-E,Barinas
+2a0a:6044:f198::/48,VE,VE-B,Puerto Cruz
+2a0a:6044:f199::/48,VE,VE-M,Petare
+2a0a:6044:f19a::/48,VE,VE-D,Turmero
+2a0a:6044:f19b::/48,VE,VE-L,Merida
+2a0a:6044:f19c::/48,AU,AU-NSW,Sydney
+2a0a:6044:f19d::/48,AU,AU-VIC,Melbourne
+2a0a:6044:f19e::/48,AU,AU-QLD,Brisbane
+2a0a:6044:f19f::/48,AU,AU-WA,Perth
+2a0a:6044:f1a0::/48,AU,AU-SA,Adelaide
+2a0a:6044:f1a1::/48,AU,AU-QLD,Gold Coast
+2a0a:6044:f1a2::/48,AU,AU-ACT,Canberra
+2a0a:6044:f1a3::/48,AU,AU-NSW,Newcastle
+2a0a:6044:f1a4::/48,AU,AU-QLD,Logan City
+2a0a:6044:f1a5::/48,AU,AU-NSW,Wollongong
+2a0a:6044:f1a6::/48,AU,AU-VIC,Geelong
+2a0a:6044:f1a7::/48,AU,AU-TAS,Hobart
+2a0a:6044:f1a8::/48,AU,AU-QLD,Townsville
+2a0a:6044:f1a9::/48,AU,AU-QLD,Cairns
+2a0a:6044:f1aa::/48,AU,AU-NT,Darwin
+2a0a:6044:f1ab::/48,CX,CX-,Flying Fish Cove
+2a0a:6044:f1ac::/48,CX,CX-,Waterfall
+2a0a:6044:f1ad::/48,CX,CX-,South Point
+2a0a:6044:f1ae::/48,CX,CX-,Settlement
+2a0a:6044:f1af::/48,CX,CX-,Drumsite
+2a0a:6044:f1b0::/48,CX,CX-,Silver City
+2a0a:6044:f1b1::/48,CX,CX-,Poon Saan
+2a0a:6044:f1b2::/48,CC,CC-,Bantam Village
+2a0a:6044:f1b3::/48,CC,CC-,West Island
+2a0a:6044:f1b4::/48,CK,CK-,Avarua
+2a0a:6044:f1b5::/48,CK,CK-,Amuri
+2a0a:6044:f1b6::/48,CK,CK-,Omoka
+2a0a:6044:f1b7::/48,CK,CK-,Mangarei
+2a0a:6044:f1b8::/48,CK,CK-,Motu Koe
+2a0a:6044:f1b9::/48,CK,CK-,Moto Kavata
+2a0a:6044:f1ba::/48,CK,CK-,Tauhunu
+2a0a:6044:f1bb::/48,CK,CK-,Vaipae
+2a0a:6044:f1bc::/48,CK,CK-,Tukao
+2a0a:6044:f1bd::/48,CK,CK-,Titikaveka
+2a0a:6044:f1be::/48,CK,CK-,Tengatangi Village
+2a0a:6044:f1bf::/48,CK,CK-,Teenui Village
+2a0a:6044:f1c0::/48,CK,CK-,Tamarua Village
+2a0a:6044:f1c1::/48,CK,CK-,Oneroa
+2a0a:6044:f1c2::/48,CK,CK-,Nukuao
+2a0a:6044:f1c3::/48,FJ,FJ-C,Nasinu
+2a0a:6044:f1c4::/48,FJ,FJ-,Suva
+2a0a:6044:f1c5::/48,FJ,FJ-W,Lautoka
+2a0a:6044:f1c6::/48,FJ,FJ-W,Nadi
+2a0a:6044:f1c7::/48,FJ,FJ-N,Labasa
+2a0a:6044:f1c8::/48,FJ,FJ-W,Sigatoka
+2a0a:6044:f1c9::/48,FJ,FJ-W,Ba
+2a0a:6044:f1ca::/48,FJ,FJ-E,Levuka
+2a0a:6044:f1cb::/48,FJ,FJ-W,Talecake Set
+2a0a:6044:f1cc::/48,FJ,FJ-E,Talaulia
+2a0a:6044:f1cd::/48,FJ,FJ-E,Tai Settlement
+2a0a:6044:f1ce::/48,FJ,FJ-,Suvavou Village
+2a0a:6044:f1cf::/48,FJ,FJ-C,Suvalailai
+2a0a:6044:f1d0::/48,FJ,FJ-R,Sumi
+2a0a:6044:f1d1::/48,FJ,FJ-,Soliyaga
+2a0a:6044:f1d2::/48,KI,KI-,Tarawa
+2a0a:6044:f1d3::/48,KI,KI-,Betio Village
+2a0a:6044:f1d4::/48,KI,KI-,Bikenibeu Village
+2a0a:6044:f1d5::/48,KI,KI-,Teaoraereke Village
+2a0a:6044:f1d6::/48,KI,KI-,Bairiki Village
+2a0a:6044:f1d7::/48,KI,KI-,Eita Village
+2a0a:6044:f1d8::/48,KI,KI-,Bonriki Village
+2a0a:6044:f1d9::/48,KI,KI-,Temaiku Village
+2a0a:6044:f1da::/48,KI,KI-,Tabwakea Village
+2a0a:6044:f1db::/48,KI,KI-,Makin Village
+2a0a:6044:f1dc::/48,KI,KI-,London Village
+2a0a:6044:f1dd::/48,KI,KI-,Banraeaba Village
+2a0a:6044:f1de::/48,KI,KI-,Nawerewere Village
+2a0a:6044:f1df::/48,KI,KI-,Ambo Village
+2a0a:6044:f1e0::/48,KI,KI-,Buota Village
+2a0a:6044:f1e1::/48,MH,MH-MAJ,Majuro
+2a0a:6044:f1e2::/48,MH,MH-KWA,Ebaye
+2a0a:6044:f1e3::/48,MH,MH-ARN,Arno
+2a0a:6044:f1e4::/48,MH,MH-JAL,Jabor
+2a0a:6044:f1e5::/48,MH,MH-WTJ,Wotje
+2a0a:6044:f1e6::/48,MH,MH-MIL,Mili
+2a0a:6044:f1e7::/48,MH,MH-NMK,Namdrik
+2a0a:6044:f1e8::/48,MH,MH-EBO,Ebon
+2a0a:6044:f1e9::/48,MH,MH-KIL,Kili
+2a0a:6044:f1ea::/48,MH,MH-LIK,Likiep
+2a0a:6044:f1eb::/48,MH,MH-ALK,Ailuk
+2a0a:6044:f1ec::/48,MH,MH-UJA,Ujae
+2a0a:6044:f1ed::/48,MH,MH-AUR,Aur
+2a0a:6044:f1ee::/48,MH,MH-UTI,Utrik
+2a0a:6044:f1ef::/48,MH,MH-LAE,Lae
+2a0a:6044:f1f0::/48,NR,NR-,Arijejen
+2a0a:6044:f1f1::/48,NR,NR-,Denigomodu
+2a0a:6044:f1f2::/48,NR,NR-11,Menen
+2a0a:6044:f1f3::/48,NR,NR-14,Yaren District
+2a0a:6044:f1f4::/48,NR,NR-6,Boe
+2a0a:6044:f1f5::/48,NR,NR-5,Baitsi District
+2a0a:6044:f1f6::/48,NR,NR-12,Nibok
+2a0a:6044:f1f7::/48,NR,NR-2,Anabar
+2a0a:6044:f1f8::/48,NR,NR-12,Uaboe
+2a0a:6044:f1f9::/48,NR,NR-10,Ijuw
+2a0a:6044:f1fa::/48,NR,NR-1,Yangor
+2a0a:6044:f1fb::/48,NR,NR-3,Ronave
+2a0a:6044:f1fc::/48,NR,NR-9,Arubo
+2a0a:6044:f1fd::/48,NR,NR-4,Anibare
+2a0a:6044:f1fe::/48,NR,NR-7,Arenibek
+2a0a:6044:f1ff::/48,NZ,NZ-AUK,Auckland
+2a0a:6044:f200::/48,NZ,NZ-WGN,Wellington
+2a0a:6044:f201::/48,NZ,NZ-CAN,Christchurch
+2a0a:6044:f202::/48,NZ,NZ-AUK,Manukau
+2a0a:6044:f203::/48,NZ,NZ-AUK,North Shore
+2a0a:6044:f204::/48,NZ,NZ-WKO,Hamilton
+2a0a:6044:f205::/48,NZ,NZ-BOP,Tauranga
+2a0a:6044:f206::/48,NZ,NZ-OTA,Dunedin
+2a0a:6044:f207::/48,NZ,NZ-WGN,Lower Hutt
+2a0a:6044:f208::/48,NZ,NZ-HKB,Hastings
+2a0a:6044:f209::/48,NZ,NZ-MWT,Palmerston North
+2a0a:6044:f20a::/48,NZ,NZ-TKI,New Plymouth
+2a0a:6044:f20b::/48,NZ,NZ-HKB,Napier City
+2a0a:6044:f20c::/48,NZ,NZ-BOP,Rotorua
+2a0a:6044:f20d::/48,NZ,NZ-WGN,Porirua
+2a0a:6044:f20e::/48,NU,NU-,Alofi
+2a0a:6044:f20f::/48,NU,NU-,Hakupu
+2a0a:6044:f210::/48,NU,NU-,Avatele
+2a0a:6044:f211::/48,NU,NU-,Mutalau
+2a0a:6044:f212::/48,NU,NU-,Tuapa Village
+2a0a:6044:f213::/48,NU,NU-,Lakepa
+2a0a:6044:f214::/48,NU,NU-,Makefu Village
+2a0a:6044:f215::/48,NU,NU-,Liku Village
+2a0a:6044:f216::/48,NU,NU-,Hikutivake
+2a0a:6044:f217::/48,NU,NU-,Fatiau
+2a0a:6044:f218::/48,NU,NU-,Mamakula
+2a0a:6044:f219::/48,NU,NU-,Vili
+2a0a:6044:f21a::/48,NU,NU-,Vahavaha
+2a0a:6044:f21b::/48,NU,NU-,Toi
+2a0a:6044:f21c::/48,NU,NU-,Taoli
+2a0a:6044:f21d::/48,NF,NF-,Kingston
+2a0a:6044:f21e::/48,NF,NF-,Cascade
+2a0a:6044:f21f::/48,NF,NF-,Longridge Station
+2a0a:6044:f220::/48,NF,NF-,Burnt Pine
+2a0a:6044:f221::/48,PW,PW-150,Koror
+2a0a:6044:f222::/48,PW,PW-150,Koror Town
+2a0a:6044:f223::/48,PW,PW-350,Kloulklubed
+2a0a:6044:f224::/48,PW,PW-214,Ulimang
+2a0a:6044:f225::/48,PW,PW-218,Mengellang
+2a0a:6044:f226::/48,PW,PW-10,Angaur
+2a0a:6044:f227::/48,PW,PW-226,Ngchesar Hamlet
+2a0a:6044:f228::/48,PW,PW-212,Melekeok Village
+2a0a:6044:f229::/48,PW,PW-2,Ngchemiangel
+2a0a:6044:f22a::/48,PW,PW-228,Ngerkeai
+2a0a:6044:f22b::/48,PW,PW-222,Ngardmau
+2a0a:6044:f22c::/48,PW,PW-100,Kayangel
+2a0a:6044:f22d::/48,PW,PW-10,Angaur State
+2a0a:6044:f22e::/48,PW,PW-227,Imeong Hamlet
+2a0a:6044:f22f::/48,PW,PW-4,Ngetkib
+2a0a:6044:f230::/48,PG,PG-,Port Moresby
+2a0a:6044:f231::/48,PG,PG-MPL,Lae
+2a0a:6044:f232::/48,PG,PG-NSB,Arawa
+2a0a:6044:f233::/48,PG,PG-WHM,Mt Hagen
+2a0a:6044:f234::/48,PG,PG-NPP,Popondetta
+2a0a:6044:f235::/48,PG,PG-MPM,Madang
+2a0a:6044:f236::/48,PG,PG-EBR,Kokopo
+2a0a:6044:f237::/48,PG,PG-SHM,Mendi
+2a0a:6044:f238::/48,PG,PG-WBK,Kimbe
+2a0a:6044:f239::/48,PG,PG-EHG,Goroka
+2a0a:6044:f23a::/48,PG,PG-,Wewak
+2a0a:6044:f23b::/48,PG,PG-MPL,Bulolo
+2a0a:6044:f23c::/48,PG,PG-,Daru
+2a0a:6044:f23d::/48,PG,PG-MPL,Wau
+2a0a:6044:f23e::/48,PG,PG-,Kavieng
+2a0a:6044:f23f::/48,WS,WS-TU,Apia
+2a0a:6044:f240::/48,WS,WS-,Asau
+2a0a:6044:f241::/48,WS,WS-,Mulifanua
+2a0a:6044:f242::/48,WS,WS-,Faleula
+2a0a:6044:f243::/48,WS,WS-TU,Siusega
+2a0a:6044:f244::/48,WS,WS-,Malie
+2a0a:6044:f245::/48,WS,WS-,Fasito‘outa
+2a0a:6044:f246::/48,WS,WS-,Vaiusu
+2a0a:6044:f247::/48,WS,WS-,Afega
+2a0a:6044:f248::/48,WS,WS-AA,Nofoali‘i
+2a0a:6044:f249::/48,WS,WS-AT,Solosolo
+2a0a:6044:f24a::/48,WS,WS-TU,Vailima
+2a0a:6044:f24b::/48,WS,WS-AA,Leulumoega
+2a0a:6044:f24c::/48,WS,WS-AA,Satapuala
+2a0a:6044:f24d::/48,WS,WS-AT,Falefa
+2a0a:6044:f24e::/48,SB,SB-CT,Honiara
+2a0a:6044:f24f::/48,SB,SB-GU,Malango
+2a0a:6044:f250::/48,SB,SB-ML,Auki
+2a0a:6044:f251::/48,SB,SB-WE,Gizo
+2a0a:6044:f252::/48,SB,SB-MK,Kirakira
+2a0a:6044:f253::/48,SB,SB-IS,Buala
+2a0a:6044:f254::/48,SB,SB-CE,Tulagi
+2a0a:6044:f255::/48,SB,SB-TE,Lata
+2a0a:6044:f256::/48,SB,SB-MK,Bagharai
+2a0a:6044:f257::/48,SB,SB-TE,Avita
+2a0a:6044:f258::/48,SB,SB-MK,Asimaenioha
+2a0a:6044:f259::/48,SB,SB-MK,Arohane
+2a0a:6044:f25a::/48,SB,SB-MK,Apurahe
+2a0a:6044:f25b::/48,SB,SB-MK,Apaora
+2a0a:6044:f25c::/48,SB,SB-MK,Apaone Village
+2a0a:6044:f25d::/48,TK,TK-,Atafu
+2a0a:6044:f25e::/48,TK,TK-,Nukunonu
+2a0a:6044:f25f::/48,TK,TK-,Fale old settlement
+2a0a:6044:f260::/48,TK,TK-,Fenua Fala New Settlement
+2a0a:6044:f261::/48,TK,TK-,Motuhaga
+2a0a:6044:f262::/48,TO,TO-4,Nuku'alofa
+2a0a:6044:f263::/48,TO,TO-4,Lapaha
+2a0a:6044:f264::/48,TO,TO-5,Neiafu
+2a0a:6044:f265::/48,TO,TO-4,Haveluloto
+2a0a:6044:f266::/48,TO,TO-4,Tatakamotonga
+2a0a:6044:f267::/48,TO,TO-4,Vaini
+2a0a:6044:f268::/48,TO,TO-4,Houma
+2a0a:6044:f269::/48,TO,TO-2,Fangale’ounga
+2a0a:6044:f26a::/48,TO,TO-2,Pangai
+2a0a:6044:f26b::/48,TO,TO-1,‘Ohonua
+2a0a:6044:f26c::/48,TO,TO-4,Kolonga
+2a0a:6044:f26d::/48,TO,TO-3,Hihifo
+2a0a:6044:f26e::/48,TO,TO-4,Niutoua
+2a0a:6044:f26f::/48,TO,TO-4,Malapo
+2a0a:6044:f270::/48,TO,TO-4,Holonga
+2a0a:6044:f271::/48,TV,TV-,Funafuti
+2a0a:6044:f272::/48,TV,TV-,Alapi Village
+2a0a:6044:f273::/48,TV,TV-,Fakaifou Village
+2a0a:6044:f274::/48,TV,TV-,Senala Village
+2a0a:6044:f275::/48,TV,TV-,Savave Village
+2a0a:6044:f276::/48,TV,TV-,Teone Village
+2a0a:6044:f277::/48,TV,TV-,Vaiaku Village
+2a0a:6044:f278::/48,TV,TV-,Motufoua School
+2a0a:6044:f279::/48,TV,TV-,Teava Village
+2a0a:6044:f27a::/48,TV,TV-,Tanrake Village
+2a0a:6044:f27b::/48,TV,TV-,Lofeagai Village
+2a0a:6044:f27c::/48,TV,TV-,Tekavatoetoe Village
+2a0a:6044:f27d::/48,TV,TV-,Tumaseu Village
+2a0a:6044:f27e::/48,TV,TV-,Tokelau Village
+2a0a:6044:f27f::/48,TV,TV-,Toga Village
+2a0a:6044:f280::/48,VU,VU-SEE,Port Vila
+2a0a:6044:f281::/48,VU,VU-SAM,Luganville
+2a0a:6044:f282::/48,VU,VU-MAP,Norsup
+2a0a:6044:f283::/48,VU,VU-SAM,Port-Olry
+2a0a:6044:f284::/48,VU,VU-TAE,Isangel
+2a0a:6044:f285::/48,VU,VU-TOB,Sola
+2a0a:6044:f286::/48,VU,VU-MAP,Lakatoro
+2a0a:6044:f287::/48,VU,VU-TAE,Yoknaéka
+2a0a:6044:f288::/48,VU,VU-TAE,Imnalkaip
+2a0a:6044:f289::/48,VU,VU-TAE,Etap
+2a0a:6044:f28a::/48,VU,VU-TAE,Yétakapé
+2a0a:6044:f28b::/48,VU,VU-TAE,Yérou
+2a0a:6044:f28c::/48,VU,VU-MAP,Yéno
+2a0a:6044:f28d::/48,VU,VU-,Yémamoso
+2a0a:6044:f28e::/48,VU,VU-MAP,Yélowouwou
+2a0a:6044:f28f::/48,OM,OM-MA,Muscat
+2a0a:6044:f290::/48,OM,OM-MA,Seeb
+2a0a:6044:f291::/48,OM,OM-MA,Bawshar
+2a0a:6044:f292::/48,OM,OM-ZA,Ibri
+2a0a:6044:f293::/48,OM,OM-ZU,Salalah
+2a0a:6044:f294::/48,OM,OM-,Saham
+2a0a:6044:f295::/48,OM,OM-BJ,Rustaq
+2a0a:6044:f296::/48,OM,OM-BS,Sohar
+2a0a:6044:f297::/48,OM,OM-BS,As Suwayq
+2a0a:6044:f298::/48,OM,OM-BJ,Barkā’
+2a0a:6044:f299::/48,OM,OM-BU,Buraimi
+2a0a:6044:f29a::/48,OM,OM-DA,Nizwá
+2a0a:6044:f29b::/48,OM,OM-,Sur
+2a0a:6044:f29c::/48,OM,OM-DA,Bahlā’
+2a0a:6044:f29d::/48,OM,OM-BS,Al Khābūrah
+2a0a:6044:f29e::/48,PK,PK-SD,Karachi
+2a0a:6044:f29f::/48,PK,PK-PB,Lahore
+2a0a:6044:f2a0::/48,PK,PK-PB,Faisalabad
+2a0a:6044:f2a1::/48,PK,PK-PB,Rawalpindi
+2a0a:6044:f2a2::/48,PK,PK-PB,Multan
+2a0a:6044:f2a3::/48,PK,PK-SD,Hyderābād
+2a0a:6044:f2a4::/48,PK,PK-PB,Gujranwala
+2a0a:6044:f2a5::/48,PK,PK-KP,Peshawar
+2a0a:6044:f2a6::/48,PK,PK-PB,Rahim Yar Khan
+2a0a:6044:f2a7::/48,PK,PK-BA,Quetta
+2a0a:6044:f2a8::/48,PK,PK-JK,Muzaffarabad
+2a0a:6044:f2a9::/48,PK,PK-KP,Battagram
+2a0a:6044:f2aa::/48,PK,PK-JK,Kotli
+2a0a:6044:f2ab::/48,PK,PK-IS,Islamabad
+2a0a:6044:f2ac::/48,PK,PK-PB,Bahawalpur
+2a0a:6044:f2ad::/48,PH,PH-0,Quezon City
+2a0a:6044:f2ae::/48,PH,PH-11,Davao City
+2a0a:6044:f2af::/48,PH,PH-0,Manila
+2a0a:6044:f2b0::/48,PH,PH-0,Caloocan City
+2a0a:6044:f2b1::/48,PH,PH-14,Budta
+2a0a:6044:f2b2::/48,PH,PH-12,Malingao
+2a0a:6044:f2b3::/48,PH,PH-7,Cebu City
+2a0a:6044:f2b4::/48,PH,PH-12,General Santos
+2a0a:6044:f2b5::/48,PH,PH-0,Paranaque City
+2a0a:6044:f2b6::/48,PH,PH-0,Taguig
+2a0a:6044:f2b7::/48,PH,PH-0,Pasig
+2a0a:6044:f2b8::/48,PH,PH-0,Las Piñas
+2a0a:6044:f2b9::/48,PH,PH-40,Antipolo City
+2a0a:6044:f2ba::/48,PH,PH-40,Calamba
+2a0a:6044:f2bb::/48,PH,PH-0,Makati City
+2a0a:6044:f2bc::/48,QA,QA-DA,Doha
+2a0a:6044:f2bd::/48,QA,QA-RA,Al Rayyan
+2a0a:6044:f2be::/48,QA,QA-US,Umm Şalāl Muḩammad
+2a0a:6044:f2bf::/48,QA,QA-WA,Al Wakrah
+2a0a:6044:f2c0::/48,QA,QA-KH,Al Khor
+2a0a:6044:f2c1::/48,QA,QA-SH,Ash Shīḩānīyah
+2a0a:6044:f2c2::/48,QA,QA-SH,Dukhān
+2a0a:6044:f2c3::/48,QA,QA-WA,Musay‘īd
+2a0a:6044:f2c4::/48,QA,QA-MS,Madīnat ash Shamāl
+2a0a:6044:f2c5::/48,QA,QA-WA,Al Wukayr
+2a0a:6044:f2c6::/48,QA,QA-,Ar Ruways
+2a0a:6044:f2c7::/48,QA,QA-SH,Umm Bāb
+2a0a:6044:f2c8::/48,QA,QA-KH,Al Ghuwayrīyah
+2a0a:6044:f2c9::/48,QA,QA-SH,Al Jumaylīyah
+2a0a:6044:f2ca::/48,QA,QA-,Fuwayriţ
+2a0a:6044:f2cb::/48,SA,SA-2,Jeddah
+2a0a:6044:f2cc::/48,SA,SA-1,Riyadh
+2a0a:6044:f2cd::/48,SA,SA-2,Makkah
+2a0a:6044:f2ce::/48,SA,SA-3,Medina
+2a0a:6044:f2cf::/48,SA,SA-4,Dammam
+2a0a:6044:f2d0::/48,SA,SA-3,Sulţānah
+2a0a:6044:f2d1::/48,SA,SA-5,Buraidah
+2a0a:6044:f2d2::/48,SA,SA-2,Ta'if
+2a0a:6044:f2d3::/48,SA,SA-7,Tabuk
+2a0a:6044:f2d4::/48,SA,SA-6,Ha'il
+2a0a:6044:f2d5::/48,SA,SA-10,Najrān
+2a0a:6044:f2d6::/48,SA,SA-1,Al Kharj
+2a0a:6044:f2d7::/48,SA,SA-14,Khamis Mushait
+2a0a:6044:f2d8::/48,SA,SA-4,Al Hufūf
+2a0a:6044:f2d9::/48,SA,SA-4,Al Mubarraz
+2a0a:6044:f2da::/48,SG,SG-,Singapore
+2a0a:6044:f2db::/48,SG,SG-,Jurong Town
+2a0a:6044:f2dc::/48,SG,SG-,Woodlands
+2a0a:6044:f2dd::/48,SG,SG-,Punggol
+2a0a:6044:f2de::/48,SG,SG-,Kampong Pasir Ris
+2a0a:6044:f2df::/48,SG,SG-,Geylang
+2a0a:6044:f2e0::/48,SG,SG-,Queenstown Estate
+2a0a:6044:f2e1::/48,SG,SG-,Marine Parade
+2a0a:6044:f2e2::/48,SG,SG-,Seletar
+2a0a:6044:f2e3::/48,SG,SG-,Tanjong Pagar
+2a0a:6044:f2e4::/48,SG,SG-,Yio Chu Kang Estate
+2a0a:6044:f2e5::/48,SG,SG-,Yio Chu Kang
+2a0a:6044:f2e6::/48,SG,SG-,Yew Tee
+2a0a:6044:f2e7::/48,SG,SG-,Yan Kit
+2a0a:6044:f2e8::/48,SG,SG-,Woollerton Park
+2a0a:6044:f2e9::/48,KR,KR-11,Seoul
+2a0a:6044:f2ea::/48,KR,KR-26,Busan
+2a0a:6044:f2eb::/48,KR,KR-28,Incheon
+2a0a:6044:f2ec::/48,KR,KR-27,Daegu
+2a0a:6044:f2ed::/48,KR,KR-29,Gwangju
+2a0a:6044:f2ee::/48,KR,KR-30,Daejeon
+2a0a:6044:f2ef::/48,KR,KR-41,Suwon
+2a0a:6044:f2f0::/48,KR,KR-41,Goyang-si
+2a0a:6044:f2f1::/48,KR,KR-41,Seongnam-si
+2a0a:6044:f2f2::/48,KR,KR-48,Changwon
+2a0a:6044:f2f3::/48,KR,KR-31,Ulsan
+2a0a:6044:f2f4::/48,KR,KR-41,Bucheon-si
+2a0a:6044:f2f5::/48,KR,KR-43,Cheongju-si
+2a0a:6044:f2f6::/48,KR,KR-41,Ansan-si
+2a0a:6044:f2f7::/48,KR,KR-44,Cheonan
+2a0a:6044:f2f8::/48,LK,LK-1,Colombo
+2a0a:6044:f2f9::/48,LK,LK-1,Dehiwala-Mount Lavinia
+2a0a:6044:f2fa::/48,LK,LK-1,Maharagama
+2a0a:6044:f2fb::/48,LK,LK-4,Jaffna
+2a0a:6044:f2fc::/48,LK,LK-1,Moratuwa
+2a0a:6044:f2fd::/48,LK,LK-1,Negombo
+2a0a:6044:f2fe::/48,LK,LK-1,Pita Kotte
+2a0a:6044:f2ff::/48,LK,LK-1,Sri Jayewardenepura Kotte
+2a0a:6044:f300::/48,LK,LK-2,Kandy
+2a0a:6044:f301::/48,LK,LK-5,Trincomalee
+2a0a:6044:f302::/48,LK,LK-5,Kalmunai
+2a0a:6044:f303::/48,LK,LK-3,Galle
+2a0a:6044:f304::/48,LK,LK-4,Point Pedro
+2a0a:6044:f305::/48,LK,LK-5,Batticaloa
+2a0a:6044:f306::/48,LK,LK-1,Katunayaka
+2a0a:6044:f307::/48,TW,TW-,Taipei
+2a0a:6044:f308::/48,TW,TW-,Kaohsiung City
+2a0a:6044:f309::/48,TW,TW-,Taichung
+2a0a:6044:f30a::/48,TW,TW-,Tainan City
+2a0a:6044:f30b::/48,TW,TW-,Banqiao
+2a0a:6044:f30c::/48,TW,TW-,Hsinchu
+2a0a:6044:f30d::/48,TW,TW-,Taoyuan
+2a0a:6044:f30e::/48,TW,TW-,Keelung
+2a0a:6044:f30f::/48,TW,TW-,Hualien City
+2a0a:6044:f310::/48,TW,TW-,Neihu District
+2a0a:6044:f311::/48,TW,TW-,Yongkang District
+2a0a:6044:f312::/48,TW,TW-,Bade District
+2a0a:6044:f313::/48,TW,TW-,Xizhi District
+2a0a:6044:f314::/48,TW,TW-,Shulin District
+2a0a:6044:f315::/48,TW,TW-,Yuanlin
+2a0a:6044:f316::/48,TJ,TJ-DU,Dushanbe
+2a0a:6044:f317::/48,TJ,TJ-SU,Isfara
+2a0a:6044:f318::/48,TJ,TJ-SU,Istaravshan
+2a0a:6044:f319::/48,TJ,TJ-KT,Kŭlob
+2a0a:6044:f31a::/48,TJ,TJ-SU,Konibodom
+2a0a:6044:f31b::/48,TJ,TJ-SU,Khujand
+2a0a:6044:f31c::/48,TJ,TJ-KT,Kurgan-Tyube
+2a0a:6044:f31d::/48,TJ,TJ-SU,Qayroqqum
+2a0a:6044:f31e::/48,TJ,TJ-RA,Vahdat
+2a0a:6044:f31f::/48,TJ,TJ-RA,Tursunzoda
+2a0a:6044:f320::/48,TJ,TJ-SU,Buston
+2a0a:6044:f321::/48,TJ,TJ-SU,Panjakent
+2a0a:6044:f322::/48,TJ,TJ-GB,Khorugh
+2a0a:6044:f323::/48,TJ,TJ-GB,Ishqoshim
+2a0a:6044:f324::/48,TJ,TJ-RA,Hisor
+2a0a:6044:f325::/48,TH,TH-10,Bangkok
+2a0a:6044:f326::/48,TH,TH-,Mueang Samut Prakan
+2a0a:6044:f327::/48,TH,TH-12,Nonthaburi
+2a0a:6044:f328::/48,TH,TH-20,Chon Buri
+2a0a:6044:f329::/48,TH,TH-90,Hat Yai
+2a0a:6044:f32a::/48,TH,TH-12,Pak Kret
+2a0a:6044:f32b::/48,TH,TH-20,Si Racha
+2a0a:6044:f32c::/48,TH,TH-11,Amphoe Phra Pradaeng
+2a0a:6044:f32d::/48,TH,TH-52,Lampang
+2a0a:6044:f32e::/48,TH,TH-84,Surat Thani
+2a0a:6044:f32f::/48,TH,TH-41,Udon Thani
+2a0a:6044:f330::/48,TH,TH-50,Chiang Mai
+2a0a:6044:f331::/48,TH,TH-30,Nakhon Ratchasima
+2a0a:6044:f332::/48,TH,TH-34,Ubon Ratchathani
+2a0a:6044:f333::/48,TH,TH-10,Phasi Charoen
+2a0a:6044:f334::/48,TL,TL-DI,Dili
+2a0a:6044:f335::/48,TL,TL-BO,Maliana
+2a0a:6044:f336::/48,TL,TL-CO,Suai
+2a0a:6044:f337::/48,TL,TL-LI,Likisá
+2a0a:6044:f338::/48,TL,TL-AL,Aileu
+2a0a:6044:f339::/48,TL,TL-LA,Lospalos
+2a0a:6044:f33a::/48,TL,TL-LI,Maubara
+2a0a:6044:f33b::/48,TL,TL-BA,Venilale
+2a0a:6044:f33c::/48,TL,TL-BA,Baucau
+2a0a:6044:f33d::/48,TL,TL-AN,Ainaro
+2a0a:6044:f33e::/48,TL,TL-ER,Gleno
+2a0a:6044:f33f::/48,TL,TL-MF,Same
+2a0a:6044:f340::/48,TL,TL-VI,Viqueque
+2a0a:6044:f341::/48,TL,TL-OE,Pante Makasar
+2a0a:6044:f342::/48,TL,TL-DI,Metinaro
+2a0a:6044:f343::/48,AE,AE-DU,Dubai City
+2a0a:6044:f344::/48,AE,AE-AZ,Abu Dhabi
+2a0a:6044:f345::/48,AE,AE-SH,Sharjah
+2a0a:6044:f346::/48,AE,AE-AZ,Al Ain City
+2a0a:6044:f347::/48,AE,AE-AJ,Ajman
+2a0a:6044:f348::/48,AE,AE-RK,Ras al-Khaimah
+2a0a:6044:f349::/48,AE,AE-AZ,Musaffah City
+2a0a:6044:f34a::/48,AE,AE-FU,Al Fujairah City
+2a0a:6044:f34b::/48,AE,AE-AZ,Khalifah A City
+2a0a:6044:f34c::/48,AE,AE-FU,Reef Al Fujairah City
+2a0a:6044:f34d::/48,AE,AE-AZ,Bani Yas City
+2a0a:6044:f34e::/48,AE,AE-AZ,Zayed City
+2a0a:6044:f34f::/48,AE,AE-UQ,Umm al-Quwain
+2a0a:6044:f350::/48,AE,AE-AZ,Al Shamkhah City
+2a0a:6044:f351::/48,AE,AE-SH,Khor'fakkan
+2a0a:6044:f352::/48,UZ,UZ-TK,Tashkent
+2a0a:6044:f353::/48,UZ,UZ-NG,Namangan
+2a0a:6044:f354::/48,UZ,UZ-SA,Samarkand
+2a0a:6044:f355::/48,UZ,UZ-AN,Andijan
+2a0a:6044:f356::/48,UZ,UZ-QR,Nukus
+2a0a:6044:f357::/48,UZ,UZ-FA,Fergana
+2a0a:6044:f358::/48,UZ,UZ-BU,Bukhara
+2a0a:6044:f359::/48,UZ,UZ-QA,Qarshi
+2a0a:6044:f35a::/48,UZ,UZ-FA,Kokand
+2a0a:6044:f35b::/48,UZ,UZ-FA,Margilan
+2a0a:6044:f35c::/48,UZ,UZ-TO,Angren
+2a0a:6044:f35d::/48,UZ,UZ-SU,Termez
+2a0a:6044:f35e::/48,UZ,UZ-JI,Jizzakh
+2a0a:6044:f35f::/48,UZ,UZ-TO,Chirchiq
+2a0a:6044:f360::/48,UZ,UZ-XO,Urgench
+2a0a:6044:f361::/48,VN,VN-SG,Ho Chi Minh City
+2a0a:6044:f362::/48,VN,VN-HN,Hanoi
+2a0a:6044:f363::/48,VN,VN-DN,Da Nang
+2a0a:6044:f364::/48,VN,VN-HP,Haiphong
+2a0a:6044:f365::/48,VN,VN-39,Biên Hòa
+2a0a:6044:f366::/48,VN,VN-CT,Can Tho
+2a0a:6044:f367::/48,VN,VN-57,Thuận An
+2a0a:6044:f368::/48,VN,VN-57,Dĩ An
+2a0a:6044:f369::/48,VN,VN-26,Huế
+2a0a:6044:f36a::/48,VN,VN-43,Vũng Tàu
+2a0a:6044:f36b::/48,VN,VN-34,Nha Trang
+2a0a:6044:f36c::/48,VN,VN-44,Long Xuyen
+2a0a:6044:f36d::/48,VN,VN-69,Thái Nguyên
+2a0a:6044:f36e::/48,VN,VN-34,Ninh Hòa
+2a0a:6044:f36f::/48,VN,VN-47,Rach Gia
+2a0a:6044:f370::/48,AL,AL-11,Tirana
+2a0a:6044:f371::/48,AL,AL-2,Durrës
+2a0a:6044:f372::/48,AL,AL-3,Elbasan
+2a0a:6044:f373::/48,AL,AL-12,Vlorë
+2a0a:6044:f374::/48,AL,AL-10,Shkodër
+2a0a:6044:f375::/48,AL,AL-6,Pogradec
+2a0a:6044:f376::/48,AL,AL-4,Fier-Çifçi
+2a0a:6044:f377::/48,AL,AL-6,Korçë
+2a0a:6044:f378::/48,AL,AL-4,Fier
+2a0a:6044:f379::/48,AL,AL-1,Berat
+2a0a:6044:f37a::/48,AL,AL-4,Lushnjë
+2a0a:6044:f37b::/48,AL,AL-11,Kavajë
+2a0a:6044:f37c::/48,AL,AL-8,Laç
+2a0a:6044:f37d::/48,AL,AL-5,Gjirokastër
+2a0a:6044:f37e::/48,AL,AL-4,Patos Fshat
+2a0a:6044:f37f::/48,AD,AD-7,Andorra la Vella
+2a0a:6044:f380::/48,AD,AD-7,Escaldes-Engordany
+2a0a:6044:f381::/48,AD,AD-3,Encamp
+2a0a:6044:f382::/48,AD,AD-6,Sant Julià de Lòria
+2a0a:6044:f383::/48,AD,AD-4,La Massana
+2a0a:6044:f384::/48,AD,AD-2,Canillo
+2a0a:6044:f385::/48,AD,AD-5,Ordino
+2a0a:6044:f386::/48,AD,AD-3,Pas de la Casa
+2a0a:6044:f387::/48,AD,AD-4,Arinsal
+2a0a:6044:f388::/48,AD,AD-3,El Tarter
+2a0a:6044:f389::/48,AD,AD-3,Soldeu
+2a0a:6044:f38a::/48,AD,AD-4,l'Aldosa
+2a0a:6044:f38b::/48,AD,AD-4,Puiol del Piu
+2a0a:6044:f38c::/48,AD,AD-2,l'Aldosa de canillo
+2a0a:6044:f38d::/48,AD,AD-6,La Margineda
+2a0a:6044:f38e::/48,AI,AI-,The Valley
+2a0a:6044:f38f::/48,AI,AI-,Blowing Point Village
+2a0a:6044:f390::/48,AI,AI-,Sandy Ground Village
+2a0a:6044:f391::/48,AI,AI-,White Hill
+2a0a:6044:f392::/48,AI,AI-,West End Village
+2a0a:6044:f393::/48,AI,AI-,Welches Hill
+2a0a:6044:f394::/48,AI,AI-,Wattices
+2a0a:6044:f395::/48,AI,AI-,The Quarter
+2a0a:6044:f396::/48,AI,AI-,The Fountain
+2a0a:6044:f397::/48,AI,AI-,The Forest
+2a0a:6044:f398::/48,AI,AI-,Farrington
+2a0a:6044:f399::/48,AI,AI-,The Copse
+2a0a:6044:f39a::/48,AI,AI-,Stoney Ground
+2a0a:6044:f39b::/48,AI,AI-,South Hill Village
+2a0a:6044:f39c::/48,AI,AI-,Shoal Bay Village
+2a0a:6044:f39d::/48,AT,AT-9,Vienna
+2a0a:6044:f39e::/48,AT,AT-6,Graz
+2a0a:6044:f39f::/48,AT,AT-4,Linz
+2a0a:6044:f3a0::/48,AT,AT-9,Favoriten
+2a0a:6044:f3a1::/48,AT,AT-9,Donaustadt
+2a0a:6044:f3a2::/48,AT,AT-9,Floridsdorf
+2a0a:6044:f3a3::/48,AT,AT-5,Salzburg
+2a0a:6044:f3a4::/48,AT,AT-7,Innsbruck
+2a0a:6044:f3a5::/48,AT,AT-9,Ottakring
+2a0a:6044:f3a6::/48,AT,AT-9,Simmering
+2a0a:6044:f3a7::/48,AT,AT-2,Klagenfurt
+2a0a:6044:f3a8::/48,AT,AT-9,Meidling
+2a0a:6044:f3a9::/48,AT,AT-2,Villach
+2a0a:6044:f3aa::/48,AT,AT-9,Hernals
+2a0a:6044:f3ab::/48,AT,AT-9,Hietzing
+2a0a:6044:f3ac::/48,BY,BY-HM,Minsk
+2a0a:6044:f3ad::/48,BY,BY-HO,Homyel
+2a0a:6044:f3ae::/48,BY,BY-HR,Hrodna
+2a0a:6044:f3af::/48,BY,BY-MA,Mogilev
+2a0a:6044:f3b0::/48,BY,BY-BR,Brest
+2a0a:6044:f3b1::/48,BY,BY-VI,Vitebsk
+2a0a:6044:f3b2::/48,BY,BY-MA,Babruysk
+2a0a:6044:f3b3::/48,BY,BY-BR,Baranovichi
+2a0a:6044:f3b4::/48,BY,BY-MI,Borisov
+2a0a:6044:f3b5::/48,BY,BY-BR,Pinsk
+2a0a:6044:f3b6::/48,BY,BY-VI,Orsha
+2a0a:6044:f3b7::/48,BY,BY-HO,Mazyr
+2a0a:6044:f3b8::/48,BY,BY-VI,Navapolatsk
+2a0a:6044:f3b9::/48,BY,BY-MI,Salihorsk
+2a0a:6044:f3ba::/48,BY,BY-HR,Lida
+2a0a:6044:f3bb::/48,BE,BE-BRU,Brussels
+2a0a:6044:f3bc::/48,BE,BE-VLG,Antwerp
+2a0a:6044:f3bd::/48,BE,BE-VLG,Ghent
+2a0a:6044:f3be::/48,BE,BE-WAL,Charleroi
+2a0a:6044:f3bf::/48,BE,BE-WAL,Liège
+2a0a:6044:f3c0::/48,BE,BE-BRU,Anderlecht
+2a0a:6044:f3c1::/48,BE,BE-BRU,Schaarbeek
+2a0a:6044:f3c2::/48,BE,BE-VLG,Bruges
+2a0a:6044:f3c3::/48,BE,BE-WAL,Namur
+2a0a:6044:f3c4::/48,BE,BE-VLG,Leuven
+2a0a:6044:f3c5::/48,BE,BE-BRU,Molenbeek-Saint-Jean
+2a0a:6044:f3c6::/48,BE,BE-WAL,Mons
+2a0a:6044:f3c7::/48,BE,BE-BRU,Ixelles-Elsene
+2a0a:6044:f3c8::/48,BE,BE-BRU,Uccle
+2a0a:6044:f3c9::/48,BE,BE-VLG,Deurne
+2a0a:6044:f3ca::/48,BM,BM-GC,Saint George
+2a0a:6044:f3cb::/48,BM,BM-HC,Hamilton
+2a0a:6044:f3cc::/48,BM,BM-PB,Stovel Bay
+2a0a:6044:f3cd::/48,BM,BM-SH,Cross Bay
+2a0a:6044:f3ce::/48,BM,BM-WA,Darrell's Wharf Ferry Stop
+2a0a:6044:f3cf::/48,BM,BM-SM,Harrington Hundreds
+2a0a:6044:f3d0::/48,BM,BM-PG,Chelston
+2a0a:6044:f3d1::/48,BM,BM-SG,Cashew City
+2a0a:6044:f3d2::/48,BM,BM-PG,Camden
+2a0a:6044:f3d3::/48,BM,BM-,Bethaven
+2a0a:6044:f3d4::/48,BM,BM-WA,Warwick Camp
+2a0a:6044:f3d5::/48,BM,BM-SG,Tucker’s Town
+2a0a:6044:f3d6::/48,BM,BM-SM,Flatt’s Village
+2a0a:6044:f3d7::/48,BM,BM-HA,Sunnyside
+2a0a:6044:f3d8::/48,BM,BM-SA,Somerset
+2a0a:6044:f3d9::/48,VG,VG-,Road Town
+2a0a:6044:f3da::/48,VG,VG-,East End
+2a0a:6044:f3db::/48,VG,VG-,Creek Village
+2a0a:6044:f3dc::/48,VG,VG-,Wesley Will
+2a0a:6044:f3dd::/48,VG,VG-,Threllfall
+2a0a:6044:f3de::/48,VG,VG-,The Settlement
+2a0a:6044:f3df::/48,VG,VG-,The Mill
+2a0a:6044:f3e0::/48,VG,VG-,Spanish Town
+2a0a:6044:f3e1::/48,VG,VG-,South Sound
+2a0a:6044:f3e2::/48,VG,VG-,Maya Cove
+2a0a:6044:f3e3::/48,VG,VG-,Long Swamp
+2a0a:6044:f3e4::/48,VG,VG-,Little Harbour
+2a0a:6044:f3e5::/48,VG,VG-,Little Carrot Bay
+2a0a:6044:f3e6::/48,VG,VG-,Lettsome Settlement
+2a0a:6044:f3e7::/48,VG,VG-,Leonards
+2a0a:6044:f3e8::/48,BG,BG-22,Sofia
+2a0a:6044:f3e9::/48,BG,BG-16,Plovdiv
+2a0a:6044:f3ea::/48,BG,BG-3,Varna
+2a0a:6044:f3eb::/48,BG,BG-2,Burgas
+2a0a:6044:f3ec::/48,BG,BG-24,Stara Zagora
+2a0a:6044:f3ed::/48,BG,BG-18,Rousse
+2a0a:6044:f3ee::/48,BG,BG-15,Pleven
+2a0a:6044:f3ef::/48,BG,BG-20,Sliven
+2a0a:6044:f3f0::/48,BG,BG-14,Pernik
+2a0a:6044:f3f1::/48,BG,BG-8,Dobrich
+2a0a:6044:f3f2::/48,BG,BG-27,Shumen
+2a0a:6044:f3f3::/48,BG,BG-1,Blagoevgrad
+2a0a:6044:f3f4::/48,BG,BG-26,Haskovo
+2a0a:6044:f3f5::/48,BG,BG-4,Veliko Tarnovo
+2a0a:6044:f3f6::/48,BG,BG-7,Gabrovo
+2a0a:6044:f3f7::/48,KY,KY-,George Town
+2a0a:6044:f3f8::/48,KY,KY-,West Bay
+2a0a:6044:f3f9::/48,KY,KY-,Bodden Town
+2a0a:6044:f3fa::/48,KY,KY-,North Side
+2a0a:6044:f3fb::/48,KY,KY-,East End
+2a0a:6044:f3fc::/48,KY,KY-,Whitehall Estates
+2a0a:6044:f3fd::/48,KY,KY-,West End
+2a0a:6044:f3fe::/48,KY,KY-,Water Ground
+2a0a:6044:f3ff::/48,KY,KY-,Vicksville
+2a0a:6044:f400::/48,KY,KY-,Upper Land
+2a0a:6044:f401::/48,KY,KY-,Tropical Gardens
+2a0a:6044:f402::/48,KY,KY-,Town Hall Crescent
+2a0a:6044:f403::/48,KY,KY-,Tibbetts Turn
+2a0a:6044:f404::/48,KY,KY-,The Moorings
+2a0a:6044:f405::/48,HR,HR-21,Zagreb
+2a0a:6044:f406::/48,HR,HR-,Split
+2a0a:6044:f407::/48,HR,HR-8,Rijeka
+2a0a:6044:f408::/48,HR,HR-14,Osijek
+2a0a:6044:f409::/48,HR,HR-,Zadar
+2a0a:6044:f40a::/48,HR,HR-21,Sesvete
+2a0a:6044:f40b::/48,HR,HR-18,Pula
+2a0a:6044:f40c::/48,HR,HR-12,Slavonski Brod
+2a0a:6044:f40d::/48,HR,HR-4,Karlovac
+2a0a:6044:f40e::/48,HR,HR-21,Donji grad
+2a0a:6044:f40f::/48,HR,HR-5,Varaždin
+2a0a:6044:f410::/48,HR,HR-15,Šibenik
+2a0a:6044:f411::/48,HR,HR-1,Velika Gorica
+2a0a:6044:f412::/48,HR,HR-16,Vinkovci
+2a0a:6044:f413::/48,HR,HR-3,Sisak
+2a0a:6044:f414::/48,CY,CY-1,Nicosia
+2a0a:6044:f415::/48,CY,CY-2,Limassol
+2a0a:6044:f416::/48,CY,CY-3,Larnaca
+2a0a:6044:f417::/48,CY,CY-1,Stróvolos
+2a0a:6044:f418::/48,CY,CY-4,Famagusta
+2a0a:6044:f419::/48,CY,CY-1,Káto Lakatámeia
+2a0a:6044:f41a::/48,CY,CY-5,Paphos
+2a0a:6044:f41b::/48,CY,CY-6,Kyrenia
+2a0a:6044:f41c::/48,CY,CY-1,Mórfou
+2a0a:6044:f41d::/48,CY,CY-2,Kato Polemidia
+2a0a:6044:f41e::/48,CY,CY-3,Aradhippou
+2a0a:6044:f41f::/48,CY,CY-1,Aglantzia
+2a0a:6044:f420::/48,CY,CY-4,Égkomi
+2a0a:6044:f421::/48,CY,CY-4,Protaras
+2a0a:6044:f422::/48,CY,CY-2,Germasogeia
+2a0a:6044:f423::/48,CZ,CZ-10,Prague
+2a0a:6044:f424::/48,CZ,CZ-64,Brno
+2a0a:6044:f425::/48,CZ,CZ-80,Ostrava
+2a0a:6044:f426::/48,CZ,CZ-32,Pilsen
+2a0a:6044:f427::/48,CZ,CZ-51,Liberec
+2a0a:6044:f428::/48,CZ,CZ-71,Olomouc
+2a0a:6044:f429::/48,CZ,CZ-31,České Budějovice
+2a0a:6044:f42a::/48,CZ,CZ-52,Hradec Králové
+2a0a:6044:f42b::/48,CZ,CZ-42,Ústí nad Labem
+2a0a:6044:f42c::/48,CZ,CZ-53,Pardubice
+2a0a:6044:f42d::/48,CZ,CZ-80,Havířov
+2a0a:6044:f42e::/48,CZ,CZ-72,Zlín
+2a0a:6044:f42f::/48,CZ,CZ-42,Most
+2a0a:6044:f430::/48,CZ,CZ-20,Kladno
+2a0a:6044:f431::/48,CZ,CZ-80,Karviná
+2a0a:6044:f432::/48,DK,DK-84,Copenhagen
+2a0a:6044:f433::/48,DK,DK-82,Aarhus
+2a0a:6044:f434::/48,DK,DK-83,Odense
+2a0a:6044:f435::/48,DK,DK-81,Aalborg
+2a0a:6044:f436::/48,DK,DK-84,Frederiksberg
+2a0a:6044:f437::/48,DK,DK-83,Esbjerg
+2a0a:6044:f438::/48,DK,DK-82,Randers
+2a0a:6044:f439::/48,DK,DK-83,Kolding
+2a0a:6044:f43a::/48,DK,DK-82,Horsens
+2a0a:6044:f43b::/48,DK,DK-83,Vejle
+2a0a:6044:f43c::/48,DK,DK-84,Hvidovre
+2a0a:6044:f43d::/48,DK,DK-85,Roskilde
+2a0a:6044:f43e::/48,DK,DK-82,Herning
+2a0a:6044:f43f::/48,DK,DK-82,Silkeborg
+2a0a:6044:f440::/48,DK,DK-84,Hørsholm
+2a0a:6044:f441::/48,EE,EE-37,Tallinn
+2a0a:6044:f442::/48,EE,EE-79,Tartu
+2a0a:6044:f443::/48,EE,EE-45,Narva
+2a0a:6044:f444::/48,EE,EE-68,Pärnu
+2a0a:6044:f445::/48,EE,EE-37,Nõmme
+2a0a:6044:f446::/48,EE,EE-45,Kohtla-Järve
+2a0a:6044:f447::/48,EE,EE-84,Viljandi
+2a0a:6044:f448::/48,EE,EE-37,Maardu
+2a0a:6044:f449::/48,EE,EE-60,Rakvere
+2a0a:6044:f44a::/48,EE,EE-,Kuressaare
+2a0a:6044:f44b::/48,EE,EE-45,Sillamäe
+2a0a:6044:f44c::/48,EE,EE-87,Võru
+2a0a:6044:f44d::/48,EE,EE-68,Tori
+2a0a:6044:f44e::/48,EE,EE-56,Haapsalu
+2a0a:6044:f44f::/48,EE,EE-81,Valga
+2a0a:6044:f450::/48,FO,FO-,Tórshavn
+2a0a:6044:f451::/48,FO,FO-,Klaksvík
+2a0a:6044:f452::/48,FO,FO-,Hoyvík
+2a0a:6044:f453::/48,FO,FO-,Argir
+2a0a:6044:f454::/48,FO,FO-,Fuglafjørður
+2a0a:6044:f455::/48,FO,FO-,Vágur
+2a0a:6044:f456::/48,FO,FO-,Vestmanna
+2a0a:6044:f457::/48,FO,FO-,Við Sjógv
+2a0a:6044:f458::/48,FO,FO-,Sørvágur
+2a0a:6044:f459::/48,FO,FO-,Saltangará
+2a0a:6044:f45a::/48,FO,FO-,Leirvík
+2a0a:6044:f45b::/48,FO,FO-,Miðvágur
+2a0a:6044:f45c::/48,FO,FO-,Strendur
+2a0a:6044:f45d::/48,FO,FO-,Toftir
+2a0a:6044:f45e::/48,FO,FO-,Tvøroyri
+2a0a:6044:f45f::/48,FI,FI-18,Helsinki
+2a0a:6044:f460::/48,FI,FI-18,Espoo
+2a0a:6044:f461::/48,FI,FI-11,Tampere
+2a0a:6044:f462::/48,FI,FI-14,Oulu
+2a0a:6044:f463::/48,FI,FI-19,Turku
+2a0a:6044:f464::/48,FI,FI-18,Vantaa
+2a0a:6044:f465::/48,FI,FI-18,East Helsinki
+2a0a:6044:f466::/48,FI,FI-8,Jyväskylä
+2a0a:6044:f467::/48,FI,FI-15,Kuopio
+2a0a:6044:f468::/48,FI,FI-16,Lahti
+2a0a:6044:f469::/48,FI,FI-17,Pori
+2a0a:6044:f46a::/48,FI,FI-9,Kouvola
+2a0a:6044:f46b::/48,FI,FI-13,Joensuu
+2a0a:6044:f46c::/48,FI,FI-2,Lappeenranta
+2a0a:6044:f46d::/48,FI,FI-6,Hämeenlinna
+2a0a:6044:f46e::/48,FR,FR-IDF,Paris
+2a0a:6044:f46f::/48,FR,FR-PAC,Marseille
+2a0a:6044:f470::/48,FR,FR-ARA,Lyon
+2a0a:6044:f471::/48,FR,FR-OCC,Toulouse
+2a0a:6044:f472::/48,FR,FR-PAC,Nice
+2a0a:6044:f473::/48,FR,FR-PDL,Nantes
+2a0a:6044:f474::/48,FR,FR-IDF,Marne La Vallée
+2a0a:6044:f475::/48,FR,FR-GES,Strasbourg
+2a0a:6044:f476::/48,FR,FR-NAQ,Bordeaux
+2a0a:6044:f477::/48,FR,FR-OCC,Montpellier
+2a0a:6044:f478::/48,FR,FR-NOR,Rouen
+2a0a:6044:f479::/48,FR,FR-HDF,Lille
+2a0a:6044:f47a::/48,FR,FR-BRE,Rennes
+2a0a:6044:f47b::/48,FR,FR-GES,Reims
+2a0a:6044:f47c::/48,FR,FR-NOR,Le Havre
+2a0a:6044:f47d::/48,GF,GF-,Cayenne
+2a0a:6044:f47e::/48,GF,GF-,Matoury
+2a0a:6044:f47f::/48,GF,GF-,Saint-Laurent-du-Maroni
+2a0a:6044:f480::/48,GF,GF-,Kourou
+2a0a:6044:f481::/48,GF,GF-,Rémire-Montjoly
+2a0a:6044:f482::/48,GF,GF-,Macouria
+2a0a:6044:f483::/48,GF,GF-,Mana
+2a0a:6044:f484::/48,GF,GF-,Apatou
+2a0a:6044:f485::/48,GF,GF-,Grand-Santi
+2a0a:6044:f486::/48,GF,GF-,Sinnamary
+2a0a:6044:f487::/48,GF,GF-,Saint-Georges
+2a0a:6044:f488::/48,GF,GF-,Roura
+2a0a:6044:f489::/48,GF,GF-,Iracoubo
+2a0a:6044:f48a::/48,GF,GF-,Camopi
+2a0a:6044:f48b::/48,GF,GF-,Balata-Ouest
+2a0a:6044:f48c::/48,PF,PF-V,Faaa
+2a0a:6044:f48d::/48,PF,PF-V,Papeete
+2a0a:6044:f48e::/48,PF,PF-V,Punaauia
+2a0a:6044:f48f::/48,PF,PF-V,Pirae
+2a0a:6044:f490::/48,PF,PF-V,Mahina
+2a0a:6044:f491::/48,PF,PF-V,Paea
+2a0a:6044:f492::/48,PF,PF-,Papao
+2a0a:6044:f493::/48,PF,PF-V,Arue
+2a0a:6044:f494::/48,PF,PF-V,Afaahiti
+2a0a:6044:f495::/48,PF,PF-,Vaitape
+2a0a:6044:f496::/48,PF,PF-,Otutara
+2a0a:6044:f497::/48,PF,PF-V,Paopao
+2a0a:6044:f498::/48,PF,PF-,Taunoa
+2a0a:6044:f499::/48,PF,PF-,Haapiti
+2a0a:6044:f49a::/48,PF,PF-,Uturoa
+2a0a:6044:f49b::/48,DE,DE-BE,Berlin
+2a0a:6044:f49c::/48,DE,DE-HH,Hamburg
+2a0a:6044:f49d::/48,DE,DE-BY,Munich
+2a0a:6044:f49e::/48,DE,DE-NW,Cologne
+2a0a:6044:f49f::/48,DE,DE-HE,Frankfurt am Main
+2a0a:6044:f4a0::/48,DE,DE-BW,Stuttgart
+2a0a:6044:f4a1::/48,DE,DE-NW,Düsseldorf
+2a0a:6044:f4a2::/48,DE,DE-SN,Großzschocher
+2a0a:6044:f4a3::/48,DE,DE-SN,Kleinzschocher
+2a0a:6044:f4a4::/48,DE,DE-NW,Essen
+2a0a:6044:f4a5::/48,DE,DE-NW,Dortmund
+2a0a:6044:f4a6::/48,DE,DE-SN,Dresden
+2a0a:6044:f4a7::/48,DE,DE-HB,Bremen
+2a0a:6044:f4a8::/48,DE,DE-BY,Nuremberg
+2a0a:6044:f4a9::/48,DE,DE-NI,Hanover
+2a0a:6044:f4aa::/48,GI,GI-,Gibraltar
+2a0a:6044:f4ab::/48,GI,GI-,Waterport
+2a0a:6044:f4ac::/48,GI,GI-,Rosia
+2a0a:6044:f4ad::/48,GI,GI-,Laguna Estate
+2a0a:6044:f4ae::/48,GI,GI-,Catalan Bay
+2a0a:6044:f4af::/48,GR,GR-I,Athens
+2a0a:6044:f4b0::/48,GR,GR-B,Thessaloniki
+2a0a:6044:f4b1::/48,GR,GR-G,Pátrai
+2a0a:6044:f4b2::/48,GR,GR-I,Piraeus
+2a0a:6044:f4b3::/48,GR,GR-E,Larissa
+2a0a:6044:f4b4::/48,GR,GR-I,Peristeri
+2a0a:6044:f4b5::/48,GR,GR-M,Heraklion
+2a0a:6044:f4b6::/48,GR,GR-I,Kallithea
+2a0a:6044:f4b7::/48,GR,GR-I,Acharnes
+2a0a:6044:f4b8::/48,GR,GR-B,Kalamaria
+2a0a:6044:f4b9::/48,GR,GR-I,Nikaia
+2a0a:6044:f4ba::/48,GR,GR-I,Glyfada
+2a0a:6044:f4bb::/48,GR,GR-E,Volos
+2a0a:6044:f4bc::/48,GR,GR-I,Nea Liosia
+2a0a:6044:f4bd::/48,GR,GR-I,Ilioúpoli
+2a0a:6044:f4be::/48,GL,GL-SM,Nuuk
+2a0a:6044:f4bf::/48,GL,GL-QE,Sisimiut
+2a0a:6044:f4c0::/48,GL,GL-QA,Ilulissat
+2a0a:6044:f4c1::/48,GL,GL-KU,Qaqortoq
+2a0a:6044:f4c2::/48,GL,GL-QT,Aasiaat
+2a0a:6044:f4c3::/48,GL,GL-,Maniitsoq
+2a0a:6044:f4c4::/48,GL,GL-,Tasiilaq
+2a0a:6044:f4c5::/48,GL,GL-,Uummannaq
+2a0a:6044:f4c6::/48,GL,GL-KU,Narsaq
+2a0a:6044:f4c7::/48,GL,GL-SM,Paamiut
+2a0a:6044:f4c8::/48,GL,GL-,Nanortalik
+2a0a:6044:f4c9::/48,GL,GL-,Upernavik
+2a0a:6044:f4ca::/48,GL,GL-,Qasigiannguit
+2a0a:6044:f4cb::/48,GL,GL-,Qeqertarsuaq
+2a0a:6044:f4cc::/48,GL,GL-QT,Qeqertarsuaq
+2a0a:6044:f4cd::/48,GP,GP-,Les Abymes
+2a0a:6044:f4ce::/48,GP,GP-,Baie-Mahault
+2a0a:6044:f4cf::/48,GP,GP-,Le Gosier
+2a0a:6044:f4d0::/48,GP,GP-,Petit-Bourg
+2a0a:6044:f4d1::/48,GP,GP-,Sainte-Anne
+2a0a:6044:f4d2::/48,GP,GP-,Le Moule
+2a0a:6044:f4d3::/48,GP,GP-,Sainte-Rose
+2a0a:6044:f4d4::/48,GP,GP-,Capesterre-Belle-Eau
+2a0a:6044:f4d5::/48,GP,GP-,Pointe-à-Pitre
+2a0a:6044:f4d6::/48,GP,GP-,Lamentin
+2a0a:6044:f4d7::/48,GP,GP-,Saint-François
+2a0a:6044:f4d8::/48,GP,GP-,Basse-Terre
+2a0a:6044:f4d9::/48,GP,GP-,Saint-Claude
+2a0a:6044:f4da::/48,GP,GP-,Trois-Rivières
+2a0a:6044:f4db::/48,GP,GP-,Gourbeyre
+2a0a:6044:f4dc::/48,GG,GG-,St Peter Port
+2a0a:6044:f4dd::/48,GG,GG-,St. Sampson
+2a0a:6044:f4de::/48,GG,GG-,Sark
+2a0a:6044:f4df::/48,GG,GG-,La Seigneurie
+2a0a:6044:f4e0::/48,GG,GG-,Torteval
+2a0a:6044:f4e1::/48,GG,GG-,Saumarez
+2a0a:6044:f4e2::/48,GG,GG-,St. Anne
+2a0a:6044:f4e3::/48,GG,GG-,Roque Tourgis
+2a0a:6044:f4e4::/48,GG,GG-,Rohais Manor
+2a0a:6044:f4e5::/48,GG,GG-,Paradis
+2a0a:6044:f4e6::/48,GG,GG-,Les Nicolles
+2a0a:6044:f4e7::/48,GG,GG-,Le Mont Durand
+2a0a:6044:f4e8::/48,GG,GG-,La Ville Roussel
+2a0a:6044:f4e9::/48,GG,GG-,La Ramée
+2a0a:6044:f4ea::/48,GG,GG-,King’s Mills
+2a0a:6044:f4eb::/48,HU,HU-BU,Budapest
+2a0a:6044:f4ec::/48,HU,HU-HB,Debrecen
+2a0a:6044:f4ed::/48,HU,HU-CS,Szeged
+2a0a:6044:f4ee::/48,HU,HU-BZ,Miskolc
+2a0a:6044:f4ef::/48,HU,HU-BA,Pécs
+2a0a:6044:f4f0::/48,HU,HU-BU,Budapest XI. kerület
+2a0a:6044:f4f1::/48,HU,HU-BU,Zugló
+2a0a:6044:f4f2::/48,HU,HU-GS,Győr
+2a0a:6044:f4f3::/48,HU,HU-BU,Budapest III. kerület
+2a0a:6044:f4f4::/48,HU,HU-SZ,Nyíregyháza
+2a0a:6044:f4f5::/48,HU,HU-BU,Budapest XIII. kerület
+2a0a:6044:f4f6::/48,HU,HU-BK,Kecskemét
+2a0a:6044:f4f7::/48,HU,HU-FE,Székesfehérvár
+2a0a:6044:f4f8::/48,HU,HU-BU,Budapest IV. kerület
+2a0a:6044:f4f9::/48,HU,HU-BU,Budapest XVIII. kerület
+2a0a:6044:f4fa::/48,IS,IS-1,Reykjavik
+2a0a:6044:f4fb::/48,IS,IS-1,Kopavogur
+2a0a:6044:f4fc::/48,IS,IS-1,Hafnarfjordur
+2a0a:6044:f4fd::/48,IS,IS-2,Reykjanesbaer
+2a0a:6044:f4fe::/48,IS,IS-6,Akureyri
+2a0a:6044:f4ff::/48,IS,IS-2,Keflavik
+2a0a:6044:f500::/48,IS,IS-1,Mosfellsbaer
+2a0a:6044:f501::/48,IS,IS-1,Garðabaer
+2a0a:6044:f502::/48,IS,IS-8,Selfoss
+2a0a:6044:f503::/48,IS,IS-3,Akranes
+2a0a:6044:f504::/48,IS,IS-1,Seltjarnarnes
+2a0a:6044:f505::/48,IS,IS-8,Vestmannaeyjar
+2a0a:6044:f506::/48,IS,IS-2,Grindavik
+2a0a:6044:f507::/48,IS,IS-4,Isafjordur
+2a0a:6044:f508::/48,IS,IS-5,Sauðarkrokur
+2a0a:6044:f509::/48,IE,IE-L,Dublin
+2a0a:6044:f50a::/48,IE,IE-L,Dublin South
+2a0a:6044:f50b::/48,IE,IE-M,Cork
+2a0a:6044:f50c::/48,IE,IE-M,Limerick
+2a0a:6044:f50d::/48,IE,IE-C,Galway
+2a0a:6044:f50e::/48,IE,IE-L,Tallaght
+2a0a:6044:f50f::/48,IE,IE-M,Waterford
+2a0a:6044:f510::/48,IE,IE-L,Swords
+2a0a:6044:f511::/48,IE,IE-L,Drogheda
+2a0a:6044:f512::/48,IE,IE-L,Dundalk
+2a0a:6044:f513::/48,IE,IE-L,Bray
+2a0a:6044:f514::/48,IE,IE-M,Douglas
+2a0a:6044:f515::/48,IE,IE-L,Dún Laoghaire
+2a0a:6044:f516::/48,IE,IE-M,Ennis
+2a0a:6044:f517::/48,IE,IE-L,Navan
+2a0a:6044:f518::/48,IM,IM-,Douglas
+2a0a:6044:f519::/48,IM,IM-,Ramsey
+2a0a:6044:f51a::/48,IM,IM-,Peel
+2a0a:6044:f51b::/48,IM,IM-,Port Erin
+2a0a:6044:f51c::/48,IM,IM-,Castletown
+2a0a:6044:f51d::/48,IM,IM-,Laxey
+2a0a:6044:f51e::/48,IM,IM-,Colby
+2a0a:6044:f51f::/48,IM,IM-,Union Mills
+2a0a:6044:f520::/48,IM,IM-,Sulby
+2a0a:6044:f521::/48,IM,IM-,Santon
+2a0a:6044:f522::/48,IM,IM-,Saint Marks
+2a0a:6044:f523::/48,IM,IM-,Saint Johns
+2a0a:6044:f524::/48,IM,IM-,Ronaldsway
+2a0a:6044:f525::/48,IM,IM-,Port Soderick
+2a0a:6044:f526::/48,IM,IM-,Port Saint Mary
+2a0a:6044:f527::/48,IT,IT-62,Rome
+2a0a:6044:f528::/48,IT,IT-25,Milan
+2a0a:6044:f529::/48,IT,IT-72,Naples
+2a0a:6044:f52a::/48,IT,IT-21,Turin
+2a0a:6044:f52b::/48,IT,IT-82,Palermo
+2a0a:6044:f52c::/48,IT,IT-42,Genoa
+2a0a:6044:f52d::/48,IT,IT-45,Bologna
+2a0a:6044:f52e::/48,IT,IT-52,Florence
+2a0a:6044:f52f::/48,IT,IT-75,Bari
+2a0a:6044:f530::/48,IT,IT-82,Catania
+2a0a:6044:f531::/48,IT,IT-34,Verona
+2a0a:6044:f532::/48,IT,IT-82,Messina
+2a0a:6044:f533::/48,IT,IT-36,Trieste
+2a0a:6044:f534::/48,IT,IT-34,Padua
+2a0a:6044:f535::/48,IT,IT-25,Brescia
+2a0a:6044:f536::/48,JE,JE-,Saint Helier
+2a0a:6044:f537::/48,JE,JE-,Saint John
+2a0a:6044:f538::/48,JE,JE-,Les Platons
+2a0a:6044:f539::/48,JE,JE-,Trinity
+2a0a:6044:f53a::/48,JE,JE-,St Mary's Village
+2a0a:6044:f53b::/48,JE,JE-,St Brelade
+2a0a:6044:f53c::/48,JE,JE-,St Lawrence
+2a0a:6044:f53d::/48,JE,JE-,Grouville
+2a0a:6044:f53e::/48,JE,JE-,Fliquet
+2a0a:6044:f53f::/48,JE,JE-,La Grève de Lecq
+2a0a:6044:f540::/48,JE,JE-,St Martin
+2a0a:6044:f541::/48,JE,JE-,St Clement
+2a0a:6044:f542::/48,JE,JE-,Les Creux
+2a0a:6044:f543::/48,JE,JE-,Mont Fiquet
+2a0a:6044:f544::/48,JE,JE-,La Moye
+2a0a:6044:f545::/48,KZ,KZ-75,Almaty
+2a0a:6044:f546::/48,KZ,KZ-61,Shymkent
+2a0a:6044:f547::/48,KZ,KZ-15,Aktobe
+2a0a:6044:f548::/48,KZ,KZ-35,Karaganda
+2a0a:6044:f549::/48,KZ,KZ-31,Taraz
+2a0a:6044:f54a::/48,KZ,KZ-43,Kyzylorda
+2a0a:6044:f54b::/48,KZ,KZ-71,Astana
+2a0a:6044:f54c::/48,KZ,KZ-27,Oral
+2a0a:6044:f54d::/48,KZ,KZ-55,Pavlodar
+2a0a:6044:f54e::/48,KZ,KZ-63,Ust-Kamenogorsk
+2a0a:6044:f54f::/48,KZ,KZ-10,Semey
+2a0a:6044:f550::/48,KZ,KZ-23,Atyrau
+2a0a:6044:f551::/48,KZ,KZ-61,Turkestan
+2a0a:6044:f552::/48,KZ,KZ-39,Kostanay
+2a0a:6044:f553::/48,KZ,KZ-59,Petropavl
+2a0a:6044:f554::/48,LV,LV-RIX,Riga
+2a0a:6044:f555::/48,LV,LV-DGV,Daugavpils
+2a0a:6044:f556::/48,LV,LV-LPX,Liepāja
+2a0a:6044:f557::/48,LV,LV-JEL,Jelgava
+2a0a:6044:f558::/48,LV,LV-JUR,Jūrmala
+2a0a:6044:f559::/48,LV,LV-VEN,Ventspils
+2a0a:6044:f55a::/48,LV,LV-REZ,Rēzekne
+2a0a:6044:f55b::/48,LV,LV-42,Jēkabpils
+2a0a:6044:f55c::/48,LV,LV-113,Valmiera
+2a0a:6044:f55d::/48,LV,LV-67,Ogre
+2a0a:6044:f55e::/48,LV,LV-94,Dārzciems
+2a0a:6044:f55f::/48,LV,LV-99,Tukums
+2a0a:6044:f560::/48,LV,LV-22,Cēsis
+2a0a:6044:f561::/48,LV,LV-87,Salaspils
+2a0a:6044:f562::/48,LV,LV-RIX,Bolderaja
+2a0a:6044:f563::/48,LI,LI-7,Schaan
+2a0a:6044:f564::/48,LI,LI-11,Vaduz
+2a0a:6044:f565::/48,LI,LI-9,Triesen
+2a0a:6044:f566::/48,LI,LI-1,Balzers
+2a0a:6044:f567::/48,LI,LI-2,Eschen
+2a0a:6044:f568::/48,LI,LI-4,Mauren
+2a0a:6044:f569::/48,LI,LI-10,Triesenberg
+2a0a:6044:f56a::/48,LI,LI-6,Ruggell
+2a0a:6044:f56b::/48,LI,LI-3,Gamprin
+2a0a:6044:f56c::/48,LI,LI-8,Schellenberg
+2a0a:6044:f56d::/48,LI,LI-5,Planken
+2a0a:6044:f56e::/48,LI,LI-10,Malbun
+2a0a:6044:f56f::/48,LI,LI-10,Steg
+2a0a:6044:f570::/48,LI,LI-10,Lavadina
+2a0a:6044:f571::/48,LI,LI-1,Mäls
+2a0a:6044:f572::/48,LT,LT-VL,Vilnius
+2a0a:6044:f573::/48,LT,LT-KU,Kaunas
+2a0a:6044:f574::/48,LT,LT-KL,Klaipėda
+2a0a:6044:f575::/48,LT,LT-SA,Šiauliai
+2a0a:6044:f576::/48,LT,LT-PN,Panevezys
+2a0a:6044:f577::/48,LT,LT-KU,Dainava (Kaunas)
+2a0a:6044:f578::/48,LT,LT-AL,Alytus
+2a0a:6044:f579::/48,LT,LT-KU,Šilainiai
+2a0a:6044:f57a::/48,LT,LT-KU,Eiguliai
+2a0a:6044:f57b::/48,LT,LT-VL,Antakalnis
+2a0a:6044:f57c::/48,LT,LT-VL,Fabijoniškės
+2a0a:6044:f57d::/48,LT,LT-VL,Naujoji Vilnia
+2a0a:6044:f57e::/48,LT,LT-VL,Šeškinė
+2a0a:6044:f57f::/48,LT,LT-MR,Marijampolė
+2a0a:6044:f580::/48,LT,LT-VL,Naujininkai
+2a0a:6044:f581::/48,LU,LU-LU,Luxembourg
+2a0a:6044:f582::/48,LU,LU-ES,Esch-sur-Alzette
+2a0a:6044:f583::/48,LU,LU-ES,Dudelange
+2a0a:6044:f584::/48,LU,LU-ES,Schifflange
+2a0a:6044:f585::/48,LU,LU-ES,Bettembourg
+2a0a:6044:f586::/48,LU,LU-ES,Pétange
+2a0a:6044:f587::/48,LU,LU-DI,Diekirch
+2a0a:6044:f588::/48,LU,LU-DI,Ettelbruck
+2a0a:6044:f589::/48,LU,LU-LU,Merl
+2a0a:6044:f58a::/48,LU,LU-LU,Strassen
+2a0a:6044:f58b::/48,LU,LU-LU,Bertrange
+2a0a:6044:f58c::/48,LU,LU-ES,Rodange
+2a0a:6044:f58d::/48,LU,LU-ES,Belvaux
+2a0a:6044:f58e::/48,LU,LU-ES,Differdange
+2a0a:6044:f58f::/48,LU,LU-CA,Mamer
+2a0a:6044:f590::/48,MT,MT-51,San Pawl il-Baħar
+2a0a:6044:f591::/48,MT,MT-4,Birkirkara
+2a0a:6044:f592::/48,MT,MT-32,Mosta
+2a0a:6044:f593::/48,MT,MT-56,Sliema
+2a0a:6044:f594::/48,MT,MT-43,Qormi
+2a0a:6044:f595::/48,MT,MT-64,Żabbar
+2a0a:6044:f596::/48,MT,MT-38,Naxxar
+2a0a:6044:f597::/48,MT,MT-49,San Ġwann
+2a0a:6044:f598::/48,MT,MT-57,Swieqi
+2a0a:6044:f599::/48,MT,MT-48,Saint Julian's
+2a0a:6044:f59a::/48,MT,MT-54,Imsida
+2a0a:6044:f59b::/48,MT,MT-5,Birżebbuġa
+2a0a:6044:f59c::/48,MT,MT-58,Fgura
+2a0a:6044:f59d::/48,MT,MT-46,Rabat
+2a0a:6044:f59e::/48,MT,MT-34,Gżira
+2a0a:6044:f59f::/48,MQ,MQ-,Fort-de-France
+2a0a:6044:f5a0::/48,MQ,MQ-,Le Lamentin
+2a0a:6044:f5a1::/48,MQ,MQ-,Le Robert
+2a0a:6044:f5a2::/48,MQ,MQ-,Sainte-Marie
+2a0a:6044:f5a3::/48,MQ,MQ-,Le François
+2a0a:6044:f5a4::/48,MQ,MQ-,Ducos
+2a0a:6044:f5a5::/48,MQ,MQ-,Saint-Joseph
+2a0a:6044:f5a6::/48,MQ,MQ-,La Trinité
+2a0a:6044:f5a7::/48,MQ,MQ-,Rivière-Pilote
+2a0a:6044:f5a8::/48,MQ,MQ-,Le Gros-Morne
+2a0a:6044:f5a9::/48,MQ,MQ-,Sainte-Luce
+2a0a:6044:f5aa::/48,MQ,MQ-,Saint-Esprit
+2a0a:6044:f5ab::/48,MQ,MQ-,Le Lorrain
+2a0a:6044:f5ac::/48,MQ,MQ-,Le Marin
+2a0a:6044:f5ad::/48,MQ,MQ-,Le Vauclin
+2a0a:6044:f5ae::/48,YT,YT-,Mamoudzou
+2a0a:6044:f5af::/48,YT,YT-,Koungou
+2a0a:6044:f5b0::/48,YT,YT-,Labattoir
+2a0a:6044:f5b1::/48,YT,YT-,Kaouéni
+2a0a:6044:f5b2::/48,YT,YT-,Mtsapéré
+2a0a:6044:f5b3::/48,YT,YT-,Dzaoudzi
+2a0a:6044:f5b4::/48,YT,YT-,Majikavo Koropa
+2a0a:6044:f5b5::/48,YT,YT-,Pamandzi
+2a0a:6044:f5b6::/48,YT,YT-,Dembeni
+2a0a:6044:f5b7::/48,YT,YT-,Sada
+2a0a:6044:f5b8::/48,YT,YT-,Kavani
+2a0a:6044:f5b9::/48,YT,YT-,Passamainty
+2a0a:6044:f5ba::/48,YT,YT-,Bandraboua
+2a0a:6044:f5bb::/48,YT,YT-,Mtsamboro
+2a0a:6044:f5bc::/48,YT,YT-,Tsingoni
+2a0a:6044:f5bd::/48,MD,MD-CU,Chișinău
+2a0a:6044:f5be::/48,MD,MD-BD,Tiraspol
+2a0a:6044:f5bf::/48,MD,MD-BA,Bălţi
+2a0a:6044:f5c0::/48,MD,MD-BD,Tighina
+2a0a:6044:f5c1::/48,MD,MD-,Rîbnița
+2a0a:6044:f5c2::/48,MD,MD-CA,Cahul
+2a0a:6044:f5c3::/48,MD,MD-UN,Ungheni
+2a0a:6044:f5c4::/48,MD,MD-SO,Soroca
+2a0a:6044:f5c5::/48,MD,MD-OR,Orhei
+2a0a:6044:f5c6::/48,MD,MD-,Dubăsari
+2a0a:6044:f5c7::/48,MD,MD-,Comrat
+2a0a:6044:f5c8::/48,MD,MD-ED,Edineţ
+2a0a:6044:f5c9::/48,MD,MD-,Ceadîr-Lunga
+2a0a:6044:f5ca::/48,MD,MD-CS,Căușeni
+2a0a:6044:f5cb::/48,MD,MD-ST,Strășeni
+2a0a:6044:f5cc::/48,MC,MC-,Monaco
+2a0a:6044:f5cd::/48,MC,MC-,Monte Carlo
+2a0a:6044:f5ce::/48,MC,MC-,La Condamine
+2a0a:6044:f5cf::/48,MC,MC-,Fontvieille
+2a0a:6044:f5d0::/48,MC,MC-,Moneghetti
+2a0a:6044:f5d1::/48,MC,MC-,Saint-Roman
+2a0a:6044:f5d2::/48,MC,MC-PAC,Beausoleil
+2a0a:6044:f5d3::/48,MC,MC-,Les Révoires
+2a0a:6044:f5d4::/48,ME,ME-16,Podgorica
+2a0a:6044:f5d5::/48,ME,ME-12,Nikšić
+2a0a:6044:f5d6::/48,ME,ME-8,Herceg Novi
+2a0a:6044:f5d7::/48,ME,ME-14,Pljevlja
+2a0a:6044:f5d8::/48,ME,ME-5,Budva
+2a0a:6044:f5d9::/48,ME,ME-2,Bar
+2a0a:6044:f5da::/48,ME,ME-4,Bijelo Polje
+2a0a:6044:f5db::/48,ME,ME-6,Cetinje
+2a0a:6044:f5dc::/48,ME,ME-3,Berane
+2a0a:6044:f5dd::/48,ME,ME-20,Ulcinj
+2a0a:6044:f5de::/48,ME,ME-17,Rožaje
+2a0a:6044:f5df::/48,ME,ME-19,Tivat
+2a0a:6044:f5e0::/48,ME,ME-10,Dobrota
+2a0a:6044:f5e1::/48,ME,ME-10,Kotor
+2a0a:6044:f5e2::/48,ME,ME-7,Danilovgrad
+2a0a:6044:f5e3::/48,MS,MS-3,Brades
+2a0a:6044:f5e4::/48,MS,MS-1,Cork Hill
+2a0a:6044:f5e5::/48,MS,MS-3,Salem
+2a0a:6044:f5e6::/48,MS,MS-3,Saint John's Village
+2a0a:6044:f5e7::/48,MS,MS-3,Gerald's
+2a0a:6044:f5e8::/48,MS,MS-,Hell's Gate
+2a0a:6044:f5e9::/48,MS,MS-3,Zion Hill
+2a0a:6044:f5ea::/48,MS,MS-,Woodlands
+2a0a:6044:f5eb::/48,MS,MS-1,Windy Hill
+2a0a:6044:f5ec::/48,MS,MS-1,Weekes
+2a0a:6044:f5ed::/48,MS,MS-1,Webbs
+2a0a:6044:f5ee::/48,MS,MS-3,Virgin Islands
+2a0a:6044:f5ef::/48,MS,MS-1,Victoria
+2a0a:6044:f5f0::/48,MS,MS-1,Tuitt's
+2a0a:6044:f5f1::/48,MS,MS-1,Trials
+2a0a:6044:f5f2::/48,NL,NL-NH,Amsterdam
+2a0a:6044:f5f3::/48,NL,NL-ZH,Rotterdam
+2a0a:6044:f5f4::/48,NL,NL-ZH,The Hague
+2a0a:6044:f5f5::/48,NL,NL-UT,Utrecht
+2a0a:6044:f5f6::/48,NL,NL-GR,Groningen
+2a0a:6044:f5f7::/48,NL,NL-NB,Eindhoven
+2a0a:6044:f5f8::/48,NL,NL-NB,Tilburg
+2a0a:6044:f5f9::/48,NL,NL-FL,Almere Stad
+2a0a:6044:f5fa::/48,NL,NL-NB,Breda
+2a0a:6044:f5fb::/48,NL,NL-GE,Nijmegen
+2a0a:6044:f5fc::/48,NL,NL-OV,Enschede
+2a0a:6044:f5fd::/48,NL,NL-NH,Haarlem
+2a0a:6044:f5fe::/48,NL,NL-GE,Arnhem
+2a0a:6044:f5ff::/48,NL,NL-NH,Zaanstad
+2a0a:6044:f600::/48,NL,NL-UT,Amersfoort
+2a0a:6044:f601::/48,NC,NC-S,Noumea
+2a0a:6044:f602::/48,NC,NC-S,Mont-Dore
+2a0a:6044:f603::/48,NC,NC-S,Dumbéa
+2a0a:6044:f604::/48,NC,NC-S,Païta
+2a0a:6044:f605::/48,NC,NC-,Wé
+2a0a:6044:f606::/48,NC,NC-L,Tadine
+2a0a:6044:f607::/48,NC,NC-,Poindimié
+2a0a:6044:f608::/48,NC,NC-S,Bourail
+2a0a:6044:f609::/48,NC,NC-N,Koné
+2a0a:6044:f60a::/48,NC,NC-N,Houaïlou
+2a0a:6044:f60b::/48,NC,NC-,Fayaoué
+2a0a:6044:f60c::/48,NC,NC-N,Canala
+2a0a:6044:f60d::/48,NC,NC-N,Koumac
+2a0a:6044:f60e::/48,NC,NC-S,La Foa
+2a0a:6044:f60f::/48,NC,NC-S,Thio
+2a0a:6044:f610::/48,MK,MK-,Skopje
+2a0a:6044:f611::/48,MK,MK-703,Kumanovo
+2a0a:6044:f612::/48,MK,MK-508,Prilep
+2a0a:6044:f613::/48,MK,MK-501,Bitola
+2a0a:6044:f614::/48,MK,MK-,Čair
+2a0a:6044:f615::/48,MK,MK-609,Tetovo
+2a0a:6044:f616::/48,MK,MK-,Kisela Voda
+2a0a:6044:f617::/48,MK,MK-101,Veles
+2a0a:6044:f618::/48,MK,MK-604,Gostivar
+2a0a:6044:f619::/48,MK,MK-211,Shtip
+2a0a:6044:f61a::/48,MK,MK-313,Centar Župa
+2a0a:6044:f61b::/48,MK,MK-310,Ohrid
+2a0a:6044:f61c::/48,MK,MK-,Gjorče Petro
+2a0a:6044:f61d::/48,MK,MK-104,Kavadarci
+2a0a:6044:f61e::/48,MK,MK-312,Struga
+2a0a:6044:f61f::/48,NO,NO-3,Oslo
+2a0a:6044:f620::/48,NO,NO-46,Bergen
+2a0a:6044:f621::/48,NO,NO-50,Trondheim
+2a0a:6044:f622::/48,NO,NO-11,Stavanger
+2a0a:6044:f623::/48,NO,NO-6,Drammen
+2a0a:6044:f624::/48,NO,NO-42,Kristiansand
+2a0a:6044:f625::/48,NO,NO-2,Lillestrøm
+2a0a:6044:f626::/48,NO,NO-11,Sandnes
+2a0a:6044:f627::/48,NO,NO-1,Fredrikstad
+2a0a:6044:f628::/48,NO,NO-19,Tromsø
+2a0a:6044:f629::/48,NO,NO-7,Sandefjord
+2a0a:6044:f62a::/48,NO,NO-2,Asker
+2a0a:6044:f62b::/48,NO,NO-1,Sarpsborg
+2a0a:6044:f62c::/48,NO,NO-15,Ålesund
+2a0a:6044:f62d::/48,NO,NO-8,Skien
+2a0a:6044:f62e::/48,PL,PL-14,Warsaw
+2a0a:6044:f62f::/48,PL,PL-10,Lodz
+2a0a:6044:f630::/48,PL,PL-12,Krakow
+2a0a:6044:f631::/48,PL,PL-2,Wroclaw
+2a0a:6044:f632::/48,PL,PL-30,Poznan
+2a0a:6044:f633::/48,PL,PL-22,Gdansk
+2a0a:6044:f634::/48,PL,PL-32,Szczecin
+2a0a:6044:f635::/48,PL,PL-4,Bydgoszcz
+2a0a:6044:f636::/48,PL,PL-6,Lublin
+2a0a:6044:f637::/48,PL,PL-24,Katowice
+2a0a:6044:f638::/48,PL,PL-20,Bialystok
+2a0a:6044:f639::/48,PL,PL-24,Częstochowa
+2a0a:6044:f63a::/48,PL,PL-22,Gdynia
+2a0a:6044:f63b::/48,PL,PL-24,Sosnowiec
+2a0a:6044:f63c::/48,PL,PL-14,Radom
+2a0a:6044:f63d::/48,PT,PT-11,Lisbon
+2a0a:6044:f63e::/48,PT,PT-13,Porto
+2a0a:6044:f63f::/48,PT,PT-11,Amadora
+2a0a:6044:f640::/48,PT,PT-3,Braga
+2a0a:6044:f641::/48,PT,PT-15,Setúbal
+2a0a:6044:f642::/48,PT,PT-6,Coimbra
+2a0a:6044:f643::/48,PT,PT-11,Queluz
+2a0a:6044:f644::/48,PT,PT-30,Funchal
+2a0a:6044:f645::/48,PT,PT-11,Cacém
+2a0a:6044:f646::/48,PT,PT-13,Vila Nova de Gaia
+2a0a:6044:f647::/48,PT,PT-11,Algueirão
+2a0a:6044:f648::/48,PT,PT-11,Loures
+2a0a:6044:f649::/48,PT,PT-13,Felgueiras
+2a0a:6044:f64a::/48,PT,PT-7,Evora
+2a0a:6044:f64b::/48,PT,PT-11,Rio de Mouro
+2a0a:6044:f64c::/48,RO,RO-B,Bucharest
+2a0a:6044:f64d::/48,RO,RO-B,Sector 3
+2a0a:6044:f64e::/48,RO,RO-IS,Iasi
+2a0a:6044:f64f::/48,RO,RO-B,Sector 6
+2a0a:6044:f650::/48,RO,RO-B,Sector 2
+2a0a:6044:f651::/48,RO,RO-CT,Constanța
+2a0a:6044:f652::/48,RO,RO-CJ,Cluj-Napoca
+2a0a:6044:f653::/48,RO,RO-TM,Timișoara
+2a0a:6044:f654::/48,RO,RO-DJ,Craiova
+2a0a:6044:f655::/48,RO,RO-GL,Galati
+2a0a:6044:f656::/48,RO,RO-B,Sector 4
+2a0a:6044:f657::/48,RO,RO-B,Sector 5
+2a0a:6044:f658::/48,RO,RO-BV,Brasov
+2a0a:6044:f659::/48,RO,RO-PH,Ploieşti
+2a0a:6044:f65a::/48,RO,RO-B,Sector 1
+2a0a:6044:f65b::/48,PM,PM-P,Saint-Pierre
+2a0a:6044:f65c::/48,PM,PM-M,Miquelon
+2a0a:6044:f65d::/48,PM,PM-M,Petit Barachois
+2a0a:6044:f65e::/48,PM,PM-M,Le Ruisseau Debons
+2a0a:6044:f65f::/48,PM,PM-,Village de l'Anse du Gouvernement
+2a0a:6044:f660::/48,SM,SM-9,Serravalle
+2a0a:6044:f661::/48,SM,SM-6,Borgo Maggiore
+2a0a:6044:f662::/48,SM,SM-7,San Marino
+2a0a:6044:f663::/48,SM,SM-3,Domagnano
+2a0a:6044:f664::/48,SM,SM-5,Fiorentino
+2a0a:6044:f665::/48,SM,SM-1,Acquaviva
+2a0a:6044:f666::/48,SM,SM-4,Faetano
+2a0a:6044:f667::/48,SM,SM-9,Falciano
+2a0a:6044:f668::/48,SM,SM-2,Poggio Chiesanuova
+2a0a:6044:f669::/48,SM,SM-8,Montegiardino
+2a0a:6044:f66a::/48,SM,SM-3,Torraccia
+2a0a:6044:f66b::/48,SM,SM-3,Fiorina
+2a0a:6044:f66c::/48,SM,SM-6,Ventoso
+2a0a:6044:f66d::/48,SM,SM-6,Cailungo
+2a0a:6044:f66e::/48,SM,SM-7,Santa Mustiola
+2a0a:6044:f66f::/48,RS,RS-,Belgrade
+2a0a:6044:f670::/48,RS,RS-,Niš
+2a0a:6044:f671::/48,RS,RS-VO,Novi Sad
+2a0a:6044:f672::/48,RS,RS-,Zemun
+2a0a:6044:f673::/48,RS,RS-,Kragujevac
+2a0a:6044:f674::/48,RS,RS-,Čačak
+2a0a:6044:f675::/48,RS,RS-VO,Subotica
+2a0a:6044:f676::/48,RS,RS-,Leskovac
+2a0a:6044:f677::/48,RS,RS-,Novi Pazar
+2a0a:6044:f678::/48,RS,RS-,Kraljevo
+2a0a:6044:f679::/48,RS,RS-VO,Zrenjanin
+2a0a:6044:f67a::/48,RS,RS-VO,Pančevo
+2a0a:6044:f67b::/48,RS,RS-,Kruševac
+2a0a:6044:f67c::/48,RS,RS-,Užice
+2a0a:6044:f67d::/48,RS,RS-,Smederevo
+2a0a:6044:f67e::/48,SK,SK-BL,Bratislava
+2a0a:6044:f67f::/48,SK,SK-KI,Košice
+2a0a:6044:f680::/48,SK,SK-NI,Nitra
+2a0a:6044:f681::/48,SK,SK-PV,Prešov
+2a0a:6044:f682::/48,SK,SK-ZI,Žilina
+2a0a:6044:f683::/48,SK,SK-BC,Banská Bystrica
+2a0a:6044:f684::/48,SK,SK-TA,Trnava
+2a0a:6044:f685::/48,SK,SK-TC,Trenčín
+2a0a:6044:f686::/48,SK,SK-PV,Poprad
+2a0a:6044:f687::/48,SK,SK-ZI,Martin
+2a0a:6044:f688::/48,SK,SK-TC,Prievidza
+2a0a:6044:f689::/48,SK,SK-BL,Old Town
+2a0a:6044:f68a::/48,SK,SK-BC,Zvolen
+2a0a:6044:f68b::/48,SK,SK-TC,Považská Bystrica
+2a0a:6044:f68c::/48,SK,SK-KI,Michalovce
+2a0a:6044:f68d::/48,SI,SI-61,Ljubljana
+2a0a:6044:f68e::/48,SI,SI-70,Maribor
+2a0a:6044:f68f::/48,SI,SI-52,Kranj
+2a0a:6044:f690::/48,SI,SI-11,Celje
+2a0a:6044:f691::/48,SI,SI-50,Koper
+2a0a:6044:f692::/48,SI,SI-133,Velenje
+2a0a:6044:f693::/48,SI,SI-85,Novo Mesto
+2a0a:6044:f694::/48,SI,SI-96,Ptuj
+2a0a:6044:f695::/48,SI,SI-129,Trbovlje
+2a0a:6044:f696::/48,SI,SI-43,Kamnik
+2a0a:6044:f697::/48,SI,SI-41,Jesenice
+2a0a:6044:f698::/48,SI,SI-23,Domžale
+2a0a:6044:f699::/48,SI,SI-84,Nova Gorica
+2a0a:6044:f69a::/48,SI,SI-122,Škofja Loka
+2a0a:6044:f69b::/48,SI,SI-40,Izola
+2a0a:6044:f69c::/48,ES,ES-MD,Madrid
+2a0a:6044:f69d::/48,ES,ES-CT,Barcelona
+2a0a:6044:f69e::/48,ES,ES-VC,Valencia
+2a0a:6044:f69f::/48,ES,ES-AN,Seville
+2a0a:6044:f6a0::/48,ES,ES-AR,Zaragoza
+2a0a:6044:f6a1::/48,ES,ES-AN,Málaga
+2a0a:6044:f6a2::/48,ES,ES-MC,Murcia
+2a0a:6044:f6a3::/48,ES,ES-IB,Palma
+2a0a:6044:f6a4::/48,ES,ES-CN,Las Palmas de Gran Canaria
+2a0a:6044:f6a5::/48,ES,ES-PV,Bilbao
+2a0a:6044:f6a6::/48,ES,ES-VC,Alicante
+2a0a:6044:f6a7::/48,ES,ES-AN,Córdoba
+2a0a:6044:f6a8::/48,ES,ES-CL,Valladolid
+2a0a:6044:f6a9::/48,ES,ES-GA,Vigo
+2a0a:6044:f6aa::/48,ES,ES-AS,Gijón
+2a0a:6044:f6ab::/48,SE,SE-AB,Stockholm
+2a0a:6044:f6ac::/48,SE,SE-O,Gothenburg
+2a0a:6044:f6ad::/48,SE,SE-M,Malmo
+2a0a:6044:f6ae::/48,SE,SE-C,Uppsala
+2a0a:6044:f6af::/48,SE,SE-E,Linköping
+2a0a:6044:f6b0::/48,SE,SE-T,Örebro
+2a0a:6044:f6b1::/48,SE,SE-AB,Sollentuna
+2a0a:6044:f6b2::/48,SE,SE-AC,Umeå
+2a0a:6044:f6b3::/48,SE,SE-U,Västerås
+2a0a:6044:f6b4::/48,SE,SE-AB,Södermalm
+2a0a:6044:f6b5::/48,SE,SE-M,Helsingborg
+2a0a:6044:f6b6::/48,SE,SE-F,Jönköping
+2a0a:6044:f6b7::/48,SE,SE-E,Norrköping
+2a0a:6044:f6b8::/48,SE,SE-AB,Huddinge
+2a0a:6044:f6b9::/48,SE,SE-M,Lund
+2a0a:6044:f6ba::/48,CH,CH-ZH,Zurich
+2a0a:6044:f6bb::/48,CH,CH-GE,Geneva
+2a0a:6044:f6bc::/48,CH,CH-BS,Basel
+2a0a:6044:f6bd::/48,CH,CH-VD,Lausanne
+2a0a:6044:f6be::/48,CH,CH-BE,Bern
+2a0a:6044:f6bf::/48,CH,CH-ZH,Winterthur
+2a0a:6044:f6c0::/48,CH,CH-LU,Lucerne
+2a0a:6044:f6c1::/48,CH,CH-SG,St. Gallen
+2a0a:6044:f6c2::/48,CH,CH-TI,Lugano
+2a0a:6044:f6c3::/48,CH,CH-ZH,Zürich (Kreis 11)
+2a0a:6044:f6c4::/48,CH,CH-BE,Biel/Bienne
+2a0a:6044:f6c5::/48,CH,CH-ZH,Zürich (Kreis 3)
+2a0a:6044:f6c6::/48,CH,CH-ZH,Zürich (Kreis 9)
+2a0a:6044:f6c7::/48,CH,CH-BE,Thun
+2a0a:6044:f6c8::/48,CH,CH-BE,Köniz
+2a0a:6044:f6c9::/48,TC,TC-,Cockburn Town
+2a0a:6044:f6ca::/48,TC,TC-,Cockburn Harbour
+2a0a:6044:f6cb::/48,TC,TC-,Grace Bay
+2a0a:6044:f6cc::/48,TC,TC-,The Bight Settlements
+2a0a:6044:f6cd::/48,TC,TC-,Sandy Point
+2a0a:6044:f6ce::/48,TC,TC-,Over Back The Damp
+2a0a:6044:f6cf::/48,TC,TC-,Lorimers
+2a0a:6044:f6d0::/48,TC,TC-,Kew
+2a0a:6044:f6d1::/48,TC,TC-,Greenwich
+2a0a:6044:f6d2::/48,TC,TC-,Five Cays Settlement
+2a0a:6044:f6d3::/48,TC,TC-,Conch Bar
+2a0a:6044:f6d4::/48,TC,TC-,Bottle Creek Settlements
+2a0a:6044:f6d5::/48,TC,TC-,Blue Hills Settlements
+2a0a:6044:f6d6::/48,TC,TC-,Bambarra
+2a0a:6044:f6d7::/48,TC,TC-,Balfour Town
+2a0a:6044:f6d8::/48,UA,UA-30,Kyiv
+2a0a:6044:f6d9::/48,UA,UA-63,Kharkiv
+2a0a:6044:f6da::/48,UA,UA-51,Odesa
+2a0a:6044:f6db::/48,UA,UA-12,Dnipro
+2a0a:6044:f6dc::/48,UA,UA-14,Donetsk
+2a0a:6044:f6dd::/48,UA,UA-46,Lviv
+2a0a:6044:f6de::/48,UA,UA-23,Zaporizhzhya
+2a0a:6044:f6df::/48,UA,UA-12,Kryvyi Rih
+2a0a:6044:f6e0::/48,UA,UA-40,Sebastopol
+2a0a:6044:f6e1::/48,UA,UA-48,Mykolayiv
+2a0a:6044:f6e2::/48,UA,UA-14,Mariupol
+2a0a:6044:f6e3::/48,UA,UA-9,Luhansk
+2a0a:6044:f6e4::/48,UA,UA-5,Vinnytsia
+2a0a:6044:f6e5::/48,UA,UA-14,Makiivka
+2a0a:6044:f6e6::/48,UA,UA-43,Simferopol
+2a0a:6044:f6e7::/48,GB,GB-ENG,London
+2a0a:6044:f6e8::/48,GB,GB-ENG,Birmingham
+2a0a:6044:f6e9::/48,GB,GB-ENG,Liverpool
+2a0a:6044:f6ea::/48,GB,GB-SCT,Glasgow
+2a0a:6044:f6eb::/48,GB,GB-ENG,Sheffield
+2a0a:6044:f6ec::/48,GB,GB-ENG,Leeds
+2a0a:6044:f6ed::/48,GB,GB-SCT,Edinburgh
+2a0a:6044:f6ee::/48,GB,GB-ENG,Bristol
+2a0a:6044:f6ef::/48,GB,GB-WLS,Cardiff
+2a0a:6044:f6f0::/48,GB,GB-ENG,Manchester
+2a0a:6044:f6f1::/48,GB,GB-ENG,Leicester
+2a0a:6044:f6f2::/48,GB,GB-ENG,Bradford
+2a0a:6044:f6f3::/48,GB,GB-NIR,Belfast
+2a0a:6044:f6f4::/48,GB,GB-ENG,Coventry
+2a0a:6044:f6f5::/48,GB,GB-ENG,Brent
+2a0a:6044:f6f6::/48,WF,WF-UV,Mata-Utu
+2a0a:6044:f6f7::/48,WF,WF-UV,Liku
+2a0a:6044:f6f8::/48,WF,WF-UV,Alele
+2a0a:6044:f6f9::/48,WF,WF-UV,Falaleu
+2a0a:6044:f6fa::/48,WF,WF-UV,Utufua
+2a0a:6044:f6fb::/48,WF,WF-UV,Vaitupu
+2a0a:6044:f6fc::/48,WF,WF-UV,Akaka
+2a0a:6044:f6fd::/48,WF,WF-UV,Halalo
+2a0a:6044:f6fe::/48,WF,WF-UV,Ahoa
+2a0a:6044:f6ff::/48,WF,WF-SG,Leava
+2a0a:6044:f700::/48,WF,WF-UV,Vailala
+2a0a:6044:f701::/48,WF,WF-AL,Kolia
+2a0a:6044:f702::/48,WF,WF-UV,Haafusia
+2a0a:6044:f703::/48,WF,WF-AL,Vele
+2a0a:6044:f704::/48,WF,WF-UV,Teesi
+2a0a:6044:f705::/48,AS,AS-E,Pago Pago
+2a0a:6044:f706::/48,AS,AS-W,Tāfuna
+2a0a:6044:f707::/48,AS,AS-W,Leone
+2a0a:6044:f708::/48,AS,AS-W,Faleniu
+2a0a:6044:f709::/48,AS,AS-E,Aūa
+2a0a:6044:f70a::/48,AS,AS-W,Mapusagafou
+2a0a:6044:f70b::/48,AS,AS-E,Fagatogo
+2a0a:6044:f70c::/48,AS,AS-W,Vaitogi
+2a0a:6044:f70d::/48,AS,AS-W,Malaeimi
+2a0a:6044:f70e::/48,AS,AS-W,Vailoatai
+2a0a:6044:f70f::/48,AS,AS-W,Aoloau
+2a0a:6044:f710::/48,AS,AS-M,Ta`ū
+2a0a:6044:f711::/48,AS,AS-W,Taputimu
+2a0a:6044:f712::/48,AS,AS-W,Malaeloa/Ituau
+2a0a:6044:f713::/48,AS,AS-E,Utulei
+2a0a:6044:f714::/48,AG,AG-4,St John's
+2a0a:6044:f715::/48,AG,AG-4,All Saints
+2a0a:6044:f716::/48,AG,AG-4,Piggotts
+2a0a:6044:f717::/48,AG,AG-6,Liberta
+2a0a:6044:f718::/48,AG,AG-5,Bolands
+2a0a:6044:f719::/48,AG,AG-4,Potters Village
+2a0a:6044:f71a::/48,AG,AG-10,Codrington
+2a0a:6044:f71b::/48,AG,AG-3,Parham
+2a0a:6044:f71c::/48,AG,AG-3,Carlisle
+2a0a:6044:f71d::/48,AG,AG-4,Cedar Grove
+2a0a:6044:f71e::/48,AG,AG-6,Swetes
+2a0a:6044:f71f::/48,AG,AG-6,English Harbour Town
+2a0a:6044:f720::/48,AG,AG-5,Old Road
+2a0a:6044:f721::/48,AG,AG-8,Freetown
+2a0a:6044:f722::/48,AG,AG-6,Falmouth
+2a0a:6044:f723::/48,BS,BS-,Nassau
+2a0a:6044:f724::/48,BS,BS-WG,Lucaya
+2a0a:6044:f725::/48,BS,BS-WG,Freeport
+2a0a:6044:f726::/48,BS,BS-WG,West End
+2a0a:6044:f727::/48,BS,BS-,Cooper’s Town
+2a0a:6044:f728::/48,BS,BS-NS,San Andros
+2a0a:6044:f729::/48,BS,BS-,George Town
+2a0a:6044:f72a::/48,BS,BS-,Marsh Harbour
+2a0a:6044:f72b::/48,BS,BS-EG,High Rock
+2a0a:6044:f72c::/48,BS,BS-NS,Andros Town
+2a0a:6044:f72d::/48,BS,BS-LI,Clarence Town
+2a0a:6044:f72e::/48,BS,BS-,Dunmore Town
+2a0a:6044:f72f::/48,BS,BS-,Spanish Wells
+2a0a:6044:f730::/48,BS,BS-CI,Arthur’s Town
+2a0a:6044:f731::/48,BS,BS-,Alice Town
+2a0a:6044:f732::/48,BB,BB-8,Bridgetown
+2a0a:6044:f733::/48,BB,BB-9,Speightstown
+2a0a:6044:f734::/48,BB,BB-1,Oistins
+2a0a:6044:f735::/48,BB,BB-5,Bathsheba
+2a0a:6044:f736::/48,BB,BB-4,Holetown
+2a0a:6044:f737::/48,BB,BB-1,Crane
+2a0a:6044:f738::/48,BB,BB-7,Crab Hill
+2a0a:6044:f739::/48,BB,BB-6,Blackmans
+2a0a:6044:f73a::/48,BB,BB-2,Greenland
+2a0a:6044:f73b::/48,BB,BB-11,Hillaby
+2a0a:6044:f73c::/48,BB,BB-1,The Gap
+2a0a:6044:f73d::/48,BB,BB-6,Chimborazo
+2a0a:6044:f73e::/48,BB,BB-5,Cherry Grove
+2a0a:6044:f73f::/48,BB,BB-7,Checker Hall
+2a0a:6044:f740::/48,BB,BB-8,Cheapside
+2a0a:6044:f741::/48,BZ,BZ-,Belize City
+2a0a:6044:f742::/48,BZ,BZ-CY,San Ignacio
+2a0a:6044:f743::/48,BZ,BZ-CZL,San Pedro Town
+2a0a:6044:f744::/48,BZ,BZ-OW,Orange Walk
+2a0a:6044:f745::/48,BZ,BZ-CZL,Corozal
+2a0a:6044:f746::/48,BZ,BZ-CY,Belmopan
+2a0a:6044:f747::/48,BZ,BZ-SC,"Dangriga Town, Dangriga"
+2a0a:6044:f748::/48,BZ,BZ-CY,Benque Viejo el Carmen
+2a0a:6044:f749::/48,BZ,BZ-,Punta Gorda
+2a0a:6044:f74a::/48,BZ,BZ-BZ,Ladyville
+2a0a:6044:f74b::/48,BZ,BZ-,Placencia
+2a0a:6044:f74c::/48,BZ,BZ-TOL,Independence
+2a0a:6044:f74d::/48,BZ,BZ-OW,Shipyard
+2a0a:6044:f74e::/48,BZ,BZ-CZL,Sarteneja
+2a0a:6044:f74f::/48,BZ,BZ-OW,San Jose
+2a0a:6044:f750::/48,CA,CA-ON,Toronto
+2a0a:6044:f751::/48,CA,CA-QC,Montreal
+2a0a:6044:f752::/48,CA,CA-AB,Calgary
+2a0a:6044:f753::/48,CA,CA-AB,Edmonton
+2a0a:6044:f754::/48,CA,CA-ON,Ottawa
+2a0a:6044:f755::/48,CA,CA-MB,Winnipeg
+2a0a:6044:f756::/48,CA,CA-ON,Mississauga
+2a0a:6044:f757::/48,CA,CA-BC,Vancouver
+2a0a:6044:f758::/48,CA,CA-ON,Brampton
+2a0a:6044:f759::/48,CA,CA-QC,Québec
+2a0a:6044:f75a::/48,CA,CA-ON,Hamilton
+2a0a:6044:f75b::/48,CA,CA-NS,Halifax
+2a0a:6044:f75c::/48,CA,CA-QC,Laval
+2a0a:6044:f75d::/48,CA,CA-BC,Surrey
+2a0a:6044:f75e::/48,CA,CA-ON,Etobicoke
+2a0a:6044:f75f::/48,CR,CR-SJ,San José
+2a0a:6044:f760::/48,CR,CR-L,Puerto Limón
+2a0a:6044:f761::/48,CR,CR-H,San Francisco
+2a0a:6044:f762::/48,CR,CR-A,Alajuela
+2a0a:6044:f763::/48,CR,CR-G,Liberia
+2a0a:6044:f764::/48,CR,CR-C,Paraíso
+2a0a:6044:f765::/48,CR,CR-P,Puntarenas
+2a0a:6044:f766::/48,CR,CR-SJ,San Isidro
+2a0a:6044:f767::/48,CR,CR-SJ,Curridabat
+2a0a:6044:f768::/48,CR,CR-SJ,San Vicente
+2a0a:6044:f769::/48,CR,CR-SJ,San Vicente de Moravia
+2a0a:6044:f76a::/48,CR,CR-A,San José
+2a0a:6044:f76b::/48,CR,CR-SJ,Purral
+2a0a:6044:f76c::/48,CR,CR-C,Turrialba
+2a0a:6044:f76d::/48,CR,CR-SJ,San Miguel
+2a0a:6044:f76e::/48,DM,DM-4,Roseau
+2a0a:6044:f76f::/48,DM,DM-5,Portsmouth
+2a0a:6044:f770::/48,DM,DM-,Marigot
+2a0a:6044:f771::/48,DM,DM-,Berekua
+2a0a:6044:f772::/48,DM,DM-10,Mahaut
+2a0a:6044:f773::/48,DM,DM-,Saint Joseph
+2a0a:6044:f774::/48,DM,DM-2,Wesley
+2a0a:6044:f775::/48,DM,DM-8,Soufrière
+2a0a:6044:f776::/48,DM,DM-6,Salisbury
+2a0a:6044:f777::/48,DM,DM-3,Castle Bruce
+2a0a:6044:f778::/48,DM,DM-,La Plaine
+2a0a:6044:f779::/48,DM,DM-,Pointe Michel
+2a0a:6044:f77a::/48,DM,DM-2,Woodford Hill
+2a0a:6044:f77b::/48,DM,DM-2,Calibishie
+2a0a:6044:f77c::/48,DM,DM-11,Colihaut
+2a0a:6044:f77d::/48,DO,DO-1,Santo Domingo
+2a0a:6044:f77e::/48,DO,DO-25,Santiago de los Caballeros
+2a0a:6044:f77f::/48,DO,DO-32,Santo Domingo Oeste
+2a0a:6044:f780::/48,DO,DO-32,Santo Domingo Este
+2a0a:6044:f781::/48,DO,DO-23,San Pedro de Macorís
+2a0a:6044:f782::/48,DO,DO-12,La Romana
+2a0a:6044:f783::/48,DO,DO-1,Bella Vista
+2a0a:6044:f784::/48,DO,DO-21,San Cristóbal
+2a0a:6044:f785::/48,DO,DO-18,Puerto Plata
+2a0a:6044:f786::/48,DO,DO-6,San Francisco de Macorís
+2a0a:6044:f787::/48,DO,DO-11,Salvaleón de Higüey
+2a0a:6044:f788::/48,DO,DO-13,Concepción de la Vega
+2a0a:6044:f789::/48,DO,DO-11,Punta Cana
+2a0a:6044:f78a::/48,DO,DO-4,Santa Cruz de Barahona
+2a0a:6044:f78b::/48,DO,DO-28,Bonao
+2a0a:6044:f78c::/48,SV,SV-SS,San Salvador
+2a0a:6044:f78d::/48,SV,SV-SS,Soyapango
+2a0a:6044:f78e::/48,SV,SV-SM,San Miguel
+2a0a:6044:f78f::/48,SV,SV-SA,Santa Ana
+2a0a:6044:f790::/48,SV,SV-SS,Mejicanos
+2a0a:6044:f791::/48,SV,SV-LI,Santa Tecla
+2a0a:6044:f792::/48,SV,SV-SS,Apopa
+2a0a:6044:f793::/48,SV,SV-SS,Delgado
+2a0a:6044:f794::/48,SV,SV-SO,Sonsonate
+2a0a:6044:f795::/48,SV,SV-SS,San Marcos
+2a0a:6044:f796::/48,SV,SV-US,Usulután
+2a0a:6044:f797::/48,SV,SV-CU,Cojutepeque
+2a0a:6044:f798::/48,SV,SV-SS,Cuscatancingo
+2a0a:6044:f799::/48,SV,SV-SV,San Vicente
+2a0a:6044:f79a::/48,SV,SV-PA,Zacatecoluca
+2a0a:6044:f79b::/48,GD,GD-3,St. George's
+2a0a:6044:f79c::/48,GD,GD-4,Gouyave
+2a0a:6044:f79d::/48,GD,GD-1,Grenville
+2a0a:6044:f79e::/48,GD,GD-5,Victoria
+2a0a:6044:f79f::/48,GD,GD-2,Saint David’s
+2a0a:6044:f7a0::/48,GD,GD-6,Sauteurs
+2a0a:6044:f7a1::/48,GD,GD-10,Hillsborough
+2a0a:6044:f7a2::/48,GD,GD-3,Magazine Beach
+2a0a:6044:f7a3::/48,GD,GD-3,Woburn
+2a0a:6044:f7a4::/48,GD,GD-10,Windward
+2a0a:6044:f7a5::/48,GD,GD-2,Windsor Forest
+2a0a:6044:f7a6::/48,GD,GD-2,Windsor Castle
+2a0a:6044:f7a7::/48,GD,GD-1,Windsor
+2a0a:6044:f7a8::/48,GD,GD-3,Willis
+2a0a:6044:f7a9::/48,GD,GD-3,White Gun
+2a0a:6044:f7aa::/48,GU,GU-,Dededo Village
+2a0a:6044:f7ab::/48,GU,GU-,Yigo Village
+2a0a:6044:f7ac::/48,GU,GU-,Tamuning
+2a0a:6044:f7ad::/48,GU,GU-,Tamuning-Tumon-Harmon Village
+2a0a:6044:f7ae::/48,GU,GU-,Mangilao Village
+2a0a:6044:f7af::/48,GU,GU-,Barrigada Village
+2a0a:6044:f7b0::/48,GU,GU-,Santa Rita
+2a0a:6044:f7b1::/48,GU,GU-,Mongmong-Toto-Maite Village
+2a0a:6044:f7b2::/48,GU,GU-,Chalan Pago-Ordot Village
+2a0a:6044:f7b3::/48,GU,GU-,Yona Village
+2a0a:6044:f7b4::/48,GU,GU-,Agat Village
+2a0a:6044:f7b5::/48,GU,GU-,Agana Heights Village
+2a0a:6044:f7b6::/48,GU,GU-,Talofofo Village
+2a0a:6044:f7b7::/48,GU,GU-,Inarajan Village
+2a0a:6044:f7b8::/48,GU,GU-,Sinajana Village
+2a0a:6044:f7b9::/48,GT,GT-GU,Guatemala City
+2a0a:6044:f7ba::/48,GT,GT-GU,Villa Nueva
+2a0a:6044:f7bb::/48,GT,GT-GU,Mixco
+2a0a:6044:f7bc::/48,GT,GT-AV,Cobán
+2a0a:6044:f7bd::/48,GT,GT-QZ,Quetzaltenango
+2a0a:6044:f7be::/48,GT,GT-JA,Jalapa
+2a0a:6044:f7bf::/48,GT,GT-ES,Escuintla
+2a0a:6044:f7c0::/48,GT,GT-GU,Villa Canales
+2a0a:6044:f7c1::/48,GT,GT-JU,Jutiapa
+2a0a:6044:f7c2::/48,GT,GT-QC,Chichicastenango
+2a0a:6044:f7c3::/48,GT,GT-GU,San Juan Sacatepéquez
+2a0a:6044:f7c4::/48,GT,GT-GU,Petapa
+2a0a:6044:f7c5::/48,GT,GT-ES,Santa Lucía Cotzumalguapa
+2a0a:6044:f7c6::/48,GT,GT-CQ,Chiquimula
+2a0a:6044:f7c7::/48,GT,GT-QZ,Coatepeque
+2a0a:6044:f7c8::/48,HT,HT-OU,Port-au-Prince
+2a0a:6044:f7c9::/48,HT,HT-OU,Carrefour
+2a0a:6044:f7ca::/48,HT,HT-OU,Delmas 73
+2a0a:6044:f7cb::/48,HT,HT-NO,Port-de-Paix
+2a0a:6044:f7cc::/48,HT,HT-OU,Pétionville
+2a0a:6044:f7cd::/48,HT,HT-OU,Croix-des-Bouquets
+2a0a:6044:f7ce::/48,HT,HT-SE,Jacmel
+2a0a:6044:f7cf::/48,HT,HT-ND,Cap-Haïtien
+2a0a:6044:f7d0::/48,HT,HT-OU,Léogâne
+2a0a:6044:f7d1::/48,HT,HT-SD,Les Cayes
+2a0a:6044:f7d2::/48,HT,HT-OU,Tigwav
+2a0a:6044:f7d3::/48,HT,HT-GA,Jérémie
+2a0a:6044:f7d4::/48,HT,HT-AR,Saint-Michel de l'Atalaye
+2a0a:6044:f7d5::/48,HT,HT-NI,Miragoâne
+2a0a:6044:f7d6::/48,HT,HT-AR,Gonaïves
+2a0a:6044:f7d7::/48,HN,HN-FM,Tegucigalpa
+2a0a:6044:f7d8::/48,HN,HN-CR,San Pedro Sula
+2a0a:6044:f7d9::/48,HN,HN-AT,La Ceiba
+2a0a:6044:f7da::/48,HN,HN-CR,Choloma
+2a0a:6044:f7db::/48,HN,HN-YO,El Progreso
+2a0a:6044:f7dc::/48,HN,HN-CH,Ciudad Choluteca
+2a0a:6044:f7dd::/48,HN,HN-CM,Comayagua
+2a0a:6044:f7de::/48,HN,HN-CR,Puerto Cortez
+2a0a:6044:f7df::/48,HN,HN-CR,La Lima
+2a0a:6044:f7e0::/48,HN,HN-EP,Danlí
+2a0a:6044:f7e1::/48,HN,HN-CM,Siguatepeque
+2a0a:6044:f7e2::/48,HN,HN-OL,Juticalpa
+2a0a:6044:f7e3::/48,HN,HN-CR,Villanueva
+2a0a:6044:f7e4::/48,HN,HN-CL,Tocoa
+2a0a:6044:f7e5::/48,HN,HN-AT,Tela
+2a0a:6044:f7e6::/48,JM,JM-2,Kingston
+2a0a:6044:f7e7::/48,JM,JM-2,New Kingston
+2a0a:6044:f7e8::/48,JM,JM-14,Spanish Town
+2a0a:6044:f7e9::/48,JM,JM-14,Portmore
+2a0a:6044:f7ea::/48,JM,JM-8,Montego Bay
+2a0a:6044:f7eb::/48,JM,JM-12,Mandeville
+2a0a:6044:f7ec::/48,JM,JM-13,May Pen
+2a0a:6044:f7ed::/48,JM,JM-14,Old Harbour
+2a0a:6044:f7ee::/48,JM,JM-14,Linstead
+2a0a:6044:f7ef::/48,JM,JM-2,Half Way Tree
+2a0a:6044:f7f0::/48,JM,JM-10,Savanna-la-Mar
+2a0a:6044:f7f1::/48,JM,JM-4,Port Antonio
+2a0a:6044:f7f2::/48,JM,JM-6,St Ann's Bay
+2a0a:6044:f7f3::/48,JM,JM-14,Bog Walk
+2a0a:6044:f7f4::/48,JM,JM-2,Constant Spring
+2a0a:6044:f7f5::/48,MX,MX-CMX,Mexico City
+2a0a:6044:f7f6::/48,MX,MX-BCN,Tijuana
+2a0a:6044:f7f7::/48,MX,MX-CMX,Iztapalapa
+2a0a:6044:f7f8::/48,MX,MX-GUA,León
+2a0a:6044:f7f9::/48,MX,MX-PUE,Puebla City
+2a0a:6044:f7fa::/48,MX,MX-MEX,Ecatepec
+2a0a:6044:f7fb::/48,MX,MX-QUE,Querétaro City
+2a0a:6044:f7fc::/48,MX,MX-CHH,Ciudad Juárez
+2a0a:6044:f7fd::/48,MX,MX-JAL,Zapopan
+2a0a:6044:f7fe::/48,MX,MX-JAL,Guadalajara
+2a0a:6044:f7ff::/48,MX,MX-YUC,Mérida
+2a0a:6044:f800::/48,MX,MX-CMX,Gustavo Adolfo Madero
+2a0a:6044:f801::/48,MX,MX-NLE,Monterrey
+2a0a:6044:f802::/48,MX,MX-MEX,Ciudad Nezahualcoyotl
+2a0a:6044:f803::/48,MX,MX-BCN,Mexicali
+2a0a:6044:f804::/48,NI,NI-MN,Managua
+2a0a:6044:f805::/48,NI,NI-LE,León
+2a0a:6044:f806::/48,NI,NI-MS,Masaya
+2a0a:6044:f807::/48,NI,NI-CI,Chinandega
+2a0a:6044:f808::/48,NI,NI-MT,Matagalpa
+2a0a:6044:f809::/48,NI,NI-ES,Estelí
+2a0a:6044:f80a::/48,NI,NI-GR,Granada
+2a0a:6044:f80b::/48,NI,NI-MN,Mateare
+2a0a:6044:f80c::/48,NI,NI-JI,Jinotega
+2a0a:6044:f80d::/48,NI,NI-CI,El Viejo
+2a0a:6044:f80e::/48,NI,NI-AS,Nueva Guinea
+2a0a:6044:f80f::/48,NI,NI-MN,Ciudad Sandino
+2a0a:6044:f810::/48,NI,NI-MN,Tipitapa
+2a0a:6044:f811::/48,NI,NI-CO,Juigalpa
+2a0a:6044:f812::/48,NI,NI-AS,Bluefields
+2a0a:6044:f813::/48,MP,MP-S,Saipan
+2a0a:6044:f814::/48,MP,MP-T,San Jose
+2a0a:6044:f815::/48,MP,MP-T,Carolinas Heights
+2a0a:6044:f816::/48,MP,MP-N,Pagan Village
+2a0a:6044:f817::/48,MP,MP-N,Agrihan Village
+2a0a:6044:f818::/48,MP,MP-N,Alamagan Village
+2a0a:6044:f819::/48,MP,MP-S,Capitol Hill Village
+2a0a:6044:f81a::/48,MP,MP-S,Kagman Village
+2a0a:6044:f81b::/48,MP,MP-S,Garapan - JP Marianas Capital Village pre-WW2
+2a0a:6044:f81c::/48,MP,MP-S,Puerto Rico Village
+2a0a:6044:f81d::/48,MP,MP-S,Muchot
+2a0a:6044:f81e::/48,MP,MP-S,Achugao Hamlet
+2a0a:6044:f81f::/48,MP,MP-S,As Lito Hamlet
+2a0a:6044:f820::/48,MP,MP-S,As Perdido Hamlet
+2a0a:6044:f821::/48,MP,MP-S,Chalan Kiya Hamlet
+2a0a:6044:f822::/48,PA,PA-8,Panama City
+2a0a:6044:f823::/48,PA,PA-8,San Miguelito
+2a0a:6044:f824::/48,PA,PA-8,Juan Díaz
+2a0a:6044:f825::/48,PA,PA-4,David
+2a0a:6044:f826::/48,PA,PA-10,Arraiján
+2a0a:6044:f827::/48,PA,PA-3,Colón
+2a0a:6044:f828::/48,PA,PA-8,Las Cumbres
+2a0a:6044:f829::/48,PA,PA-10,La Chorrera
+2a0a:6044:f82a::/48,PA,PA-8,Pedregal
+2a0a:6044:f82b::/48,PA,PA-8,Tocumen
+2a0a:6044:f82c::/48,PA,PA-9,Santiago
+2a0a:6044:f82d::/48,PA,PA-8,Parque Lefevre
+2a0a:6044:f82e::/48,PA,PA-8,Chilibre
+2a0a:6044:f82f::/48,PA,PA-3,Cativá
+2a0a:6044:f830::/48,PA,PA-8,Río Abajo
+2a0a:6044:f831::/48,PR,PR-127,San Juan
+2a0a:6044:f832::/48,PR,PR-21,Bayamón
+2a0a:6044:f833::/48,PR,PR-31,Carolina
+2a0a:6044:f834::/48,PR,PR-113,Ponce
+2a0a:6044:f835::/48,PR,PR-13,Arecibo
+2a0a:6044:f836::/48,PR,PR-25,Caguas
+2a0a:6044:f837::/48,PR,PR-61,Guaynabo
+2a0a:6044:f838::/48,PR,PR-139,Trujillo Alto
+2a0a:6044:f839::/48,PR,PR-97,Mayagüez
+2a0a:6044:f83a::/48,PR,PR-53,Fajardo
+2a0a:6044:f83b::/48,PR,PR-137,Levittown
+2a0a:6044:f83c::/48,PR,PR-145,Vega Baja
+2a0a:6044:f83d::/48,PR,PR-33,Cataño
+2a0a:6044:f83e::/48,PR,PR-17,Barceloneta
+2a0a:6044:f83f::/48,PR,PR-57,Guayama
+2a0a:6044:f840::/48,TT,TT-CHA,Chaguanas
+2a0a:6044:f841::/48,TT,TT-SFO,Mon Repos
+2a0a:6044:f842::/48,TT,TT-,San Fernando
+2a0a:6044:f843::/48,TT,TT-POS,Port of Spain
+2a0a:6044:f844::/48,TT,TT-MRC,Rio Claro
+2a0a:6044:f845::/48,TT,TT-ARI,Arima
+2a0a:6044:f846::/48,TT,TT-SFO,Marabella
+2a0a:6044:f847::/48,TT,TT-POS,Laventille
+2a0a:6044:f848::/48,TT,TT-,Point Fortin
+2a0a:6044:f849::/48,TT,TT-TUP,Tunapuna
+2a0a:6044:f84a::/48,TT,TT-,Scarborough
+2a0a:6044:f84b::/48,TT,TT-SGE,Sangre Grande
+2a0a:6044:f84c::/48,TT,TT-TUP,Paradise
+2a0a:6044:f84d::/48,TT,TT-PED,Peñal
+2a0a:6044:f84e::/48,TT,TT-TUP,Arouca
+2a0a:6044:f84f::/48,US,US-NY,New York
+2a0a:6044:f850::/48,US,US-CA,Los Angeles
+2a0a:6044:f851::/48,US,US-NY,Brooklyn
+2a0a:6044:f852::/48,US,US-IL,Chicago
+2a0a:6044:f853::/48,US,US-TX,Houston
+2a0a:6044:f854::/48,US,US-NY,Borough of Queens
+2a0a:6044:f855::/48,US,US-AZ,Phoenix
+2a0a:6044:f856::/48,US,US-PA,Philadelphia
+2a0a:6044:f857::/48,US,US-NY,Manhattan
+2a0a:6044:f858::/48,US,US-TX,San Antonio
+2a0a:6044:f859::/48,US,US-CA,San Diego
+2a0a:6044:f85a::/48,US,US-NY,Bronx
+2a0a:6044:f85b::/48,US,US-TX,Dallas
+2a0a:6044:f85c::/48,US,US-CA,San Jose
+2a0a:6044:f85d::/48,US,US-FL,Jacksonville
+2a0a:6044:f85e::/48,AR,AR-C,Buenos Aires
+2a0a:6044:f85f::/48,AR,AR-X,Córdoba
+2a0a:6044:f860::/48,AR,AR-S,Rosario
+2a0a:6044:f861::/48,AR,AR-B,Mar del Plata
+2a0a:6044:f862::/48,AR,AR-T,Tucumán
+2a0a:6044:f863::/48,AR,AR-A,Salta
+2a0a:6044:f864::/48,AR,AR-S,Santa Fe
+2a0a:6044:f865::/48,AR,AR-W,Corrientes
+2a0a:6044:f866::/48,AR,AR-N,Posadas
+2a0a:6044:f867::/48,AR,AR-B,Bahía Blanca
+2a0a:6044:f868::/48,AR,AR-H,Resistencia
+2a0a:6044:f869::/48,AR,AR-B,Merlo
+2a0a:6044:f86a::/48,AR,AR-B,Quilmes
+2a0a:6044:f86b::/48,AR,AR-Y,San Salvador de Jujuy
+2a0a:6044:f86c::/48,AR,AR-G,Santiago del Estero
+2a0a:6044:f86d::/48,AW,AW-,Oranjestad
+2a0a:6044:f86e::/48,AW,AW-,Tanki Leendert
+2a0a:6044:f86f::/48,AW,AW-,San Nicolas
+2a0a:6044:f870::/48,AW,AW-,Santa Cruz
+2a0a:6044:f871::/48,AW,AW-,Paradera
+2a0a:6044:f872::/48,AW,AW-,Savaneta
+2a0a:6044:f873::/48,AW,AW-,Westpunt
+2a0a:6044:f874::/48,AW,AW-,Wayaca
+2a0a:6044:f875::/48,AW,AW-,Washington
+2a0a:6044:f876::/48,AW,AW-,Tarabana
+2a0a:6044:f877::/48,AW,AW-,Tanki Flip
+2a0a:6044:f878::/48,AW,AW-,Tamarijn
+2a0a:6044:f879::/48,AW,AW-,Solito
+2a0a:6044:f87a::/48,AW,AW-,Soledad
+2a0a:6044:f87b::/48,AW,AW-,Siribana
+2a0a:6044:f87c::/48,BO,BO-L,La Paz
+2a0a:6044:f87d::/48,BO,BO-S,Santa Cruz
+2a0a:6044:f87e::/48,BO,BO-C,Cochabamba
+2a0a:6044:f87f::/48,BO,BO-H,Sucre
+2a0a:6044:f880::/48,BO,BO-O,Oruro
+2a0a:6044:f881::/48,BO,BO-C,Sacaba
+2a0a:6044:f882::/48,BO,BO-C,Quillacollo
+2a0a:6044:f883::/48,BO,BO-T,Tarija
+2a0a:6044:f884::/48,BO,BO-P,Potosí
+2a0a:6044:f885::/48,BO,BO-B,Riberalta
+2a0a:6044:f886::/48,BO,BO-S,Montero
+2a0a:6044:f887::/48,BO,BO-L,Viacha
+2a0a:6044:f888::/48,BO,BO-B,Trinidad
+2a0a:6044:f889::/48,BO,BO-,Yacuiba
+2a0a:6044:f88a::/48,BO,BO-C,Tiquipaya
+2a0a:6044:f88b::/48,BR,BR-SP,São Paulo
+2a0a:6044:f88c::/48,BR,BR-RJ,Rio de Janeiro
+2a0a:6044:f88d::/48,BR,BR-MG,Belo Horizonte
+2a0a:6044:f88e::/48,BR,BR-BA,Salvador
+2a0a:6044:f88f::/48,BR,BR-CE,Fortaleza
+2a0a:6044:f890::/48,BR,BR-AM,Manaus
+2a0a:6044:f891::/48,BR,BR-DF,Brasília
+2a0a:6044:f892::/48,BR,BR-PR,Curitiba
+2a0a:6044:f893::/48,BR,BR-PE,Recife
+2a0a:6044:f894::/48,BR,BR-GO,Goiânia
+2a0a:6044:f895::/48,BR,BR-PA,Belém
+2a0a:6044:f896::/48,BR,BR-RS,Porto Alegre
+2a0a:6044:f897::/48,BR,BR-SP,Guarulhos
+2a0a:6044:f898::/48,BR,BR-AL,Maceió
+2a0a:6044:f899::/48,BR,BR-SP,Campinas
+2a0a:6044:f89a::/48,CL,CL-RM,Santiago
+2a0a:6044:f89b::/48,CL,CL-RM,Puente Alto
+2a0a:6044:f89c::/48,CL,CL-AN,Antofagasta
+2a0a:6044:f89d::/48,CL,CL-VS,Viña del Mar
+2a0a:6044:f89e::/48,CL,CL-VS,Valparaíso
+2a0a:6044:f89f::/48,CL,CL-BI,Talcahuano
+2a0a:6044:f8a0::/48,CL,CL-RM,San Bernardo
+2a0a:6044:f8a1::/48,CL,CL-LL,Port Montt
+2a0a:6044:f8a2::/48,CL,CL-AR,Temuco
+2a0a:6044:f8a3::/48,CL,CL-BI,Concepción
+2a0a:6044:f8a4::/48,CL,CL-LI,Rancagua
+2a0a:6044:f8a5::/48,CL,CL-RM,La Pintana
+2a0a:6044:f8a6::/48,CL,CL-ML,Talca
+2a0a:6044:f8a7::/48,CL,CL-TA,Iquique
+2a0a:6044:f8a8::/48,CL,CL-AP,Arica
+2a0a:6044:f8a9::/48,CO,CO-DC,Bogotá
+2a0a:6044:f8aa::/48,CO,CO-VAC,Santiago de Cali
+2a0a:6044:f8ab::/48,CO,CO-ANT,Medellín
+2a0a:6044:f8ac::/48,CO,CO-ATL,Barranquilla
+2a0a:6044:f8ad::/48,CO,CO-BOL,Cartagena
+2a0a:6044:f8ae::/48,CO,CO-NSA,Cúcuta
+2a0a:6044:f8af::/48,CO,CO-SAN,Bucaramanga
+2a0a:6044:f8b0::/48,CO,CO-TOL,Ibagué
+2a0a:6044:f8b1::/48,CO,CO-MAG,Santa Marta
+2a0a:6044:f8b2::/48,CO,CO-COR,Montería
+2a0a:6044:f8b3::/48,CO,CO-CES,Valledupar
+2a0a:6044:f8b4::/48,CO,CO-RIS,Pereira
+2a0a:6044:f8b5::/48,CO,CO-CAL,Manizales
+2a0a:6044:f8b6::/48,CO,CO-VAC,Buenaventura
+2a0a:6044:f8b7::/48,CO,CO-ANT,Bello
+2a0a:6044:f8b8::/48,EC,EC-P,Quito
+2a0a:6044:f8b9::/48,EC,EC-G,Guayaquil
+2a0a:6044:f8ba::/48,EC,EC-A,Cuenca
+2a0a:6044:f8bb::/48,EC,EC-SD,Santo Domingo de los Colorados
+2a0a:6044:f8bc::/48,EC,EC-T,Ambato
+2a0a:6044:f8bd::/48,EC,EC-M,Portoviejo
+2a0a:6044:f8be::/48,EC,EC-G,Durán
+2a0a:6044:f8bf::/48,EC,EC-O,Machala
+2a0a:6044:f8c0::/48,EC,EC-L,Loja
+2a0a:6044:f8c1::/48,EC,EC-M,Manta
+2a0a:6044:f8c2::/48,EC,EC-H,Riobamba
+2a0a:6044:f8c3::/48,EC,EC-I,Ibarra
+2a0a:6044:f8c4::/48,EC,EC-E,Esmeraldas
+2a0a:6044:f8c5::/48,EC,EC-R,Quevedo
+2a0a:6044:f8c6::/48,EC,EC-X,Latacunga
+2a0a:6044:f8c7::/48,GY,GY-DE,Georgetown
+2a0a:6044:f8c8::/48,GY,GY-UD,Linden
+2a0a:6044:f8c9::/48,GY,GY-EB,New Amsterdam
+2a0a:6044:f8ca::/48,GY,GY-PM,Anna Regina
+2a0a:6044:f8cb::/48,GY,GY-CU,Bartica
+2a0a:6044:f8cc::/48,GY,GY-EB,Skeldon
+2a0a:6044:f8cd::/48,GY,GY-MA,Rosignol
+2a0a:6044:f8ce::/48,GY,GY-DE,Mahaica Village
+2a0a:6044:f8cf::/48,GY,GY-PT,Mahdia
+2a0a:6044:f8d0::/48,GY,GY-ES,Parika
+2a0a:6044:f8d1::/48,GY,GY-ES,Vreed-en-Hoop
+2a0a:6044:f8d2::/48,GY,GY-MA,Mahaicony Village
+2a0a:6044:f8d3::/48,GY,GY-BA,Mabaruma
+2a0a:6044:f8d4::/48,GY,GY-UT,Lethem
+2a0a:6044:f8d5::/48,GY,GY-EB,Amsterdam
+2a0a:6044:f8d6::/48,PY,PY-ASU,Asunción
+2a0a:6044:f8d7::/48,PY,PY-10,Ciudad del Este
+2a0a:6044:f8d8::/48,PY,PY-11,San Lorenzo
+2a0a:6044:f8d9::/48,PY,PY-11,Capiatá
+2a0a:6044:f8da::/48,PY,PY-11,Lambaré
+2a0a:6044:f8db::/48,PY,PY-11,Fernando de la Mora
+2a0a:6044:f8dc::/48,PY,PY-11,Limpio
+2a0a:6044:f8dd::/48,PY,PY-11,Nemby
+2a0a:6044:f8de::/48,PY,PY-13,Pedro Juan Caballero
+2a0a:6044:f8df::/48,PY,PY-7,Encarnación
+2a0a:6044:f8e0::/48,PY,PY-11,Mariano Roque Alonso
+2a0a:6044:f8e1::/48,PY,PY-11,Itauguá
+2a0a:6044:f8e2::/48,PY,PY-11,Villa Elisa
+2a0a:6044:f8e3::/48,PY,PY-15,Villa Hayes
+2a0a:6044:f8e4::/48,PY,PY-3,Caacupé
+2a0a:6044:f8e5::/48,PE,PE-LMA,Lima
+2a0a:6044:f8e6::/48,PE,PE-CAL,Callao
+2a0a:6044:f8e7::/48,PE,PE-ARE,Arequipa
+2a0a:6044:f8e8::/48,PE,PE-LAL,Trujillo
+2a0a:6044:f8e9::/48,PE,PE-LAM,Chiclayo
+2a0a:6044:f8ea::/48,PE,PE-PIU,Piura
+2a0a:6044:f8eb::/48,PE,PE-JUN,Huancayo
+2a0a:6044:f8ec::/48,PE,PE-CUS,Cusco
+2a0a:6044:f8ed::/48,PE,PE-LOR,Iquitos
+2a0a:6044:f8ee::/48,PE,PE-UCA,Pucallpa
+2a0a:6044:f8ef::/48,PE,PE-ANC,Chimbote
+2a0a:6044:f8f0::/48,PE,PE-TAC,Tacna
+2a0a:6044:f8f1::/48,PE,PE-ICA,Ica
+2a0a:6044:f8f2::/48,PE,PE-LMA,Santiago de Surco
+2a0a:6044:f8f3::/48,PE,PE-PUN,Juliaca
+2a0a:6044:f8f4::/48,SR,SR-PM,Paramaribo
+2a0a:6044:f8f5::/48,SR,SR-WA,Lelydorp
+2a0a:6044:f8f6::/48,SR,SR-BR,Brokopondo
+2a0a:6044:f8f7::/48,SR,SR-NI,Nieuw Nickerie
+2a0a:6044:f8f8::/48,SR,SR-CM,Meerzorg
+2a0a:6044:f8f9::/48,SR,SR-MA,Moengo
+2a0a:6044:f8fa::/48,SR,SR-,Nieuw Amsterdam
+2a0a:6044:f8fb::/48,SR,SR-,Mariënburg
+2a0a:6044:f8fc::/48,SR,SR-NI,Wageningen
+2a0a:6044:f8fd::/48,SR,SR-,Albina
+2a0a:6044:f8fe::/48,SR,SR-,Groningen
+2a0a:6044:f8ff::/48,SR,SR-,Brownsweg
+2a0a:6044:f900::/48,SR,SR-,Onverwacht
+2a0a:6044:f901::/48,SR,SR-,Totness
+2a0a:6044:f902::/48,SR,SR-,Benzdorp (Monte Hermon)
+2a0a:6044:f903::/48,DZ,DZ-16,Algiers
+2a0a:6044:f904::/48,DZ,DZ-31,Oran
+2a0a:6044:f905::/48,DZ,DZ-25,Constantine
+2a0a:6044:f906::/48,DZ,DZ-23,Annaba
+2a0a:6044:f907::/48,DZ,DZ-9,Blida
+2a0a:6044:f908::/48,DZ,DZ-5,Batna City
+2a0a:6044:f909::/48,DZ,DZ-16,Bab Ezzouar
+2a0a:6044:f90a::/48,DZ,DZ-17,Djelfa
+2a0a:6044:f90b::/48,DZ,DZ-19,Sétif
+2a0a:6044:f90c::/48,DZ,DZ-22,Sidi Bel Abbes
+2a0a:6044:f90d::/48,DZ,DZ-7,Biskra
+2a0a:6044:f90e::/48,DZ,DZ-12,Tébessa
+2a0a:6044:f90f::/48,DZ,DZ-39,El Oued
+2a0a:6044:f910::/48,DZ,DZ-21,Skikda
+2a0a:6044:f911::/48,DZ,DZ-14,Tiaret
+2a0a:6044:f912::/48,AO,AO-LUA,Luanda
+2a0a:6044:f913::/48,AO,AO-HUI,Lubango
+2a0a:6044:f914::/48,AO,AO-HUA,Huambo
+2a0a:6044:f915::/48,AO,AO-BGU,Benguela
+2a0a:6044:f916::/48,AO,AO-CAB,Cabinda
+2a0a:6044:f917::/48,AO,AO-MAL,Malanje
+2a0a:6044:f918::/48,AO,AO-LSU,Saurimo
+2a0a:6044:f919::/48,AO,AO-BGU,Lobito
+2a0a:6044:f91a::/48,AO,AO-BIE,Cuito
+2a0a:6044:f91b::/48,AO,AO-UIG,Uíge
+2a0a:6044:f91c::/48,AO,AO-MOX,Luena
+2a0a:6044:f91d::/48,AO,AO-NAM,Mossamedes
+2a0a:6044:f91e::/48,AO,AO-CCU,Menongue
+2a0a:6044:f91f::/48,AO,AO-CUS,Sumbe
+2a0a:6044:f920::/48,AO,AO-ZAI,Soyo
+2a0a:6044:f921::/48,BJ,BJ-LI,Cotonou
+2a0a:6044:f922::/48,BJ,BJ-AQ,Abomey-Calavi
+2a0a:6044:f923::/48,BJ,BJ-OU,Porto-Novo
+2a0a:6044:f924::/48,BJ,BJ-BO,Parakou
+2a0a:6044:f925::/48,BJ,BJ-AQ,Godomè
+2a0a:6044:f926::/48,BJ,BJ-ZO,Abomey
+2a0a:6044:f927::/48,BJ,BJ-DO,Djougou
+2a0a:6044:f928::/48,BJ,BJ-ZO,Bohicon
+2a0a:6044:f929::/48,BJ,BJ-OU,Ekpé
+2a0a:6044:f92a::/48,BJ,BJ-BO,Nikki
+2a0a:6044:f92b::/48,BJ,BJ-AL,Malanville
+2a0a:6044:f92c::/48,BJ,BJ-AL,Kandi
+2a0a:6044:f92d::/48,BJ,BJ-AK,Kérou
+2a0a:6044:f92e::/48,BJ,BJ-AK,Natitingou
+2a0a:6044:f92f::/48,BJ,BJ-PL,Pobé
+2a0a:6044:f930::/48,BW,BW-GA,Gaborone
+2a0a:6044:f931::/48,BW,BW-FR,Francistown
+2a0a:6044:f932::/48,BW,BW-KW,Mogoditshane
+2a0a:6044:f933::/48,BW,BW-NW,Maun
+2a0a:6044:f934::/48,BW,BW-KW,Molepolole
+2a0a:6044:f935::/48,BW,BW-CE,Serowe
+2a0a:6044:f936::/48,BW,BW-SE,Tlokweng
+2a0a:6044:f937::/48,BW,BW-CE,Palapye
+2a0a:6044:f938::/48,BW,BW-KL,Mochudi
+2a0a:6044:f939::/48,BW,BW-CE,Mahalapye
+2a0a:6044:f93a::/48,BW,BW-SO,Kanye
+2a0a:6044:f93b::/48,BW,BW-SP,Selebi-Phikwe
+2a0a:6044:f93c::/48,BW,BW-CE,Letlhakane
+2a0a:6044:f93d::/48,BW,BW-SE,Ramotswa
+2a0a:6044:f93e::/48,BW,BW-LO,Lobatse
+2a0a:6044:f93f::/48,BF,BF-3,Ouagadougou
+2a0a:6044:f940::/48,BF,BF-9,Bobo-Dioulasso
+2a0a:6044:f941::/48,BF,BF-6,Koudougou
+2a0a:6044:f942::/48,BF,BF-3,Saaba
+2a0a:6044:f943::/48,BF,BF-10,Ouahigouya
+2a0a:6044:f944::/48,BF,BF-5,Kaya
+2a0a:6044:f945::/48,BF,BF-2,Banfora
+2a0a:6044:f946::/48,BF,BF-4,Pouytenga
+2a0a:6044:f947::/48,BF,BF-9,Houndé
+2a0a:6044:f948::/48,BF,BF-8,Fada N'gourma
+2a0a:6044:f949::/48,BF,BF-3,Nioko I
+2a0a:6044:f94a::/48,BF,BF-1,Dédougou
+2a0a:6044:f94b::/48,BF,BF-4,Tenkodogo
+2a0a:6044:f94c::/48,BF,BF-12,Djibo
+2a0a:6044:f94d::/48,BF,BF-5,Kongoussi
+2a0a:6044:f94e::/48,BI,BI-BM,Bujumbura
+2a0a:6044:f94f::/48,BI,BI-GI,Gitega
+2a0a:6044:f950::/48,BI,BI-NG,Ngozi
+2a0a:6044:f951::/48,BI,BI-RM,Rumonge
+2a0a:6044:f952::/48,BI,BI-CI,Cibitoke
+2a0a:6044:f953::/48,BI,BI-KY,Kayanza
+2a0a:6044:f954::/48,BI,BI-BB,Bubanza
+2a0a:6044:f955::/48,BI,BI-BL,Gatumba
+2a0a:6044:f956::/48,BI,BI-KR,Karuzi
+2a0a:6044:f957::/48,BI,BI-KI,Kirundo
+2a0a:6044:f958::/48,BI,BI-MY,Muyinga
+2a0a:6044:f959::/48,BI,BI-MA,Makamba
+2a0a:6044:f95a::/48,BI,BI-RY,Ruyigi
+2a0a:6044:f95b::/48,BI,BI-RT,Rutana
+2a0a:6044:f95c::/48,BI,BI-MU,Muramvya
+2a0a:6044:f95d::/48,CM,CM-LT,Douala
+2a0a:6044:f95e::/48,CM,CM-CE,Yaoundé
+2a0a:6044:f95f::/48,CM,CM-NW,Bamenda
+2a0a:6044:f960::/48,CM,CM-OU,Bafoussam
+2a0a:6044:f961::/48,CM,CM-EN,Maroua
+2a0a:6044:f962::/48,CM,CM-AD,Ngaoundéré
+2a0a:6044:f963::/48,CM,CM-SW,Kumba
+2a0a:6044:f964::/48,CM,CM-LT,Nkongsamba
+2a0a:6044:f965::/48,CM,CM-SW,Buea
+2a0a:6044:f966::/48,CM,CM-EN,Kousséri
+2a0a:6044:f967::/48,CM,CM-ES,Bertoua
+2a0a:6044:f968::/48,CM,CM-SW,Limbe
+2a0a:6044:f969::/48,CM,CM-OU,Foumban
+2a0a:6044:f96a::/48,CM,CM-NW,Kumbo
+2a0a:6044:f96b::/48,CM,CM-LT,Edéa
+2a0a:6044:f96c::/48,TD,TD-ND,N'Djamena
+2a0a:6044:f96d::/48,TD,TD-LO,Moundou
+2a0a:6044:f96e::/48,TD,TD-OD,Abéché
+2a0a:6044:f96f::/48,TD,TD-MC,Sarh
+2a0a:6044:f970::/48,TD,TD-TA,Kelo
+2a0a:6044:f971::/48,TD,TD-SA,Am Timan
+2a0a:6044:f972::/48,TD,TD-LR,Doba
+2a0a:6044:f973::/48,TD,TD-MO,Pala
+2a0a:6044:f974::/48,TD,TD-ME,Bongor
+2a0a:6044:f975::/48,TD,TD-SI,Goz Beida
+2a0a:6044:f976::/48,TD,TD-MA,Koumra
+2a0a:6044:f977::/48,TD,TD-GR,Mongo
+2a0a:6044:f978::/48,TD,TD-LC,Bol
+2a0a:6044:f979::/48,TD,TD-KA,Mao
+2a0a:6044:f97a::/48,TD,TD-WF,Iriba
+2a0a:6044:f97b::/48,KM,KM-G,Moroni
+2a0a:6044:f97c::/48,KM,KM-A,Moutsamoudou
+2a0a:6044:f97d::/48,KM,KM-M,Fomboni
+2a0a:6044:f97e::/48,KM,KM-A,Tsimbeo
+2a0a:6044:f97f::/48,KM,KM-,Domoni
+2a0a:6044:f980::/48,KM,KM-A,Mirontsi
+2a0a:6044:f981::/48,KM,KM-A,Adda-Douéni
+2a0a:6044:f982::/48,KM,KM-A,Ouani
+2a0a:6044:f983::/48,KM,KM-A,Sima
+2a0a:6044:f984::/48,KM,KM-A,Koni-Djodjo
+2a0a:6044:f985::/48,KM,KM-,Moya
+2a0a:6044:f986::/48,KM,KM-A,Barakani
+2a0a:6044:f987::/48,KM,KM-A,Chandra
+2a0a:6044:f988::/48,KM,KM-G,Ouellah
+2a0a:6044:f989::/48,KM,KM-G,Ikoni
+2a0a:6044:f98a::/48,CD,CD-KN,Kinshasa
+2a0a:6044:f98b::/48,CD,CD-HK,Lubumbashi
+2a0a:6044:f98c::/48,CD,CD-KE,Mbuji-Mayi
+2a0a:6044:f98d::/48,CD,CD-KC,Kananga
+2a0a:6044:f98e::/48,CD,CD-TO,Kisangani
+2a0a:6044:f98f::/48,CD,CD-SK,Bukavu
+2a0a:6044:f990::/48,CD,CD-LU,Kolwezi
+2a0a:6044:f991::/48,CD,CD-HK,Likasi
+2a0a:6044:f992::/48,CD,CD-KS,Tshikapa
+2a0a:6044:f993::/48,CD,CD-KL,Kikwit
+2a0a:6044:f994::/48,CD,CD-KN,Masina
+2a0a:6044:f995::/48,CD,CD-EQ,Mbandaka
+2a0a:6044:f996::/48,CD,CD-NK,Goma
+2a0a:6044:f997::/48,CD,CD-BC,Matadi
+2a0a:6044:f998::/48,CD,CD-SK,Uvira
+2a0a:6044:f999::/48,DJ,DJ-,Djibouti
+2a0a:6044:f99a::/48,DJ,DJ-AS,Ali Sabih
+2a0a:6044:f99b::/48,DJ,DJ-DI,Dikhil
+2a0a:6044:f99c::/48,DJ,DJ-TA,Tadjoura
+2a0a:6044:f99d::/48,DJ,DJ-AS,Arta
+2a0a:6044:f99e::/48,DJ,DJ-OB,Obock
+2a0a:6044:f99f::/48,DJ,DJ-AS,Holhol
+2a0a:6044:f9a0::/48,DJ,DJ-AS,Goubétto
+2a0a:6044:f9a1::/48,DJ,DJ-TA,Dorra
+2a0a:6044:f9a2::/48,DJ,DJ-DI,Gâlâfi
+2a0a:6044:f9a3::/48,DJ,DJ-AW,Loyada
+2a0a:6044:f9a4::/48,DJ,DJ-OB,Alaïli Ḏaḏḏa‘
+2a0a:6044:f9a5::/48,DJ,DJ-AS,Chabelley
+2a0a:6044:f9a6::/48,DJ,DJ-AS,Ḏânan
+2a0a:6044:f9a7::/48,DJ,DJ-OB,Gaherré
+2a0a:6044:f9a8::/48,EG,EG-C,Cairo
+2a0a:6044:f9a9::/48,EG,EG-ALX,Alexandria
+2a0a:6044:f9aa::/48,EG,EG-GZ,Giza
+2a0a:6044:f9ab::/48,EG,EG-KB,Shubrā al Khaymah
+2a0a:6044:f9ac::/48,EG,EG-PTS,Port Said
+2a0a:6044:f9ad::/48,EG,EG-SUZ,Suez
+2a0a:6044:f9ae::/48,EG,EG-C,Madīnat an Naşr
+2a0a:6044:f9af::/48,EG,EG-DK,Al Mansurah
+2a0a:6044:f9b0::/48,EG,EG-GH,Al Maḩallah al Kubrá
+2a0a:6044:f9b1::/48,EG,EG-GH,Tanta
+2a0a:6044:f9b2::/48,EG,EG-AST,Asyut
+2a0a:6044:f9b3::/48,EG,EG-FYM,Al Fayyum
+2a0a:6044:f9b4::/48,EG,EG-KB,Al Khuşūş
+2a0a:6044:f9b5::/48,EG,EG-SHR,Zagazig
+2a0a:6044:f9b6::/48,EG,EG-IS,Ismailia
+2a0a:6044:f9b7::/48,ET,ET-AA,Addis Ababa
+2a0a:6044:f9b8::/48,ET,ET-SO,Jijiga
+2a0a:6044:f9b9::/48,ET,ET-AM,Gonder
+2a0a:6044:f9ba::/48,ET,ET-TI,Mek'ele
+2a0a:6044:f9bb::/48,ET,ET-OR,Nazrēt
+2a0a:6044:f9bc::/48,ET,ET-SN,Awasa
+2a0a:6044:f9bd::/48,ET,ET-AM,Bahir Dar
+2a0a:6044:f9be::/48,ET,ET-DD,Dire Dawa
+2a0a:6044:f9bf::/48,ET,ET-AM,Dessie
+2a0a:6044:f9c0::/48,ET,ET-OR,Jimma
+2a0a:6044:f9c1::/48,ET,ET-OR,Shashamane
+2a0a:6044:f9c2::/48,ET,ET-OR,Bishoftu
+2a0a:6044:f9c3::/48,ET,ET-SN,Sodo
+2a0a:6044:f9c4::/48,ET,ET-SN,Arba Minch
+2a0a:6044:f9c5::/48,ET,ET-SN,Hosa’ina
+2a0a:6044:f9c6::/48,GQ,GQ-LI,Bata
+2a0a:6044:f9c7::/48,GQ,GQ-BN,Malabo
+2a0a:6044:f9c8::/48,GQ,GQ-KN,Ebebiyin
+2a0a:6044:f9c9::/48,GQ,GQ-WN,Aconibe
+2a0a:6044:f9ca::/48,GQ,GQ-WN,Añisok
+2a0a:6044:f9cb::/48,GQ,GQ-BS,Luba
+2a0a:6044:f9cc::/48,GQ,GQ-CS,Evinayong
+2a0a:6044:f9cd::/48,GQ,GQ-WN,Mongomo
+2a0a:6044:f9ce::/48,GQ,GQ-KN,Mikomeseng
+2a0a:6044:f9cf::/48,GQ,GQ-BN,Rebola
+2a0a:6044:f9d0::/48,GQ,GQ-LI,Cogo
+2a0a:6044:f9d1::/48,GQ,GQ-AN,San Antonio de Palé
+2a0a:6044:f9d2::/48,GQ,GQ-LI,Mbini
+2a0a:6044:f9d3::/48,GQ,GQ-WN,Nsok
+2a0a:6044:f9d4::/48,GQ,GQ-WN,Ayene
+2a0a:6044:f9d5::/48,SZ,SZ-MA,Manzini
+2a0a:6044:f9d6::/48,SZ,SZ-HH,Mbabane
+2a0a:6044:f9d7::/48,SZ,SZ-LU,Big Bend
+2a0a:6044:f9d8::/48,SZ,SZ-MA,Malkerns
+2a0a:6044:f9d9::/48,SZ,SZ-SH,Nhlangano
+2a0a:6044:f9da::/48,SZ,SZ-LU,Mhlume
+2a0a:6044:f9db::/48,SZ,SZ-SH,Hluti
+2a0a:6044:f9dc::/48,SZ,SZ-LU,Siteki
+2a0a:6044:f9dd::/48,SZ,SZ-HH,Piggs Peak
+2a0a:6044:f9de::/48,SZ,SZ-MA,Lobamba
+2a0a:6044:f9df::/48,SZ,SZ-LU,Vuvulane
+2a0a:6044:f9e0::/48,SZ,SZ-MA,Kwaluseni
+2a0a:6044:f9e1::/48,SZ,SZ-MA,Bhunya
+2a0a:6044:f9e2::/48,SZ,SZ-MA,Mhlambanyatsi
+2a0a:6044:f9e3::/48,SZ,SZ-SH,Hlatikulu
+2a0a:6044:f9e4::/48,GA,GA-1,Libreville
+2a0a:6044:f9e5::/48,GA,GA-8,Port-Gentil
+2a0a:6044:f9e6::/48,GA,GA-2,Franceville
+2a0a:6044:f9e7::/48,GA,GA-,Owendo
+2a0a:6044:f9e8::/48,GA,GA-9,Oyem
+2a0a:6044:f9e9::/48,GA,GA-2,Moanda
+2a0a:6044:f9ea::/48,GA,GA-1,Nkan
+2a0a:6044:f9eb::/48,GA,GA-3,Lambaréné
+2a0a:6044:f9ec::/48,GA,GA-4,Mouila
+2a0a:6044:f9ed::/48,GA,GA-1,Akanda
+2a0a:6044:f9ee::/48,GA,GA-5,Tchibanga
+2a0a:6044:f9ef::/48,GA,GA-9,Bitam
+2a0a:6044:f9f0::/48,GA,GA-7,Koulamoutou
+2a0a:6044:f9f1::/48,GA,GA-6,Makokou
+2a0a:6044:f9f2::/48,GA,GA-7,Lastoursville
+2a0a:6044:f9f3::/48,GM,GM-,Serrekunda
+2a0a:6044:f9f4::/48,GM,GM-W,Brikama
+2a0a:6044:f9f5::/48,GM,GM-,Bununka Kunda
+2a0a:6044:f9f6::/48,GM,GM-W,Sukuta
+2a0a:6044:f9f7::/48,GM,GM-,Talinding
+2a0a:6044:f9f8::/48,GM,GM-,Faji Kunda
+2a0a:6044:f9f9::/48,GM,GM-,Bakau
+2a0a:6044:f9fa::/48,GM,GM-,Banjul
+2a0a:6044:f9fb::/48,GM,GM-W,Nema Kunku
+2a0a:6044:f9fc::/48,GM,GM-N,Farafenni
+2a0a:6044:f9fd::/48,GM,GM-,Bakau New Town
+2a0a:6044:f9fe::/48,GM,GM-W,Busumbala
+2a0a:6044:f9ff::/48,GM,GM-N,Lamin
+2a0a:6044:fa00::/48,GM,GM-,Welingara
+2a0a:6044:fa01::/48,GM,GM-W,Brufut
+2a0a:6044:fa02::/48,GH,GH-AH,Kumasi
+2a0a:6044:fa03::/48,GH,GH-AA,Accra
+2a0a:6044:fa04::/48,GH,GH-NP,Tamale
+2a0a:6044:fa05::/48,GH,GH-WP,Takoradze
+2a0a:6044:fa06::/48,GH,GH-WP,Sekondi
+2a0a:6044:fa07::/48,GH,GH-CP,Cape Coast
+2a0a:6044:fa08::/48,GH,GH-AA,Achiaman
+2a0a:6044:fa09::/48,GH,GH-AA,Ashaiman
+2a0a:6044:fa0a::/48,GH,GH-AH,Obuase
+2a0a:6044:fa0b::/48,GH,GH-AA,Tema
+2a0a:6044:fa0c::/48,GH,GH-EP,Koforidua
+2a0a:6044:fa0d::/48,GH,GH-AA,Teshie
+2a0a:6044:fa0e::/48,GH,GH-WP,Sekondi-Takoradi
+2a0a:6044:fa0f::/48,GH,GH-TV,Ho
+2a0a:6044:fa10::/48,GH,GH-AA,Amanfro
+2a0a:6044:fa11::/48,GN,GN-,Conakry
+2a0a:6044:fa12::/48,GN,GN-,Camayenne
+2a0a:6044:fa13::/48,GN,GN-N,Nzérékoré
+2a0a:6044:fa14::/48,GN,GN-K,Kankan
+2a0a:6044:fa15::/48,GN,GN-D,Manéah
+2a0a:6044:fa16::/48,GN,GN-D,Dubréka
+2a0a:6044:fa17::/48,GN,GN-D,Kindia
+2a0a:6044:fa18::/48,GN,GN-K,Siguiri
+2a0a:6044:fa19::/48,GN,GN-F,Kissidougou
+2a0a:6044:fa1a::/48,GN,GN-B,Kamsar
+2a0a:6044:fa1b::/48,GN,GN-L,Labé
+2a0a:6044:fa1c::/48,GN,GN-N,Gueckedou
+2a0a:6044:fa1d::/48,GN,GN-M,Mamou
+2a0a:6044:fa1e::/48,GN,GN-D,Coyah
+2a0a:6044:fa1f::/48,GN,GN-F,Faranah
+2a0a:6044:fa20::/48,GW,GW-BS,Bissau
+2a0a:6044:fa21::/48,GW,GW-GA,Gabú
+2a0a:6044:fa22::/48,GW,GW-BA,Bafatá
+2a0a:6044:fa23::/48,GW,GW-CA,Canchungo
+2a0a:6044:fa24::/48,GW,GW-OI,Bissorã
+2a0a:6044:fa25::/48,GW,GW-,Bolama
+2a0a:6044:fa26::/48,GW,GW-,Cacheu
+2a0a:6044:fa27::/48,GW,GW-CA,Bula
+2a0a:6044:fa28::/48,GW,GW-OI,Farim
+2a0a:6044:fa29::/48,GW,GW-TO,Catió
+2a0a:6044:fa2a::/48,GW,GW-OI,Mansôa
+2a0a:6044:fa2b::/48,GW,GW-BL,Bubaque
+2a0a:6044:fa2c::/48,GW,GW-CA,Ingoré
+2a0a:6044:fa2d::/48,GW,GW-QU,Buba
+2a0a:6044:fa2e::/48,GW,GW-BA,Bambadinca
+2a0a:6044:fa2f::/48,KE,KE-30,Nairobi
+2a0a:6044:fa30::/48,KE,KE-11,Kakamega
+2a0a:6044:fa31::/48,KE,KE-28,Mombasa
+2a0a:6044:fa32::/48,KE,KE-31,Nakuru
+2a0a:6044:fa33::/48,KE,KE-13,Ruiru
+2a0a:6044:fa34::/48,KE,KE-44,Eldoret
+2a0a:6044:fa35::/48,KE,KE-17,Kisumu
+2a0a:6044:fa36::/48,KE,KE-13,Kikuyu
+2a0a:6044:fa37::/48,KE,KE-13,Thika
+2a0a:6044:fa38::/48,KE,KE-31,Naivasha
+2a0a:6044:fa39::/48,KE,KE-13,Karuri
+2a0a:6044:fa3a::/48,KE,KE-29,Karuri
+2a0a:6044:fa3b::/48,KE,KE-10,Ongata Rongai
+2a0a:6044:fa3c::/48,KE,KE-30,Lang'ata
+2a0a:6044:fa3d::/48,KE,KE-7,Garissa
+2a0a:6044:fa3e::/48,LS,LS-A,Maseru
+2a0a:6044:fa3f::/48,LS,LS-,Maputsoe
+2a0a:6044:fa40::/48,LS,LS-F,Mohale's Hoek
+2a0a:6044:fa41::/48,LS,LS-E,Mafeteng
+2a0a:6044:fa42::/48,LS,LS-C,Hlotse
+2a0a:6044:fa43::/48,LS,LS-B,Butha-Buthe
+2a0a:6044:fa44::/48,LS,LS-G,Quthing
+2a0a:6044:fa45::/48,LS,LS-D,Teyateyaneng
+2a0a:6044:fa46::/48,LS,LS-H,Qacha's Nek
+2a0a:6044:fa47::/48,LS,LS-K,Thaba-Tseka
+2a0a:6044:fa48::/48,LS,LS-J,Mokhotlong
+2a0a:6044:fa49::/48,LS,LS-A,Roma
+2a0a:6044:fa4a::/48,LS,LS-D,Mapoteng
+2a0a:6044:fa4b::/48,LS,LS-A,Nako
+2a0a:6044:fa4c::/48,LS,LS-A,Mazenod
+2a0a:6044:fa4d::/48,LR,LR-MO,Monrovia
+2a0a:6044:fa4e::/48,LR,LR-BG,Gbarnga
+2a0a:6044:fa4f::/48,LR,LR-GB,Buchanan
+2a0a:6044:fa50::/48,LR,LR-NI,Ganta
+2a0a:6044:fa51::/48,LR,LR-MG,Kakata
+2a0a:6044:fa52::/48,LR,LR-GG,Zwedru
+2a0a:6044:fa53::/48,LR,LR-MG,Harbel
+2a0a:6044:fa54::/48,LR,LR-MY,Harper
+2a0a:6044:fa55::/48,LR,LR-MY,Pleebo
+2a0a:6044:fa56::/48,LR,LR-LO,Foya Kamara
+2a0a:6044:fa57::/48,LR,LR-NI,Yekepa
+2a0a:6044:fa58::/48,LR,LR-LO,Voinjama
+2a0a:6044:fa59::/48,LR,LR-BM,Tubmanburg
+2a0a:6044:fa5a::/48,LR,LR-NI,Saclepea
+2a0a:6044:fa5b::/48,LR,LR-SI,Greenville
+2a0a:6044:fa5c::/48,LY,LY-TB,Tripoli
+2a0a:6044:fa5d::/48,LY,LY-BA,Benghazi
+2a0a:6044:fa5e::/48,LY,LY-MI,Misratah
+2a0a:6044:fa5f::/48,LY,LY-MB,Zliten
+2a0a:6044:fa60::/48,LY,LY-MB,Al Khums
+2a0a:6044:fa61::/48,LY,LY-ZA,Az Zāwīyah
+2a0a:6044:fa62::/48,LY,LY-ZA,Zawiya
+2a0a:6044:fa63::/48,LY,LY-ZA,Janzūr
+2a0a:6044:fa64::/48,LY,LY-SB,Sabha
+2a0a:6044:fa65::/48,LY,LY-BU,Tobruk
+2a0a:6044:fa66::/48,LY,LY-WA,Ajdabiya
+2a0a:6044:fa67::/48,LY,LY-NQ,Al Ajaylat
+2a0a:6044:fa68::/48,LY,LY-JA,Al Bayḑā’
+2a0a:6044:fa69::/48,LY,LY-SB,Al Jadīd
+2a0a:6044:fa6a::/48,LY,LY-SR,Sirte
+2a0a:6044:fa6b::/48,MG,MG-,Antananarivo
+2a0a:6044:fa6c::/48,MG,MG-,Toamasina
+2a0a:6044:fa6d::/48,MG,MG-,Antsirabe
+2a0a:6044:fa6e::/48,MG,MG-,Mahajanga
+2a0a:6044:fa6f::/48,MG,MG-,Fianarantsoa
+2a0a:6044:fa70::/48,MG,MG-,Toliara
+2a0a:6044:fa71::/48,MG,MG-,Antsiranana
+2a0a:6044:fa72::/48,MG,MG-,Sambava
+2a0a:6044:fa73::/48,MG,MG-,Imerintsiatosika
+2a0a:6044:fa74::/48,MG,MG-,Antalaha
+2a0a:6044:fa75::/48,MG,MG-,Tôlanaro
+2a0a:6044:fa76::/48,MG,MG-,Antanifotsy
+2a0a:6044:fa77::/48,MG,MG-,Ambovombe
+2a0a:6044:fa78::/48,MG,MG-,Ambilobe
+2a0a:6044:fa79::/48,MG,MG-,Ambanja
+2a0a:6044:fa7a::/48,MW,MW-C,Lilongwe
+2a0a:6044:fa7b::/48,MW,MW-S,Blantyre
+2a0a:6044:fa7c::/48,MW,MW-N,Mzuzu
+2a0a:6044:fa7d::/48,MW,MW-S,Zomba
+2a0a:6044:fa7e::/48,MW,MW-N,Karonga
+2a0a:6044:fa7f::/48,MW,MW-C,Kasungu
+2a0a:6044:fa80::/48,MW,MW-S,Mangochi
+2a0a:6044:fa81::/48,MW,MW-C,Salima
+2a0a:6044:fa82::/48,MW,MW-S,Liwonde
+2a0a:6044:fa83::/48,MW,MW-S,Balaka
+2a0a:6044:fa84::/48,MW,MW-C,Dedza
+2a0a:6044:fa85::/48,MW,MW-C,Nkhotakota
+2a0a:6044:fa86::/48,MW,MW-C,Mchinji
+2a0a:6044:fa87::/48,MW,MW-S,Nsanje
+2a0a:6044:fa88::/48,MW,MW-N,Mzimba
+2a0a:6044:fa89::/48,ML,ML-BKO,Bamako
+2a0a:6044:fa8a::/48,ML,ML-3,Sikasso
+2a0a:6044:fa8b::/48,ML,ML-3,Koutiala
+2a0a:6044:fa8c::/48,ML,ML-4,Ségou
+2a0a:6044:fa8d::/48,ML,ML-1,Kayes
+2a0a:6044:fa8e::/48,ML,ML-5,Mopti
+2a0a:6044:fa8f::/48,ML,ML-BKO,Kalaban Koro
+2a0a:6044:fa90::/48,ML,ML-7,Gao
+2a0a:6044:fa91::/48,ML,ML-2,Kati
+2a0a:6044:fa92::/48,ML,ML-4,San
+2a0a:6044:fa93::/48,ML,ML-3,Bougouni
+2a0a:6044:fa94::/48,ML,ML-6,Timbuktu
+2a0a:6044:fa95::/48,ML,ML-1,Kita
+2a0a:6044:fa96::/48,ML,ML-2,Dialakorodji
+2a0a:6044:fa97::/48,ML,ML-2,Koulikoro
+2a0a:6044:fa98::/48,MR,MR-13,Nouakchott
+2a0a:6044:fa99::/48,MR,MR-8,Nouadhibou
+2a0a:6044:fa9a::/48,MR,MR-3,Kiffa
+2a0a:6044:fa9b::/48,MR,MR-14,Dar Naim
+2a0a:6044:fa9c::/48,MR,MR-1,Néma
+2a0a:6044:fa9d::/48,MR,MR-1,Mbera
+2a0a:6044:fa9e::/48,MR,MR-MT,Kaédi
+2a0a:6044:fa9f::/48,MR,MR-11,Zouérat
+2a0a:6044:faa0::/48,MR,MR-13,Tevragh Zeina
+2a0a:6044:faa1::/48,MR,MR-10,Sélibaby
+2a0a:6044:faa2::/48,MR,MR-7,Atar
+2a0a:6044:faa3::/48,MR,MR-2,Ayoun El Atrous
+2a0a:6044:faa4::/48,MR,MR-3,Guerou
+2a0a:6044:faa5::/48,MR,MR-6,Boutilimit
+2a0a:6044:faa6::/48,MR,MR-6,Tékane
+2a0a:6044:faa7::/48,MU,MU-PL,Port Louis
+2a0a:6044:faa8::/48,MU,MU-PW,Vacoas
+2a0a:6044:faa9::/48,MU,MU-PW,Beau Bassin-Rose Hill
+2a0a:6044:faaa::/48,MU,MU-PW,Curepipe
+2a0a:6044:faab::/48,MU,MU-PW,Quatre Bornes
+2a0a:6044:faac::/48,MU,MU-PA,Triolet
+2a0a:6044:faad::/48,MU,MU-RR,Goodlands
+2a0a:6044:faae::/48,MU,MU-FL,Bel Air Rivière Sèche
+2a0a:6044:faaf::/48,MU,MU-BL,Bambous
+2a0a:6044:fab0::/48,MU,MU-FL,Centre de Flacq
+2a0a:6044:fab1::/48,MU,MU-GP,Mahébourg
+2a0a:6044:fab2::/48,MU,MU-MO,Saint Pierre
+2a0a:6044:fab3::/48,MU,MU-PA,Le Hochet
+2a0a:6044:fab4::/48,MU,MU-,Baie du Tombeau
+2a0a:6044:fab5::/48,MU,MU-GP,Rose Belle
+2a0a:6044:fab6::/48,MA,MA-6,Casablanca
+2a0a:6044:fab7::/48,MA,MA-4,Rabat
+2a0a:6044:fab8::/48,MA,MA-3,Fes
+2a0a:6044:fab9::/48,MA,MA-1,Tangier
+2a0a:6044:faba::/48,MA,MA-7,Marrakesh
+2a0a:6044:fabb::/48,MA,MA-4,Salé
+2a0a:6044:fabc::/48,MA,MA-9,Agadir
+2a0a:6044:fabd::/48,MA,MA-3,Meknes
+2a0a:6044:fabe::/48,MA,MA-2,Oujda
+2a0a:6044:fabf::/48,MA,MA-4,Kenitra
+2a0a:6044:fac0::/48,MA,MA-1,Tétouan
+2a0a:6044:fac1::/48,MA,MA-1,Al Hoceima
+2a0a:6044:fac2::/48,MA,MA-4,Temara
+2a0a:6044:fac3::/48,MA,MA-7,Safi
+2a0a:6044:fac4::/48,MA,MA-6,Mohammedia
+2a0a:6044:fac5::/48,MZ,MZ-L,Maputo
+2a0a:6044:fac6::/48,MZ,MZ-L,Matola
+2a0a:6044:fac7::/48,MZ,MZ-N,Nampula
+2a0a:6044:fac8::/48,MZ,MZ-S,Beira
+2a0a:6044:fac9::/48,MZ,MZ-B,Chimoio
+2a0a:6044:faca::/48,MZ,MZ-T,Tete
+2a0a:6044:facb::/48,MZ,MZ-Q,Quelimane
+2a0a:6044:facc::/48,MZ,MZ-A,Lichinga
+2a0a:6044:facd::/48,MZ,MZ-N,Nacala
+2a0a:6044:face::/48,MZ,MZ-P,Pemba
+2a0a:6044:facf::/48,MZ,MZ-Q,Mocuba
+2a0a:6044:fad0::/48,MZ,MZ-Q,Gurúè
+2a0a:6044:fad1::/48,MZ,MZ-G,Xai-Xai
+2a0a:6044:fad2::/48,MZ,MZ-,Maxixe
+2a0a:6044:fad3::/48,MZ,MZ-A,Mandimba
+2a0a:6044:fad4::/48,NA,NA-KH,Windhoek
+2a0a:6044:fad5::/48,NA,NA-KE,Rundu
+2a0a:6044:fad6::/48,NA,NA-ER,Walvis Bay
+2a0a:6044:fad7::/48,NA,NA-ER,Swakopmund
+2a0a:6044:fad8::/48,NA,NA-ON,Oshakati
+2a0a:6044:fad9::/48,NA,NA-HA,Rehoboth
+2a0a:6044:fada::/48,NA,NA-CA,Katima Mulilo
+2a0a:6044:fadb::/48,NA,NA-OD,Otjiwarongo
+2a0a:6044:fadc::/48,NA,NA-ON,Ondangwa
+2a0a:6044:fadd::/48,NA,NA-OD,Okahandja
+2a0a:6044:fade::/48,NA,NA-OD,Grootfontein
+2a0a:6044:fadf::/48,NA,NA-ON,Ongwediva
+2a0a:6044:fae0::/48,NA,NA-KA,Keetmanshoop
+2a0a:6044:fae1::/48,NA,NA-OW,Helao Nafidi
+2a0a:6044:fae2::/48,NA,NA-OT,Tsumeb
+2a0a:6044:fae3::/48,NE,NE-8,Niamey
+2a0a:6044:fae4::/48,NE,NE-4,Maradi
+2a0a:6044:fae5::/48,NE,NE-7,Zinder
+2a0a:6044:fae6::/48,NE,NE-5,Tahoua
+2a0a:6044:fae7::/48,NE,NE-1,Agadez
+2a0a:6044:fae8::/48,NE,NE-1,Arlit
+2a0a:6044:fae9::/48,NE,NE-1,Alaghsas
+2a0a:6044:faea::/48,NE,NE-5,Birni N Konni
+2a0a:6044:faeb::/48,NE,NE-3,Dosso
+2a0a:6044:faec::/48,NE,NE-3,Gaya
+2a0a:6044:faed::/48,NE,NE-4,Tessaoua
+2a0a:6044:faee::/48,NE,NE-2,Diffa
+2a0a:6044:faef::/48,NE,NE-3,Dogondoutchi
+2a0a:6044:faf0::/48,NE,NE-4,Dakoro
+2a0a:6044:faf1::/48,NE,NE-6,Téra
+2a0a:6044:faf2::/48,NG,NG-,Lagos
+2a0a:6044:faf3::/48,NG,NG-KN,Kano
+2a0a:6044:faf4::/48,NG,NG-OY,Ibadan
+2a0a:6044:faf5::/48,NG,NG-FC,Abuja
+2a0a:6044:faf6::/48,NG,NG-RI,Port Harcourt
+2a0a:6044:faf7::/48,NG,NG-KD,Kaduna
+2a0a:6044:faf8::/48,NG,NG-ED,Benin City
+2a0a:6044:faf9::/48,NG,NG-AN,Onitsha
+2a0a:6044:fafa::/48,NG,NG-AB,Aba
+2a0a:6044:fafb::/48,NG,NG-BO,Maiduguri
+2a0a:6044:fafc::/48,NG,NG-KW,Ilorin
+2a0a:6044:fafd::/48,NG,NG-PL,Jos
+2a0a:6044:fafe::/48,NG,NG-SO,Sokoto
+2a0a:6044:faff::/48,NG,NG-KD,Zaria
+2a0a:6044:fb00::/48,NG,NG-EN,Enugu
+2a0a:6044:fb01::/48,CG,CG-12,Brazzaville
+2a0a:6044:fb02::/48,CG,CG-5,Pointe-Noire
+2a0a:6044:fb03::/48,CG,CG-9,Dolisie
+2a0a:6044:fb04::/48,CG,CG-11,Nkayi
+2a0a:6044:fb05::/48,CG,CG-11,Kayes
+2a0a:6044:fb06::/48,CG,CG-7,Impfondo
+2a0a:6044:fb07::/48,CG,CG-13,Ouésso
+2a0a:6044:fb08::/48,CG,CG-8,Owando
+2a0a:6044:fb09::/48,CG,CG-2,Sibiti
+2a0a:6044:fb0a::/48,CG,CG-11,Loutété
+2a0a:6044:fb0b::/48,CG,CG-11,Bouansa
+2a0a:6044:fb0c::/48,CG,CG-14,Gamboma
+2a0a:6044:fb0d::/48,CG,CG-5,Loandjili
+2a0a:6044:fb0e::/48,CG,CG-8,Mossaka
+2a0a:6044:fb0f::/48,CG,CG-7,Mindouli
+2a0a:6044:fb10::/48,RW,RW-1,Kigali
+2a0a:6044:fb11::/48,RW,RW-4,Gisenyi
+2a0a:6044:fb12::/48,RW,RW-5,Butare
+2a0a:6044:fb13::/48,RW,RW-5,Gitarama
+2a0a:6044:fb14::/48,RW,RW-3,Ruhengeri
+2a0a:6044:fb15::/48,RW,RW-3,Byumba
+2a0a:6044:fb16::/48,RW,RW-4,Cyangugu
+2a0a:6044:fb17::/48,RW,RW-4,Kibuye
+2a0a:6044:fb18::/48,RW,RW-2,Rwamagana
+2a0a:6044:fb19::/48,RW,RW-2,Kibungo
+2a0a:6044:fb1a::/48,RW,RW-5,Nzega
+2a0a:6044:fb1b::/48,RW,RW-5,Nyanza
+2a0a:6044:fb1c::/48,RW,RW-4,Bugarama
+2a0a:6044:fb1d::/48,RW,RW-2,Kayonza
+2a0a:6044:fb1e::/48,RW,RW-2,Nyamata
+2a0a:6044:fb1f::/48,SN,SN-DK,Dakar
+2a0a:6044:fb20::/48,SN,SN-DK,Pikine
+2a0a:6044:fb21::/48,SN,SN-DB,Touba
+2a0a:6044:fb22::/48,SN,SN-TH,Thiès
+2a0a:6044:fb23::/48,SN,SN-TH,Thiès Nones
+2a0a:6044:fb24::/48,SN,SN-KL,Kaolack
+2a0a:6044:fb25::/48,SN,SN-TH,Mbour
+2a0a:6044:fb26::/48,SN,SN-DK,Rufisque
+2a0a:6044:fb27::/48,SN,SN-DK,Rufisque est
+2a0a:6044:fb28::/48,SN,SN-SL,Saint-Louis
+2a0a:6044:fb29::/48,SN,SN-ZG,Ziguinchor
+2a0a:6044:fb2a::/48,SN,SN-DB,Diourbel
+2a0a:6044:fb2b::/48,SN,SN-TC,Tambacounda
+2a0a:6044:fb2c::/48,SN,SN-LG,Louga
+2a0a:6044:fb2d::/48,SN,SN-DB,Tiébo
+2a0a:6044:fb2e::/48,SC,SC-16,Victoria
+2a0a:6044:fb2f::/48,SC,SC-,Perseverance
+2a0a:6044:fb30::/48,SC,SC-2,Anse Boileau
+2a0a:6044:fb31::/48,SC,SC-10,Bel Ombre
+2a0a:6044:fb32::/48,SC,SC-8,Beau Vallon
+2a0a:6044:fb33::/48,SC,SC-11,Cascade
+2a0a:6044:fb34::/48,SC,SC-5,Anse Royale
+2a0a:6044:fb35::/48,SC,SC-6,Takamaka
+2a0a:6044:fb36::/48,SC,SC-21,Port Glaud
+2a0a:6044:fb37::/48,SC,SC-7,Anse Lazio
+2a0a:6044:fb38::/48,SC,SC-22,Saint Louis
+2a0a:6044:fb39::/48,SC,SC-17,Mont Buxton
+2a0a:6044:fb3a::/48,SC,SC-9,Bel Air
+2a0a:6044:fb3b::/48,SC,SC-3,Maldive Village
+2a0a:6044:fb3c::/48,SC,SC-19,Misere
+2a0a:6044:fb3d::/48,SL,SL-W,Freetown
+2a0a:6044:fb3e::/48,SL,SL-S,Bo
+2a0a:6044:fb3f::/48,SL,SL-E,Kenema
+2a0a:6044:fb40::/48,SL,SL-E,Koidu
+2a0a:6044:fb41::/48,SL,SL-N,Makeni
+2a0a:6044:fb42::/48,SL,SL-W,Waterloo
+2a0a:6044:fb43::/48,SL,SL-NW,Lunsar
+2a0a:6044:fb44::/48,SL,SL-NW,Port Loko
+2a0a:6044:fb45::/48,SL,SL-W,Goderich
+2a0a:6044:fb46::/48,SL,SL-N,Kabala
+2a0a:6044:fb47::/48,SL,SL-E,Segbwema
+2a0a:6044:fb48::/48,SL,SL-S,Bumpe
+2a0a:6044:fb49::/48,SL,SL-N,Mile 91
+2a0a:6044:fb4a::/48,SL,SL-N,Magburaka
+2a0a:6044:fb4b::/48,SL,SL-E,Kailahun
+2a0a:6044:fb4c::/48,ZA,ZA-GP,Johannesburg
+2a0a:6044:fb4d::/48,ZA,ZA-WC,Cape Town
+2a0a:6044:fb4e::/48,ZA,ZA-KZN,Durban
+2a0a:6044:fb4f::/48,ZA,ZA-GP,Soweto
+2a0a:6044:fb50::/48,ZA,ZA-GP,Pretoria
+2a0a:6044:fb51::/48,ZA,ZA-EC,Port Elizabeth
+2a0a:6044:fb52::/48,ZA,ZA-KZN,Pietermaritzburg
+2a0a:6044:fb53::/48,ZA,ZA-GP,Benoni
+2a0a:6044:fb54::/48,ZA,ZA-FS,Bloemfontein
+2a0a:6044:fb55::/48,ZA,ZA-GP,Tembisa
+2a0a:6044:fb56::/48,ZA,ZA-EC,East London
+2a0a:6044:fb57::/48,ZA,ZA-GP,Vereeniging
+2a0a:6044:fb58::/48,ZA,ZA-GP,Boksburg
+2a0a:6044:fb59::/48,ZA,ZA-FS,Welkom
+2a0a:6044:fb5a::/48,ZA,ZA-KZN,Newcastle
+2a0a:6044:fb5b::/48,TZ,TZ-2,Dar es Salaam
+2a0a:6044:fb5c::/48,TZ,TZ-18,Mwanza
+2a0a:6044:fb5d::/48,TZ,TZ-1,Arusha
+2a0a:6044:fb5e::/48,TZ,TZ-14,Mbeya
+2a0a:6044:fb5f::/48,TZ,TZ-16,Morogoro
+2a0a:6044:fb60::/48,TZ,TZ-15,Zanzibar
+2a0a:6044:fb61::/48,TZ,TZ-25,Tanga
+2a0a:6044:fb62::/48,TZ,TZ-24,Tabora
+2a0a:6044:fb63::/48,TZ,TZ-20,Sumbawanga
+2a0a:6044:fb64::/48,TZ,TZ-21,Songea
+2a0a:6044:fb65::/48,TZ,TZ-23,Singida
+2a0a:6044:fb66::/48,TZ,TZ-8,Kigoma
+2a0a:6044:fb67::/48,TZ,TZ-28,Mpanda
+2a0a:6044:fb68::/48,TZ,TZ-4,Iringa
+2a0a:6044:fb69::/48,TZ,TZ-9,Moshi
+2a0a:6044:fb6a::/48,TG,TG-M,Lomé
+2a0a:6044:fb6b::/48,TG,TG-C,Sokodé
+2a0a:6044:fb6c::/48,TG,TG-K,Kara
+2a0a:6044:fb6d::/48,TG,TG-P,Atakpamé
+2a0a:6044:fb6e::/48,TG,TG-P,Palimé
+2a0a:6044:fb6f::/48,TG,TG-K,Bassar
+2a0a:6044:fb70::/48,TG,TG-M,Tsévié
+2a0a:6044:fb71::/48,TG,TG-M,Aného
+2a0a:6044:fb72::/48,TG,TG-S,Mango
+2a0a:6044:fb73::/48,TG,TG-S,Dapaong
+2a0a:6044:fb74::/48,TG,TG-4,Sinkassé
+2a0a:6044:fb75::/48,TG,TG-C,Tchamba
+2a0a:6044:fb76::/48,TG,TG-P,Badou
+2a0a:6044:fb77::/48,TG,TG-K,Niamtougou
+2a0a:6044:fb78::/48,TG,TG-K,Bafilo
+2a0a:6044:fb79::/48,TN,TN-11,Tunis
+2a0a:6044:fb7a::/48,TN,TN-61,Sfax
+2a0a:6044:fb7b::/48,TN,TN-51,Sousse
+2a0a:6044:fb7c::/48,TN,TN-41,Kairouan
+2a0a:6044:fb7d::/48,TN,TN-23,Bizerte
+2a0a:6044:fb7e::/48,TN,TN-81,Gabès
+2a0a:6044:fb7f::/48,TN,TN-12,Aryanah
+2a0a:6044:fb80::/48,TN,TN-21,Hammamet
+2a0a:6044:fb81::/48,TN,TN-42,Kasserine
+2a0a:6044:fb82::/48,TN,TN-71,Gafsa
+2a0a:6044:fb83::/48,TN,TN-11,La Goulette
+2a0a:6044:fb84::/48,TN,TN-82,Zarzis
+2a0a:6044:fb85::/48,TN,TN-13,Ben Arous
+2a0a:6044:fb86::/48,TN,TN-81,El Hamma
+2a0a:6044:fb87::/48,TN,TN-51,Masakin
+2a0a:6044:fb88::/48,UG,UG-C,Kampala
+2a0a:6044:fb89::/48,UG,UG-N,Gulu
+2a0a:6044:fb8a::/48,UG,UG-N,Lira
+2a0a:6044:fb8b::/48,UG,UG-W,Mbarara
+2a0a:6044:fb8c::/48,UG,UG-E,Jinja
+2a0a:6044:fb8d::/48,UG,UG-W,Bwizibwera
+2a0a:6044:fb8e::/48,UG,UG-E,Mbale
+2a0a:6044:fb8f::/48,UG,UG-N,Apac
+2a0a:6044:fb90::/48,UG,UG-C,Mukono
+2a0a:6044:fb91::/48,UG,UG-W,Kasese
+2a0a:6044:fb92::/48,UG,UG-C,Masaka
+2a0a:6044:fb93::/48,UG,UG-C,Entebbe
+2a0a:6044:fb94::/48,UG,UG-C,Njeru
+2a0a:6044:fb95::/48,UG,UG-N,Kitgum
+2a0a:6044:fb96::/48,UG,UG-E,Soroti
+2a0a:6044:fb97::/48,US,US-TX,Austin
+2a0a:6044:fb98::/48,US,US-TX,Fort Worth
+2a0a:6044:fb99::/48,US,US-OH,Columbus
+2a0a:6044:fb9a::/48,US,US-IN,Indianapolis
+2a0a:6044:fb9b::/48,US,US-NC,Charlotte
+2a0a:6044:fb9c::/48,US,US-CA,San Francisco
+2a0a:6044:fb9d::/48,US,US-WA,Seattle
+2a0a:6044:fb9e::/48,US,US-CO,Denver
+2a0a:6044:fb9f::/48,US,US-DC,Washington
+2a0a:6044:fba0::/48,US,US-TN,Nashville
+2a0a:6044:fba1::/48,US,US-TX,El Paso
+2a0a:6044:fba2::/48,US,US-OK,Oklahoma City
+2a0a:6044:fba3::/48,US,US-MI,Detroit
+2a0a:6044:fba4::/48,US,US-MA,Boston
+2a0a:6044:fba5::/48,US,US-OR,Portland
+2a0a:6044:fba6::/48,US,US-TN,New South Memphis
+2a0a:6044:fba7::/48,US,US-TN,Memphis
+2a0a:6044:fba8::/48,US,US-NV,Las Vegas
+2a0a:6044:fba9::/48,US,US-WI,Milwaukee
+2a0a:6044:fbaa::/48,US,US-MD,Baltimore
+2a0a:6044:fbab::/48,US,US-MA,South Boston
+2a0a:6044:fbac::/48,US,US-NM,Albuquerque
+2a0a:6044:fbad::/48,US,US-AZ,Tucson
+2a0a:6044:fbae::/48,US,US-CA,Fresno
+2a0a:6044:fbaf::/48,US,US-CA,Sacramento
+2a0a:6044:fbb0::/48,US,US-NE,Omaha
+2a0a:6044:fbb1::/48,US,US-MO,Kansas City
+2a0a:6044:fbb2::/48,US,US-CA,Long Beach
+2a0a:6044:fbb3::/48,US,US-AZ,Mesa
+2a0a:6044:fbb4::/48,US,US-NY,Staten Island
+2a0a:6044:fbb5::/48,US,US-GA,Atlanta
+2a0a:6044:fbb6::/48,US,US-CO,Colorado Springs
+2a0a:6044:fbb7::/48,US,US-VA,Virginia Beach
+2a0a:6044:fbb8::/48,US,US-NC,Raleigh
+2a0a:6044:fbb9::/48,US,US-FL,Miami
+2a0a:6044:fbba::/48,US,US-CA,Oakland
+2a0a:6044:fbbb::/48,US,US-OK,Tulsa
+2a0a:6044:fbbc::/48,US,US-MN,Minneapolis
+2a0a:6044:fbbd::/48,US,US-KS,Wichita
+2a0a:6044:fbbe::/48,US,US-LA,New Orleans
+2a0a:6044:fbbf::/48,US,US-TX,Arlington
+2a0a:6044:fbc0::/48,US,US-OH,Cleveland
+2a0a:6044:fbc1::/48,US,US-FL,Tampa
+2a0a:6044:fbc2::/48,US,US-CA,Bakersfield
+2a0a:6044:fbc3::/48,US,US-HI,Honolulu
+2a0a:6044:fbc4::/48,US,US-CO,Aurora
+2a0a:6044:fbc5::/48,US,US-CA,Anaheim
+2a0a:6044:fbc6::/48,US,US-NC,West Raleigh
+2a0a:6044:fbc7::/48,US,US-CA,Santa Ana
+2a0a:6044:fbc8::/48,US,US-TX,Corpus Christi
+2a0a:6044:fbc9::/48,US,US-CA,Riverside
+2a0a:6044:fbca::/48,US,US-MO,St Louis
+2a0a:6044:fbcb::/48,US,US-KY,Lexington-Fayette
+2a0a:6044:fbcc::/48,US,US-OH,Cincinnati
+2a0a:6044:fbcd::/48,US,US-FL,Orlando
+2a0a:6044:fbce::/48,US,US-CA,Stockton
+2a0a:6044:fbcf::/48,US,US-PA,Pittsburgh
+2a0a:6044:fbd0::/48,US,US-AK,Anchorage
+2a0a:6044:fbd1::/48,US,US-KY,Ironville
+2a0a:6044:fbd2::/48,US,US-KY,Meads
+2a0a:6044:fbd3::/48,US,US-NV,Henderson
+2a0a:6044:fbd4::/48,US,US-NC,Greensboro
+2a0a:6044:fbd5::/48,US,US-MN,Saint Paul
+2a0a:6044:fbd6::/48,US,US-TX,Plano
+2a0a:6044:fbd7::/48,US,US-NJ,Newark
+2a0a:6044:fbd8::/48,US,US-OH,Toledo
+2a0a:6044:fbd9::/48,US,US-NE,Lincoln
+2a0a:6044:fbda::/48,US,US-CA,Chula Vista
+2a0a:6044:fbdb::/48,US,US-NJ,Jersey City
+2a0a:6044:fbdc::/48,US,US-AZ,Chandler
+2a0a:6044:fbdd::/48,US,US-IN,Fort Wayne
+2a0a:6044:fbde::/48,US,US-NY,Buffalo
+2a0a:6044:fbdf::/48,US,US-NC,Durham
+2a0a:6044:fbe0::/48,US,US-FL,St. Petersburg
+2a0a:6044:fbe1::/48,US,US-CA,Irvine
+2a0a:6044:fbe2::/48,US,US-TX,Laredo
+2a0a:6044:fbe3::/48,US,US-TX,Lubbock
+2a0a:6044:fbe4::/48,US,US-WI,Madison
+2a0a:6044:fbe5::/48,US,US-AZ,Gilbert
+2a0a:6044:fbe6::/48,US,US-VA,Norfolk
+2a0a:6044:fbe7::/48,US,US-WA,Tri-Cities
+2a0a:6044:fbe8::/48,US,US-KY,Louisville
+2a0a:6044:fbe9::/48,US,US-NV,Reno
+2a0a:6044:fbea::/48,US,US-NC,Winston-Salem
+2a0a:6044:fbeb::/48,US,US-AZ,Glendale
+2a0a:6044:fbec::/48,US,US-FL,Hialeah
+2a0a:6044:fbed::/48,US,US-TX,Garland
+2a0a:6044:fbee::/48,US,US-AZ,Scottsdale
+2a0a:6044:fbef::/48,US,US-TX,Irving
+2a0a:6044:fbf0::/48,US,US-VA,Chesapeake
+2a0a:6044:fbf1::/48,US,US-NV,North Las Vegas
+2a0a:6044:fbf2::/48,US,US-CA,Fremont
+2a0a:6044:fbf3::/48,US,US-LA,Baton Rouge
+2a0a:6044:fbf4::/48,US,US-VA,Richmond
+2a0a:6044:fbf5::/48,US,US-KY,Lexington
+2a0a:6044:fbf6::/48,US,US-NV,Paradise
+2a0a:6044:fbf7::/48,US,US-NY,Jamaica
+2a0a:6044:fbf8::/48,US,US-CA,San Bernardino
+2a0a:6044:fbf9::/48,US,US-AL,Huntsville
+2a0a:6044:fbfa::/48,US,US-WA,Spokane
+2a0a:6044:fbfb::/48,US,US-CA,Fontana
+2a0a:6044:fbfc::/48,US,US-AL,Birmingham
+2a0a:6044:fbfd::/48,US,US-CA,Modesto
+2a0a:6044:fbfe::/48,US,US-IA,Des Moines
+2a0a:6044:fbff::/48,US,US-NY,Rochester
+2a0a:6044:fc00::/48,US,US-AZ,Maryvale
+2a0a:6044:fc01::/48,US,US-WA,Tacoma
+2a0a:6044:fc02::/48,US,US-VA,Arlington
+2a0a:6044:fc03::/48,US,US-CA,Oxnard
+2a0a:6044:fc04::/48,US,US-GA,Columbus
+2a0a:6044:fc05::/48,US,US-MA,Worcester
+2a0a:6044:fc06::/48,US,US-CA,Moreno Valley
+2a0a:6044:fc07::/48,US,US-NC,Fayetteville
+2a0a:6044:fc08::/48,US,US-CA,Huntington Beach
+2a0a:6044:fc09::/48,US,US-NY,Yonkers
+2a0a:6044:fc0a::/48,US,US-CA,Glendale
+2a0a:6044:fc0b::/48,US,US-IL,Aurora
+2a0a:6044:fc0c::/48,US,US-AL,Montgomery
+2a0a:6044:fc0d::/48,US,US-TX,Amarillo
+2a0a:6044:fc0e::/48,US,US-AR,Little Rock
+2a0a:6044:fc0f::/48,US,US-OH,Akron
+2a0a:6044:fc10::/48,US,US-LA,Shreveport
+2a0a:6044:fc11::/48,US,US-MI,Grand Rapids
+2a0a:6044:fc12::/48,US,US-AL,Mobile
+2a0a:6044:fc13::/48,US,US-UT,Salt Lake City
+2a0a:6044:fc14::/48,US,US-AZ,Peoria
+2a0a:6044:fc15::/48,US,US-RI,Providence
+2a0a:6044:fc16::/48,US,US-FL,Tallahassee
+2a0a:6044:fc17::/48,US,US-NV,Sunrise Manor
+2a0a:6044:fc18::/48,US,US-TX,Grand Prairie
+2a0a:6044:fc19::/48,US,US-KS,Overland Park
+2a0a:6044:fc1a::/48,US,US-TN,Knoxville
+2a0a:6044:fc1b::/48,US,US-TX,Brownsville
+2a0a:6044:fc1c::/48,US,US-VA,Newport News
+2a0a:6044:fc1d::/48,US,US-CA,Santa Clarita
+2a0a:6044:fc1e::/48,US,US-TN,Chattanooga
+2a0a:6044:fc1f::/48,US,US-FL,Fort Lauderdale
+2a0a:6044:fc20::/48,US,US-NY,East Flatbush
+2a0a:6044:fc21::/48,US,US-NV,Spring Valley
+2a0a:6044:fc22::/48,US,US-AZ,Tempe
+2a0a:6044:fc23::/48,US,US-CA,Oceanside
+2a0a:6044:fc24::/48,US,US-CA,Garden Grove
+2a0a:6044:fc25::/48,US,US-CA,Rancho Cucamonga
+2a0a:6044:fc26::/48,US,US-FL,Cape Coral
+2a0a:6044:fc27::/48,US,US-CA,Santa Rosa
+2a0a:6044:fc28::/48,US,US-NY,East New York
+2a0a:6044:fc29::/48,US,US-WA,Vancouver
+2a0a:6044:fc2a::/48,US,US-SD,Sioux Falls
+2a0a:6044:fc2b::/48,US,US-CA,Ontario
+2a0a:6044:fc2c::/48,US,US-MS,Jackson
+2a0a:6044:fc2d::/48,US,US-CA,Hollywood
+2a0a:6044:fc2e::/48,US,US-CA,Elk Grove
+2a0a:6044:fc2f::/48,US,US-MO,Springfield
+2a0a:6044:fc30::/48,US,US-TN,Clarksville
+2a0a:6044:fc31::/48,US,US-FL,Pembroke Pines
+2a0a:6044:fc32::/48,US,US-AZ,Deer Valley
+2a0a:6044:fc33::/48,US,US-FL,Port Saint Lucie
+2a0a:6044:fc34::/48,US,US-OR,Salem
+2a0a:6044:fc35::/48,US,US-CA,Corona
+2a0a:6044:fc36::/48,US,US-OR,Eugene
+2a0a:6044:fc37::/48,US,US-TX,McKinney
+2a0a:6044:fc38::/48,US,US-CO,Fort Collins
+2a0a:6044:fc39::/48,US,US-CA,Lancaster
+2a0a:6044:fc3a::/48,US,US-NC,Cary
+2a0a:6044:fc3b::/48,US,US-VA,Alexandria
+2a0a:6044:fc3c::/48,US,US-AZ,Tempe Junction
+2a0a:6044:fc3d::/48,US,US-CA,Palmdale
+2a0a:6044:fc3e::/48,US,US-CA,Hayward
+2a0a:6044:fc3f::/48,US,US-CA,Salinas
+2a0a:6044:fc40::/48,US,US-CA,Sunnyvale
+2a0a:6044:fc41::/48,US,US-TX,Frisco
+2a0a:6044:fc42::/48,US,US-MA,Springfield
+2a0a:6044:fc43::/48,US,US-TN,East Chattanooga
+2a0a:6044:fc44::/48,US,US-TX,Pasadena
+2a0a:6044:fc45::/48,US,US-CA,Pomona
+2a0a:6044:fc46::/48,US,US-NY,Washington Heights
+2a0a:6044:fc47::/48,US,US-CO,Lakewood
+2a0a:6044:fc48::/48,US,US-KS,Kansas City
+2a0a:6044:fc49::/48,US,US-CA,Escondido
+2a0a:6044:fc4a::/48,US,US-NY,Astoria
+2a0a:6044:fc4b::/48,US,US-FL,Hollywood
+2a0a:6044:fc4c::/48,US,US-NY,Borough Park
+2a0a:6044:fc4d::/48,US,US-CA,Valencia
+2a0a:6044:fc4e::/48,US,US-IL,Rockford
+2a0a:6044:fc4f::/48,US,US-VA,East Hampton
+2a0a:6044:fc50::/48,CO,CO-NAR,Pasto
+2a0a:6044:fc51::/48,CO,CO-HUI,Neiva
+2a0a:6044:fc52::/48,CO,CO-ATL,Soledad
+2a0a:6044:fc53::/48,CO,CO-MET,Villavicencio
+2a0a:6044:fc54::/48,CO,CO-CAU,Popayán
+2a0a:6044:fc55::/48,CO,CO-CUN,Soacha
+2a0a:6044:fc56::/48,CO,CO-VAC,Palmira
+2a0a:6044:fc57::/48,CO,CO-QUI,Armenia
+2a0a:6044:fc58::/48,CO,CO-ANT,Itagüí
+2a0a:6044:fc59::/48,CO,CO-SUC,Sincelejo
+2a0a:6044:fc5a::/48,CO,CO-SAN,Floridablanca
+2a0a:6044:fc5b::/48,CO,CO-VAC,Tuluá
+2a0a:6044:fc5c::/48,CO,CO-RIS,Dosquebradas
+2a0a:6044:fc5d::/48,CO,CO-SAN,Barrancabermeja
+2a0a:6044:fc5e::/48,CL,CL-CO,Coquimbo
+2a0a:6044:fc5f::/48,CL,CL-CO,La Serena
+2a0a:6044:fc60::/48,CL,CL-NB,Chillán
+2a0a:6044:fc61::/48,CL,CL-AN,Calama
+2a0a:6044:fc62::/48,CL,CL-LL,Osorno
+2a0a:6044:fc63::/48,CL,CL-LR,Valdivia
+2a0a:6044:fc64::/48,CL,CL-VS,Quilpué
+2a0a:6044:fc65::/48,CL,CL-AT,Copiapó
+2a0a:6044:fc66::/48,CL,CL-BI,Los Ángeles
+2a0a:6044:fc67::/48,CL,CL-MA,Punta Arenas
+2a0a:6044:fc68::/48,CL,CL-TA,Alto Hospicio
+2a0a:6044:fc69::/48,CL,CL-RM,Lo Prado
+2a0a:6044:fc6a::/48,CL,CL-ML,Curicó
+2a0a:6044:fc6b::/48,CL,CL-VS,Villa Alemana
+2a0a:6044:fc6c::/48,CL,CL-BI,Coronel
+2a0a:6044:fc6d::/48,AR,AR-E,Paraná
+2a0a:6044:fc6e::/48,AR,AR-Q,Neuquén
+2a0a:6044:fc6f::/48,AR,AR-B,José C. Paz
+2a0a:6044:fc70::/48,AR,AR-P,Formosa
+2a0a:6044:fc71::/48,AR,AR-B,La Plata
+2a0a:6044:fc72::/48,AR,AR-B,Berazategui
+2a0a:6044:fc73::/48,AR,AR-F,La Rioja
+2a0a:6044:fc74::/48,AR,AR-D,San Luis
+2a0a:6044:fc75::/48,AR,AR-B,San Miguel
+2a0a:6044:fc76::/48,AR,AR-K,Catamarca
+2a0a:6044:fc77::/48,AR,AR-X,Río Cuarto
+2a0a:6044:fc78::/48,AR,AR-C,Balvanera
+2a0a:6044:fc79::/48,AR,AR-E,Concordia
+2a0a:6044:fc7a::/48,AR,AR-U,Comodoro Rivadavia
+2a0a:6044:fc7b::/48,AR,AR-C,Belgrano
+2a0a:6044:fc7c::/48,MX,MX-CHH,Chihuahua City
+2a0a:6044:fc7d::/48,MX,MX-SON,Hermosillo
+2a0a:6044:fc7e::/48,MX,MX-SIN,Culiacán
+2a0a:6044:fc7f::/48,MX,MX-MEX,Naucalpan
+2a0a:6044:fc80::/48,MX,MX-MIC,Morelia
+2a0a:6044:fc81::/48,MX,MX-COA,Torreón
+2a0a:6044:fc82::/48,MX,MX-CMX,Álvaro Obregón
+2a0a:6044:fc83::/48,MX,MX-SLP,San Luis Potosí City
+2a0a:6044:fc84::/48,MX,MX-AGU,Aguascalientes
+2a0a:6044:fc85::/48,MX,MX-COA,Saltillo
+2a0a:6044:fc86::/48,MX,MX-NLE,Guadalupe
+2a0a:6044:fc87::/48,MX,MX-GRO,Acapulco de Juárez
+2a0a:6044:fc88::/48,MX,MX-MEX,Tlalnepantla
+2a0a:6044:fc89::/48,MX,MX-ROO,Cancún
+2a0a:6044:fc8a::/48,MX,MX-CMX,Coyoacán
+2a0a:6044:fc8b::/48,ES,ES-CT,Eixample
+2a0a:6044:fc8c::/48,ES,ES-CT,L'Hospitalet de Llobregat
+2a0a:6044:fc8d::/48,ES,ES-MD,Latina
+2a0a:6044:fc8e::/48,ES,ES-MD,Carabanchel
+2a0a:6044:fc8f::/48,ES,ES-PV,Vitoria-Gasteiz
+2a0a:6044:fc90::/48,ES,ES-GA,A Coruña
+2a0a:6044:fc91::/48,ES,ES-MD,Puente de Vallecas
+2a0a:6044:fc92::/48,ES,ES-CT,Sant Martí
+2a0a:6044:fc93::/48,ES,ES-AN,Granada
+2a0a:6044:fc94::/48,ES,ES-VC,Elche
+2a0a:6044:fc95::/48,ES,ES-MD,Ciudad Lineal
+2a0a:6044:fc96::/48,ES,ES-MD,Fuencarral-El Pardo
+2a0a:6044:fc97::/48,ES,ES-AS,Oviedo
+2a0a:6044:fc98::/48,ES,ES-CT,Badalona
+2a0a:6044:fc99::/48,ES,ES-CT,Terrassa
+2a0a:6044:fc9a::/48,PR,PR-69,Humacao
+2a0a:6044:fc9b::/48,PR,PR-153,Yauco
+2a0a:6044:fc9c::/48,PR,PR-35,Cayey
+2a0a:6044:fc9d::/48,PR,PR-137,Candelaria
+2a0a:6044:fc9e::/48,PR,PR-91,Manatí
+2a0a:6044:fc9f::/48,PR,PR-5,Aguadilla
+2a0a:6044:fca0::/48,PR,PR-119,Río Grande
+2a0a:6044:fca1::/48,PR,PR-51,Dorado
+2a0a:6044:fca2::/48,PR,PR-71,Isabela
+2a0a:6044:fca3::/48,PR,PR-125,San Germán
+2a0a:6044:fca4::/48,PR,PR-143,Vega Alta
+2a0a:6044:fca5::/48,PR,PR-43,Coamo
+2a0a:6044:fca6::/48,PR,PR-67,Hormigueros
+2a0a:6044:fca7::/48,PR,PR-131,San Sebastián
+2a0a:6044:fca8::/48,PR,PR-47,Corozal
+2a0a:6044:fca9::/48,PE,PE-CAJ,Cajamarca
+2a0a:6044:fcaa::/48,PE,PE-HUC,Huánuco
+2a0a:6044:fcab::/48,PE,PE-LMA,Santa Anita - Los Ficus
+2a0a:6044:fcac::/48,PE,PE-PIU,Sullana
+2a0a:6044:fcad::/48,PE,PE-ICA,Chincha Alta
+2a0a:6044:fcae::/48,PE,PE-AYA,Ayacucho
+2a0a:6044:fcaf::/48,PE,PE-PIU,San Martin
+2a0a:6044:fcb0::/48,PE,PE-PUN,Puno
+2a0a:6044:fcb1::/48,PE,PE-ANC,Huaraz
+2a0a:6044:fcb2::/48,PE,PE-LMA,San Francisco De Borja
+2a0a:6044:fcb3::/48,PE,PE-PIU,Talara
+2a0a:6044:fcb4::/48,PE,PE-TUM,Tumbes
+2a0a:6044:fcb5::/48,PE,PE-LMA,Chosica
+2a0a:6044:fcb6::/48,PE,PE-MDD,Puerto Maldonado
+2a0a:6044:fcb7::/48,PE,PE-LMA,Breña
+2a0a:6044:fcb8::/48,BR,BR-MA,São Luís
+2a0a:6044:fcb9::/48,BR,BR-MS,Campo Grande
+2a0a:6044:fcba::/48,BR,BR-RN,Natal
+2a0a:6044:fcbb::/48,BR,BR-PI,Teresina
+2a0a:6044:fcbc::/48,BR,BR-RJ,Nova Iguaçu
+2a0a:6044:fcbd::/48,BR,BR-RJ,Duque de Caxias
+2a0a:6044:fcbe::/48,BR,BR-PB,João Pessoa
+2a0a:6044:fcbf::/48,BR,BR-SP,São Bernardo do Campo
+2a0a:6044:fcc0::/48,BR,BR-SP,São José dos Campos
+2a0a:6044:fcc1::/48,BR,BR-SP,Ribeirão Preto
+2a0a:6044:fcc2::/48,BR,BR-PE,Jaboatão
+2a0a:6044:fcc3::/48,BR,BR-SP,Sorocaba
+2a0a:6044:fcc4::/48,BR,BR-SP,Osasco
+2a0a:6044:fcc5::/48,BR,BR-SE,Aracaju
+2a0a:6044:fcc6::/48,BR,BR-SP,Santo André
+2a0a:6044:fcc7::/48,US,US-IL,Joliet
+2a0a:6044:fcc8::/48,US,US-GA,Savannah
+2a0a:6044:fcc9::/48,US,US-NJ,Paterson
+2a0a:6044:fcca::/48,US,US-CT,Bridgeport
+2a0a:6044:fccb::/48,US,US-IL,Naperville
+2a0a:6044:fccc::/48,US,US-ID,Boise
+2a0a:6044:fccd::/48,US,US-TX,Mesquite
+2a0a:6044:fcce::/48,US,US-NY,Syracuse
+2a0a:6044:fccf::/48,US,US-CA,Torrance
+2a0a:6044:fcd0::/48,US,US-AZ,Surprise
+2a0a:6044:fcd1::/48,US,US-LA,Metairie Terrace
+2a0a:6044:fcd2::/48,US,US-CA,Pasadena
+2a0a:6044:fcd3::/48,US,US-FL,Gainesville
+2a0a:6044:fcd4::/48,US,US-CA,Orange
+2a0a:6044:fcd5::/48,US,US-CA,Fullerton
+2a0a:6044:fcd6::/48,US,US-TX,Killeen
+2a0a:6044:fcd7::/48,US,US-TX,McAllen
+2a0a:6044:fcd8::/48,US,US-WA,Bellevue
+2a0a:6044:fcd9::/48,US,US-LA,Metairie
+2a0a:6044:fcda::/48,US,US-OH,Dayton
+2a0a:6044:fcdb::/48,US,US-FL,Miramar
+2a0a:6044:fcdc::/48,US,US-VA,Hampton
+2a0a:6044:fcdd::/48,US,US-CA,Van Nuys
+2a0a:6044:fcde::/48,US,US-UT,West Valley City
+2a0a:6044:fcdf::/48,US,US-KS,Olathe
+2a0a:6044:fce0::/48,US,US-MI,Warren
+2a0a:6044:fce1::/48,US,US-SC,Columbia
+2a0a:6044:fce2::/48,US,US-CO,Thornton
+2a0a:6044:fce3::/48,US,US-TX,Carrollton
+2a0a:6044:fce4::/48,US,US-TX,Midland
+2a0a:6044:fce5::/48,US,US-SC,Charleston
+2a0a:6044:fce6::/48,US,US-TX,Waco
+2a0a:6044:fce7::/48,US,US-MI,Sterling Heights
+2a0a:6044:fce8::/48,US,US-TX,Denton
+2a0a:6044:fce9::/48,US,US-IA,Cedar Rapids
+2a0a:6044:fcea::/48,US,US-CT,New Haven
+2a0a:6044:fceb::/48,US,US-CA,Roseville
+2a0a:6044:fcec::/48,US,US-CA,Visalia
+2a0a:6044:fced::/48,US,US-FL,Coral Springs
+2a0a:6044:fcee::/48,US,US-CA,Thousand Oaks
+2a0a:6044:fcef::/48,US,US-NJ,Elizabeth
+2a0a:6044:fcf0::/48,US,US-CT,Stamford
+2a0a:6044:fcf1::/48,US,US-CA,Concord
+2a0a:6044:fcf2::/48,US,US-AZ,Alhambra
+2a0a:6044:fcf3::/48,US,US-LA,Lafayette
+2a0a:6044:fcf4::/48,US,US-GA,Athens
+2a0a:6044:fcf5::/48,US,US-KS,Topeka
+2a0a:6044:fcf6::/48,US,US-WA,Kent
+2a0a:6044:fcf7::/48,US,US-CA,Simi Valley
+2a0a:6044:fcf8::/48,US,US-,East Los Angeles
+2a0a:6044:fcf9::/48,GB,GB-ENG,Birkenhead
+2a0a:6044:fcfa::/48,GB,GB-ENG,Nottingham
+2a0a:6044:fcfb::/48,GB,GB-ENG,Islington
+2a0a:6044:fcfc::/48,GB,GB-ENG,Reading
+2a0a:6044:fcfd::/48,GB,GB-ENG,Hull
+2a0a:6044:fcfe::/48,GB,GB-ENG,Preston
+2a0a:6044:fcff::/48,GB,GB-WLS,Newport
+2a0a:6044:fd00::/48,GB,GB-WLS,Swansea
+2a0a:6044:fd01::/48,GB,GB-ENG,Newcastle upon Tyne
+2a0a:6044:fd02::/48,GB,GB-ENG,Southend-on-Sea
+2a0a:6044:fd03::/48,GB,GB-ENG,Brighton
+2a0a:6044:fd04::/48,GB,GB-ENG,Derby
+2a0a:6044:fd05::/48,GB,GB-ENG,Southampton
+2a0a:6044:fd06::/48,GB,GB-ENG,Wolverhampton
+2a0a:6044:fd07::/48,GB,GB-ENG,Plymouth
+2a0a:6044:fd08::/48,GB,GB-ENG,Stoke-on-Trent
+2a0a:6044:fd09::/48,GB,GB-ENG,Milton Keynes
+2a0a:6044:fd0a::/48,GB,GB-ENG,City of Westminster
+2a0a:6044:fd0b::/48,GB,GB-ENG,Northampton
+2a0a:6044:fd0c::/48,GB,GB-ENG,Oldham
+2a0a:6044:fd0d::/48,GB,GB-ENG,Bexley
+2a0a:6044:fd0e::/48,GB,GB-ENG,Luton
+2a0a:6044:fd0f::/48,GB,GB-ENG,Archway
+2a0a:6044:fd10::/48,GB,GB-ENG,Portsmouth
+2a0a:6044:fd11::/48,GB,GB-ENG,Swindon
+2a0a:6044:fd12::/48,GB,GB-ENG,Dudley
+2a0a:6044:fd13::/48,GB,GB-SCT,Aberdeen
+2a0a:6044:fd14::/48,GB,GB-ENG,Sutton
+2a0a:6044:fd15::/48,GB,GB-ENG,St Helens
+2a0a:6044:fd16::/48,GB,GB-ENG,Crawley
+2a0a:6044:fd17::/48,GB,GB-ENG,Ipswich
+2a0a:6044:fd18::/48,GB,GB-ENG,Wigan
+2a0a:6044:fd19::/48,GB,GB-ENG,Croydon
+2a0a:6044:fd1a::/48,GB,GB-ENG,Warrington
+2a0a:6044:fd1b::/48,GB,GB-ENG,Walsall
+2a0a:6044:fd1c::/48,NL,NL-GE,Apeldoorn
+2a0a:6044:fd1d::/48,NL,NL-NB,'s-Hertogenbosch
+2a0a:6044:fd1e::/48,NL,NL-NH,Hoofddorp
+2a0a:6044:fd1f::/48,NL,NL-LI,Maastricht
+2a0a:6044:fd20::/48,NL,NL-ZH,Leiden
+2a0a:6044:fd21::/48,NL,NL-ZH,Dordrecht
+2a0a:6044:fd22::/48,NL,NL-ZH,Zoetermeer
+2a0a:6044:fd23::/48,NL,NL-OV,Zwolle
+2a0a:6044:fd24::/48,NL,NL-OV,Hengelo
+2a0a:6044:fd25::/48,NL,NL-LI,Venlo
+2a0a:6044:fd26::/48,NL,NL-OV,Deventer
+2a0a:6044:fd27::/48,NL,NL-ZH,Delft
+2a0a:6044:fd28::/48,NL,NL-NH,Alkmaar
+2a0a:6044:fd29::/48,NL,NL-LI,Heerlen
+2a0a:6044:fd2a::/48,NL,NL-FR,Leeuwarden
+2a0a:6044:fd2b::/48,DE,DE-SN,Leipzig
+2a0a:6044:fd2c::/48,DE,DE-NW,Duisburg
+2a0a:6044:fd2d::/48,DE,DE-HH,Wandsbek
+2a0a:6044:fd2e::/48,DE,DE-NW,Bochum
+2a0a:6044:fd2f::/48,DE,DE-NW,Bochum-Hordel
+2a0a:6044:fd30::/48,DE,DE-NW,Wuppertal
+2a0a:6044:fd31::/48,DE,DE-NW,Bielefeld
+2a0a:6044:fd32::/48,DE,DE-NW,Bonn
+2a0a:6044:fd33::/48,DE,DE-HH,Hamburg-Nord
+2a0a:6044:fd34::/48,DE,DE-BW,Mannheim
+2a0a:6044:fd35::/48,DE,DE-HH,Hamburg-Mitte
+2a0a:6044:fd36::/48,DE,DE-HH,Marienthal
+2a0a:6044:fd37::/48,DE,DE-BW,Karlsruhe
+2a0a:6044:fd38::/48,DE,DE-HE,Wiesbaden
+2a0a:6044:fd39::/48,DE,DE-NW,Münster
+2a0a:6044:fd3a::/48,FR,FR-IDF,Cergy-Pontoise
+2a0a:6044:fd3b::/48,FR,FR-ARA,Saint-Etienne
+2a0a:6044:fd3c::/48,FR,FR-PAC,Toulon
+2a0a:6044:fd3d::/48,FR,FR-PDL,Angers
+2a0a:6044:fd3e::/48,FR,FR-ARA,Grenoble
+2a0a:6044:fd3f::/48,FR,FR-BFC,Dijon
+2a0a:6044:fd40::/48,FR,FR-OCC,Nîmes
+2a0a:6044:fd41::/48,FR,FR-ARA,Clermont-Ferrand
+2a0a:6044:fd42::/48,FR,FR-PAC,Aix-en-Provence
+2a0a:6044:fd43::/48,FR,FR-IDF,Saint-Quentin-en-Yvelines
+2a0a:6044:fd44::/48,FR,FR-BRE,Brest
+2a0a:6044:fd45::/48,FR,FR-PDL,Le Mans
+2a0a:6044:fd46::/48,FR,FR-HDF,Amiens
+2a0a:6044:fd47::/48,FR,FR-CVL,Tours
+2a0a:6044:fd48::/48,FR,FR-NAQ,Limoges
+2a0a:6044:fd49::/48,AT,AT-8,Dornbirn
+2a0a:6044:fd4a::/48,AT,AT-3,Wiener Neustadt
+2a0a:6044:fd4b::/48,AT,AT-4,Steyr
+2a0a:6044:fd4c::/48,AT,AT-7,Hötting
+2a0a:6044:fd4d::/48,AT,AT-8,Feldkirch
+2a0a:6044:fd4e::/48,AT,AT-6,Jakomini
+2a0a:6044:fd4f::/48,AT,AT-7,Pradl
+2a0a:6044:fd50::/48,AT,AT-6,Lend
+2a0a:6044:fd51::/48,AT,AT-8,Bregenz
+2a0a:6044:fd52::/48,AT,AT-6,Gries
+2a0a:6044:fd53::/48,AT,AT-3,Baden bei Wien
+2a0a:6044:fd54::/48,AT,AT-6,Geidorf
+2a0a:6044:fd55::/48,AT,AT-8,Lustenau
+2a0a:6044:fd56::/48,AT,AT-3,St. Pölten
+2a0a:6044:fd57::/48,AT,AT-3,Mödling
+2a0a:6044:fd58::/48,IT,IT-75,Taranto
+2a0a:6044:fd59::/48,IT,IT-45,Parma
+2a0a:6044:fd5a::/48,IT,IT-52,Prato
+2a0a:6044:fd5b::/48,IT,IT-45,Modena
+2a0a:6044:fd5c::/48,IT,IT-78,Reggio Calabria
+2a0a:6044:fd5d::/48,IT,IT-45,Reggio Emilia
+2a0a:6044:fd5e::/48,IT,IT-52,Livorno
+2a0a:6044:fd5f::/48,IT,IT-88,Cagliari
+2a0a:6044:fd60::/48,IT,IT-45,Rimini
+2a0a:6044:fd61::/48,IT,IT-34,Mestre
+2a0a:6044:fd62::/48,IT,IT-75,Foggia
+2a0a:6044:fd63::/48,IT,IT-45,Ferrara
+2a0a:6044:fd64::/48,IT,IT-62,Acilia-Castel Fusano-Ostia Antica
+2a0a:6044:fd65::/48,IT,IT-72,Salerno
+2a0a:6044:fd66::/48,IT,IT-25,Monza
+2a0a:6044:fd67::/48,GR,GR-I,Keratsini
+2a0a:6044:fd68::/48,GR,GR-B,Evosmos
+2a0a:6044:fd69::/48,GR,GR-I,Chalandri
+2a0a:6044:fd6a::/48,GR,GR-I,Néa Smýrni
+2a0a:6044:fd6b::/48,GR,GR-I,Marousi
+2a0a:6044:fd6c::/48,GR,GR-I,Agios Dimitrios
+2a0a:6044:fd6d::/48,GR,GR-I,Zografos
+2a0a:6044:fd6e::/48,GR,GR-I,Aigáleo
+2a0a:6044:fd6f::/48,GR,GR-I,Nea Ionia
+2a0a:6044:fd70::/48,GR,GR-D,Ioannina
+2a0a:6044:fd71::/48,GR,GR-I,Old Faliron
+2a0a:6044:fd72::/48,GR,GR-I,Korydallos
+2a0a:6044:fd73::/48,GR,GR-E,Trikala
+2a0a:6044:fd74::/48,GR,GR-I,Výronas
+2a0a:6044:fd75::/48,GR,GR-I,Agía Paraskeví
+2a0a:6044:fd76::/48,RO,RO-BR,Braila
+2a0a:6044:fd77::/48,RO,RO-BH,Oradea
+2a0a:6044:fd78::/48,RO,RO-BC,Bacau
+2a0a:6044:fd79::/48,RO,RO-AR,Arad
+2a0a:6044:fd7a::/48,RO,RO-AG,Piteşti
+2a0a:6044:fd7b::/48,RO,RO-SB,Sibiu
+2a0a:6044:fd7c::/48,RO,RO-MS,Târgu Mureş
+2a0a:6044:fd7d::/48,RO,RO-MM,Baia Mare
+2a0a:6044:fd7e::/48,RO,RO-BZ,Buzau
+2a0a:6044:fd7f::/48,RO,RO-BT,Botosani
+2a0a:6044:fd80::/48,RO,RO-SM,Satu Mare
+2a0a:6044:fd81::/48,RO,RO-VL,Râmnicu Vâlcea
+2a0a:6044:fd82::/48,RO,RO-SV,Suceava
+2a0a:6044:fd83::/48,RO,RO-NT,Piatra Neamţ
+2a0a:6044:fd84::/48,RO,RO-MH,Drobeta-Turnu Severin
+2a0a:6044:fd85::/48,AU,AU-QLD,Toowoomba
+2a0a:6044:fd86::/48,AU,AU-QLD,Mackay
+2a0a:6044:fd87::/48,AU,AU-VIC,Ballarat
+2a0a:6044:fd88::/48,AU,AU-WA,Mandurah
+2a0a:6044:fd89::/48,AU,AU-VIC,Bendigo
+2a0a:6044:fd8a::/48,AU,AU-TAS,Launceston
+2a0a:6044:fd8b::/48,AU,AU-QLD,Rockhampton
+2a0a:6044:fd8c::/48,AU,AU-WA,Bunbury
+2a0a:6044:fd8d::/48,AU,AU-NSW,Maitland
+2a0a:6044:fd8e::/48,AU,AU-VIC,Point Cook
+2a0a:6044:fd8f::/48,AU,AU-VIC,Craigieburn
+2a0a:6044:fd90::/48,AU,AU-NSW,Tamworth
+2a0a:6044:fd91::/48,AU,AU-SA,Adelaide Hills
+2a0a:6044:fd92::/48,AU,AU-VIC,Melbourne CBD
+2a0a:6044:fd93::/48,AU,AU-VIC,Tarneit
+2a0a:6044:fd94::/48,CH,CH-NE,La Chaux-de-Fonds
+2a0a:6044:fd95::/48,CH,CH-ZH,Zürich (Kreis 10)
+2a0a:6044:fd96::/48,CH,CH-SG,Rapperswil
+2a0a:6044:fd97::/48,CH,CH-SH,Schaffhausen
+2a0a:6044:fd98::/48,CH,CH-ZH,Zürich (Kreis 7)
+2a0a:6044:fd99::/48,CH,CH-FR,Fribourg
+2a0a:6044:fd9a::/48,CH,CH-GR,Chur
+2a0a:6044:fd9b::/48,CH,CH-NE,Neuchâtel
+2a0a:6044:fd9c::/48,CH,CH-LU,Emmen
+2a0a:6044:fd9d::/48,CH,CH-GE,Vernier
+2a0a:6044:fd9e::/48,CH,CH-ZH,Zürich (Kreis 6)
+2a0a:6044:fd9f::/48,CH,CH-ZH,Zürich (Kreis 2)
+2a0a:6044:fda0::/48,CH,CH-ZH,Zürich (Kreis 9) / Altstetten
+2a0a:6044:fda1::/48,CH,CH-ZH,Zürich (Kreis 12)
+2a0a:6044:fda2::/48,CH,CH-VS,Sion
+2a0a:6044:fda3::/48,RU,RU-MOW,Moscow
+2a0a:6044:fda4::/48,RU,RU-SPE,St Petersburg
+2a0a:6044:fda5::/48,RU,RU-NVS,Novosibirsk
+2a0a:6044:fda6::/48,RU,RU-SVE,Yekaterinburg
+2a0a:6044:fda7::/48,RU,RU-NIZ,Nizhny Novgorod
+2a0a:6044:fda8::/48,RU,RU-TA,Kazan’
+2a0a:6044:fda9::/48,RU,RU-CHE,Chelyabinsk
+2a0a:6044:fdaa::/48,RU,RU-OMS,Omsk
+2a0a:6044:fdab::/48,RU,RU-SAM,Samara
+2a0a:6044:fdac::/48,RU,RU-ROS,Rostov-on-Don
+2a0a:6044:fdad::/48,RU,RU-BA,Ufa
+2a0a:6044:fdae::/48,RU,RU-KYA,Krasnoyarsk
+2a0a:6044:fdaf::/48,RU,RU-VOR,Voronezh
+2a0a:6044:fdb0::/48,RU,RU-VGG,Volgograd
+2a0a:6044:fdb1::/48,RU,RU-PER,Perm
+2a0a:6044:fdb2::/48,RU,RU-KDA,Krasnodar
+2a0a:6044:fdb3::/48,RU,RU-SAR,Saratov
+2a0a:6044:fdb4::/48,RU,RU-TYU,Tyumen
+2a0a:6044:fdb5::/48,RU,RU-SAM,Tolyatti
+2a0a:6044:fdb6::/48,RU,RU-UD,Izhevsk
+2a0a:6044:fdb7::/48,RU,RU-ALT,Barnaul
+2a0a:6044:fdb8::/48,RU,RU-ULY,Ulyanovsk
+2a0a:6044:fdb9::/48,RU,RU-IRK,Irkutsk
+2a0a:6044:fdba::/48,RU,RU-KHA,Khabarovsk
+2a0a:6044:fdbb::/48,RU,RU-YAR,Yaroslavl
+2a0a:6044:fdbc::/48,RU,RU-PRI,Vladivostok
+2a0a:6044:fdbd::/48,RU,RU-DA,Makhachkala
+2a0a:6044:fdbe::/48,RU,RU-KHA,Khabarovsk Vtoroy
+2a0a:6044:fdbf::/48,RU,RU-TOM,Tomsk
+2a0a:6044:fdc0::/48,RU,RU-ORE,Orenburg
+2a0a:6044:fdc1::/48,AE,AE-FU,Dibba Al-Fujairah
+2a0a:6044:fdc2::/48,AE,AE-FU,Dibba Al-Hisn
+2a0a:6044:fdc3::/48,AE,AE-AZ,Ruwais
+2a0a:6044:fdc4::/48,AE,AE-UQ,Dhaid
+2a0a:6044:fdc5::/48,AE,AE-AZ,Mezaira’a
+2a0a:6044:fdc6::/48,AE,AE-DU,Maşfūţ
+2a0a:6044:fdc7::/48,AE,AE-FU,Al Manāmah
+2a0a:6044:fdc8::/48,AE,AE-FU,Murbaḩ
+2a0a:6044:fdc9::/48,AE,AE-AZ,Al Wiqan
+2a0a:6044:fdca::/48,AE,AE-AZ,Al'Arad
+2a0a:6044:fdcb::/48,AE,AE-AZ,Al Araad
+2a0a:6044:fdcc::/48,AE,AE-RK,Shairi
+2a0a:6044:fdcd::/48,AE,AE-RK,Baighit
+2a0a:6044:fdce::/48,AE,AE-RK,Musaibat
+2a0a:6044:fdcf::/48,AE,AE-RK,Ras Ash
+2a0a:6044:fdd0::/48,VE,VE-V,Cabimas
+2a0a:6044:fdd1::/48,VE,VE-S,San Cristóbal
+2a0a:6044:fdd2::/48,VE,VE-E,Alto Barinas
+2a0a:6044:fdd3::/48,VE,VE-M,Santa Teresa del Tuy
+2a0a:6044:fdd4::/48,VE,VE-M,Los Teques
+2a0a:6044:fdd5::/48,VE,VE-M,Guarenas
+2a0a:6044:fdd6::/48,VE,VE-I,Coro
+2a0a:6044:fdd7::/48,VE,VE-T,Valera
+2a0a:6044:fdd8::/48,VE,VE-M,Baruta
+2a0a:6044:fdd9::/48,VE,VE-C,San Fernando de Apure
+2a0a:6044:fdda::/48,VE,VE-M,Guatire
+2a0a:6044:fddb::/48,VE,VE-B,El Tigre
+2a0a:6044:fddc::/48,VE,VE-O,Porlamar
+2a0a:6044:fddd::/48,VE,VE-U,San Felipe
+2a0a:6044:fdde::/48,VE,VE-G,Guacara
+2a0a:6044:fddf::/48,EC,EC-G,Daule
+2a0a:6044:fde0::/48,EC,EC-G,Milagro
+2a0a:6044:fde1::/48,EC,EC-C,Tulcán
+2a0a:6044:fde2::/48,EC,EC-R,Babahoyo
+2a0a:6044:fde3::/48,EC,EC-SE,La Libertad
+2a0a:6044:fde4::/48,EC,EC-G,Velasco Ibarra
+2a0a:6044:fde5::/48,EC,EC-D,Puerto Francisco de Orellana
+2a0a:6044:fde6::/48,EC,EC-O,Pasaje
+2a0a:6044:fde7::/48,EC,EC-M,Chone
+2a0a:6044:fde8::/48,EC,EC-SE,Salinas
+2a0a:6044:fde9::/48,EC,EC-SE,Santa Elena
+2a0a:6044:fdea::/48,EC,EC-E,Rosa Zarate
+2a0a:6044:fdeb::/48,EC,EC-O,Santa Rosa
+2a0a:6044:fdec::/48,EC,EC-G,Balzar
+2a0a:6044:fded::/48,EC,EC-O,Huaquillas
+2a0a:6044:fdee::/48,CU,CU-3,Havana
+2a0a:6044:fdef::/48,CU,CU-13,Santiago de Cuba
+2a0a:6044:fdf0::/48,CU,CU-9,Camagüey
+2a0a:6044:fdf1::/48,CU,CU-11,Holguín
+2a0a:6044:fdf2::/48,CU,CU-14,Guantánamo
+2a0a:6044:fdf3::/48,CU,CU-5,Santa Clara
+2a0a:6044:fdf4::/48,CU,CU-3,Diez de Octubre
+2a0a:6044:fdf5::/48,CU,CU-3,Arroyo Naranjo
+2a0a:6044:fdf6::/48,CU,CU-10,Las Tunas
+2a0a:6044:fdf7::/48,CU,CU-12,Bayamo
+2a0a:6044:fdf8::/48,CU,CU-3,Boyeros
+2a0a:6044:fdf9::/48,CU,CU-1,Pinar del Río
+2a0a:6044:fdfa::/48,CU,CU-6,Cienfuegos
+2a0a:6044:fdfb::/48,CU,CU-3,Ciudad Camilo Cienfuegos
+2a0a:6044:fdfc::/48,CU,CU-3,San Miguel del Padrón
+2a0a:6044:fdfd::/48,CU,CU-3,Centro Habana
+2a0a:6044:fdfe::/48,CU,CU-4,Matanzas
+2a0a:6044:fdff::/48,CU,CU-8,Ciego de Ávila
+2a0a:6044:fe00::/48,CU,CU-3,Cerro
+2a0a:6044:fe01::/48,CU,CU-12,Manzanillo
+2a0a:6044:fe02::/48,CU,CU-7,Sancti Spíritus
+2a0a:6044:fe03::/48,CU,CU-3,Guanabacoa
+2a0a:6044:fe04::/48,CU,CU-13,Palma Soriano
+2a0a:6044:fe05::/48,CU,CU-3,Alamar
+2a0a:6044:fe06::/48,CU,CU-4,Cárdenas
+2a0a:6044:fe07::/48,CU,CU-3,La Habana Vieja
+2a0a:6044:fe08::/48,CU,CU-11,Moa
+2a0a:6044:fe09::/48,CU,CU-10,Puerto Padre
+2a0a:6044:fe0a::/48,CU,CU-13,Contramaestre
+2a0a:6044:fe0b::/48,CU,CU-15,Güira de Melena
+2a0a:6044:fe0c::/48,GT,GT-GU,Chinautla
+2a0a:6044:fe0d::/48,GT,GT-TO,Totonicapán
+2a0a:6044:fe0e::/48,GT,GT-IZ,Puerto Barrios
+2a0a:6044:fe0f::/48,GT,GT-CM,Chimaltenango
+2a0a:6044:fe10::/48,GT,GT-SM,Malacatán
+2a0a:6044:fe11::/48,GT,GT-RE,Retalhuleu
+2a0a:6044:fe12::/48,GT,GT-GU,Santa Catarina Pinula
+2a0a:6044:fe13::/48,GT,GT-GU,San José Pinula
+2a0a:6044:fe14::/48,GT,GT-HU,Huehuetenango
+2a0a:6044:fe15::/48,GT,GT-QC,Santa Cruz del Quiché
+2a0a:6044:fe16::/48,GT,GT-SU,Mazatenango
+2a0a:6044:fe17::/48,GT,GT-AV,Panzos
+2a0a:6044:fe18::/48,GT,GT-GU,Amatitlán
+2a0a:6044:fe19::/48,GT,GT-ES,Palín
+2a0a:6044:fe1a::/48,GT,GT-BV,Salamá
+2a0a:6044:fe1b::/48,DO,DO-22,San Juan
+2a0a:6044:fe1c::/48,DO,DO-21,Bajos de Haina
+2a0a:6044:fe1d::/48,DO,DO-17,Baní
+2a0a:6044:fe1e::/48,DO,DO-9,Moca
+2a0a:6044:fe1f::/48,DO,DO-2,Azua
+2a0a:6044:fe20::/48,DO,DO-1,Villa Francisca
+2a0a:6044:fe21::/48,DO,DO-27,Mao
+2a0a:6044:fe22::/48,DO,DO-32,Boca Chica
+2a0a:6044:fe23::/48,DO,DO-19,Salcedo
+2a0a:6044:fe24::/48,DO,DO-27,Esperanza
+2a0a:6044:fe25::/48,DO,DO-24,Cotuí
+2a0a:6044:fe26::/48,DO,DO-21,Villa Altagracia
+2a0a:6044:fe27::/48,DO,DO-30,Hato Mayor del Rey
+2a0a:6044:fe28::/48,DO,DO-14,Nagua
+2a0a:6044:fe29::/48,DO,DO-25,Villa Bisonó
+2a0a:6044:fe2a::/48,HN,HN-CP,Santa Rosa de Copán
+2a0a:6044:fe2b::/48,HN,HN-YO,Olanchito
+2a0a:6044:fe2c::/48,HN,HN-VA,San Lorenzo
+2a0a:6044:fe2d::/48,HN,HN-CR,Cofradía
+2a0a:6044:fe2e::/48,HN,HN-EP,El Paraíso
+2a0a:6044:fe2f::/48,HN,HN-LP,La Paz
+2a0a:6044:fe30::/48,HN,HN-YO,Yoro
+2a0a:6044:fe31::/48,HN,HN-CR,Potrerillos
+2a0a:6044:fe32::/48,HN,HN-SB,Santa Bárbara
+2a0a:6044:fe33::/48,HN,HN-CP,La Entrada
+2a0a:6044:fe34::/48,HN,HN-VA,Nacaome
+2a0a:6044:fe35::/48,HN,HN-IN,Intibucá
+2a0a:6044:fe36::/48,HN,HN-FM,Talanga
+2a0a:6044:fe37::/48,HN,HN-FM,Guaimaca
+2a0a:6044:fe38::/48,HN,HN-YO,Santa Rita
+2a0a:6044:fe39::/48,BO,BO-C,Vinto
+2a0a:6044:fe3a::/48,BO,BO-C,Colcapirhua
+2a0a:6044:fe3b::/48,BO,BO-C,Sipe Sipe
+2a0a:6044:fe3c::/48,BO,BO-L,Caranavi
+2a0a:6044:fe3d::/48,BO,BO-T,Villamontes
+2a0a:6044:fe3e::/48,BO,BO-B,Guayaramerín
+2a0a:6044:fe3f::/48,BO,BO-T,Bermejo
+2a0a:6044:fe40::/48,BO,BO-C,Mizque
+2a0a:6044:fe41::/48,BO,BO-P,Villazón
+2a0a:6044:fe42::/48,BO,BO-P,Llallagua
+2a0a:6044:fe43::/48,BO,BO-S,Camiri
+2a0a:6044:fe44::/48,BO,BO-,Cobija
+2a0a:6044:fe45::/48,BO,BO-B,San Borja
+2a0a:6044:fe46::/48,BO,BO-S,San Ignacio de Velasco
+2a0a:6044:fe47::/48,BO,BO-P,Tupiza
+2a0a:6044:fe48::/48,SV,SV-CU,San Martín
+2a0a:6044:fe49::/48,SV,SV-SS,Ilopango
+2a0a:6044:fe4a::/48,SV,SV-AH,Ahuachapán
+2a0a:6044:fe4b::/48,SV,SV-LI,Antiguo Cuscatlán
+2a0a:6044:fe4c::/48,SV,SV-SA,Chalchuapa
+2a0a:6044:fe4d::/48,SV,SV-LI,Quezaltepeque
+2a0a:6044:fe4e::/48,SV,SV-UN,La Unión
+2a0a:6044:fe4f::/48,SV,SV-SS,Ayutuxtepeque
+2a0a:6044:fe50::/48,SV,SV-SO,Acajutla
+2a0a:6044:fe51::/48,SV,SV-SS,Aguilares
+2a0a:6044:fe52::/48,SV,SV-CA,Sensuntepeque
+2a0a:6044:fe53::/48,SV,SV-CH,Chalatenango
+2a0a:6044:fe54::/48,SV,SV-SO,Izalco
+2a0a:6044:fe55::/48,SV,SV-SA,Metapán
+2a0a:6044:fe56::/48,SV,SV-SM,San Rafael Oriente
+2a0a:6044:fe57::/48,NI,NI-CA,Diriamba
+2a0a:6044:fe58::/48,NI,NI-NS,Ocotal
+2a0a:6044:fe59::/48,NI,NI-AN,Puerto Cabezas
+2a0a:6044:fe5a::/48,NI,NI-CI,Chichigalpa
+2a0a:6044:fe5b::/48,NI,NI-RI,Rivas
+2a0a:6044:fe5c::/48,NI,NI-MN,San Rafael del Sur
+2a0a:6044:fe5d::/48,NI,NI-CA,Jinotepe
+2a0a:6044:fe5e::/48,NI,NI-BO,Boaco
+2a0a:6044:fe5f::/48,NI,NI-LE,Nagarote
+2a0a:6044:fe60::/48,NI,NI-NS,Jalapa
+2a0a:6044:fe61::/48,NI,NI-LE,La Paz Centro
+2a0a:6044:fe62::/48,NI,NI-CA,San Marcos
+2a0a:6044:fe63::/48,NI,NI-MS,Masatepe
+2a0a:6044:fe64::/48,NI,NI-GR,Nandaime
+2a0a:6044:fe65::/48,NI,NI-AS,Rama
+2a0a:6044:fe66::/48,US,US-NY,New York
+2a0a:6044:fe67::/48,US,US-CA,Los Angeles
+2a0a:6044:fe68::/48,US,US-NY,Brooklyn
+2a0a:6044:fe69::/48,US,US-IL,Chicago
+2a0a:6044:fe6a::/48,US,US-TX,Houston
+2a0a:6044:fe6b::/48,US,US-NY,New York
+2a0a:6044:fe6c::/48,US,US-CA,Los Angeles
+2a0a:6044:fe6d::/48,US,US-NY,Brooklyn
+2a0a:6044:fe6e::/48,US,US-IL,Chicago
+2a0a:6044:fe6f::/48,US,US-TX,Houston
+2a0a:6044:fe70::/48,US,US-NY,New York
+2a0a:6044:fe71::/48,US,US-CA,Los Angeles
+2a0a:6044:fe72::/48,US,US-NY,Brooklyn
+2a0a:6044:fe73::/48,US,US-IL,Chicago
+2a0a:6044:fe74::/48,US,US-TX,Houston
+2a0a:6044:fe75::/48,US,US-NY,New York
+2a0a:6044:fe76::/48,US,US-CA,Los Angeles
+2a0a:6044:fe77::/48,US,US-NY,Brooklyn
+2a0a:6044:fe78::/48,US,US-IL,Chicago
+2a0a:6044:fe79::/48,US,US-TX,Houston
+2a0a:6044:fe7a::/48,US,US-NY,New York
+2a0a:6044:fe7b::/48,US,US-CA,Los Angeles
+2a0a:6044:fe7c::/48,US,US-NY,Brooklyn
+2a0a:6044:fe7d::/48,US,US-IL,Chicago
+2a0a:6044:fe7e::/48,US,US-TX,Houston
+2a0a:6044:fe7f::/48,US,US-NY,Borough of Queens
+2a0a:6044:fe80::/48,US,US-AZ,Phoenix
+2a0a:6044:fe81::/48,US,US-PA,Philadelphia
+2a0a:6044:fe82::/48,US,US-NY,Manhattan
+2a0a:6044:fe83::/48,US,US-TX,San Antonio
+2a0a:6044:fe84::/48,US,US-CA,San Diego
+2a0a:6044:fe85::/48,US,US-NY,Bronx
+2a0a:6044:fe86::/48,US,US-TX,Dallas
+2a0a:6044:fe87::/48,US,US-CA,San Jose
+2a0a:6044:fe88::/48,US,US-FL,Jacksonville
+2a0a:6044:fe89::/48,US,US-TX,Austin
+2a0a:6044:fe8a::/48,US,US-TX,Fort Worth
+2a0a:6044:fe8b::/48,US,US-OH,Columbus
+2a0a:6044:fe8c::/48,US,US-IN,Indianapolis
+2a0a:6044:fe8d::/48,US,US-NC,Charlotte
+2a0a:6044:fe8e::/48,US,US-CA,San Francisco
+2a0a:6044:fe8f::/48,US,US-WA,Seattle
+2a0a:6044:fe90::/48,US,US-CO,Denver
+2a0a:6044:fe91::/48,US,US-DC,Washington
+2a0a:6044:fe92::/48,US,US-NY,Borough of Queens
+2a0a:6044:fe93::/48,US,US-AZ,Phoenix
+2a0a:6044:fe94::/48,US,US-PA,Philadelphia
+2a0a:6044:fe95::/48,US,US-NY,Manhattan
+2a0a:6044:fe96::/48,US,US-TX,San Antonio
+2a0a:6044:fe97::/48,US,US-CA,San Diego
+2a0a:6044:fe98::/48,US,US-NY,Bronx
+2a0a:6044:fe99::/48,US,US-TX,Dallas
+2a0a:6044:fe9a::/48,US,US-CA,San Jose
+2a0a:6044:fe9b::/48,US,US-FL,Jacksonville
+2a0a:6044:fe9c::/48,US,US-TX,Austin
+2a0a:6044:fe9d::/48,US,US-TX,Fort Worth
+2a0a:6044:fe9e::/48,US,US-OH,Columbus
+2a0a:6044:fe9f::/48,US,US-IN,Indianapolis
+2a0a:6044:fea0::/48,US,US-NC,Charlotte
+2a0a:6044:fea1::/48,US,US-CA,San Francisco
+2a0a:6044:fea2::/48,US,US-WA,Seattle
+2a0a:6044:fea3::/48,US,US-CO,Denver
+2a0a:6044:fea4::/48,US,US-DC,Washington
+2a0a:6044:fea5::/48,US,US-NY,Borough of Queens
+2a0a:6044:fea6::/48,US,US-AZ,Phoenix
+2a0a:6044:fea7::/48,US,US-PA,Philadelphia
+2a0a:6044:fea8::/48,US,US-NY,Manhattan
+2a0a:6044:fea9::/48,US,US-TX,San Antonio
+2a0a:6044:feaa::/48,US,US-CA,San Diego
+2a0a:6044:feab::/48,US,US-NY,Bronx
+2a0a:6044:feac::/48,US,US-TX,Dallas
+2a0a:6044:fead::/48,US,US-CA,San Jose
+2a0a:6044:feae::/48,US,US-FL,Jacksonville
+2a0a:6044:feaf::/48,US,US-TX,Austin
+2a0a:6044:feb0::/48,US,US-TX,Fort Worth
+2a0a:6044:feb1::/48,US,US-OH,Columbus
+2a0a:6044:feb2::/48,US,US-IN,Indianapolis
+2a0a:6044:feb3::/48,US,US-NC,Charlotte
+2a0a:6044:feb4::/48,US,US-CA,San Francisco
+2a0a:6044:feb5::/48,US,US-WA,Seattle
+2a0a:6044:feb6::/48,US,US-CO,Denver
+2a0a:6044:feb7::/48,US,US-DC,Washington
+2a0a:6044:feb8::/48,US,US-TN,Nashville
+2a0a:6044:feb9::/48,US,US-TX,El Paso
+2a0a:6044:feba::/48,US,US-OK,Oklahoma City
+2a0a:6044:febb::/48,US,US-MI,Detroit
+2a0a:6044:febc::/48,US,US-MA,Boston
+2a0a:6044:febd::/48,US,US-OR,Portland
+2a0a:6044:febe::/48,US,US-TN,New South Memphis
+2a0a:6044:febf::/48,US,US-TN,Memphis
+2a0a:6044:fec0::/48,US,US-NV,Las Vegas
+2a0a:6044:fec1::/48,US,US-WI,Milwaukee
+2a0a:6044:fec2::/48,US,US-MD,Baltimore
+2a0a:6044:fec3::/48,US,US-MA,South Boston
+2a0a:6044:fec4::/48,US,US-NM,Albuquerque
+2a0a:6044:fec5::/48,US,US-AZ,Tucson
+2a0a:6044:fec6::/48,US,US-CA,Fresno
+2a0a:6044:fec7::/48,US,US-CA,Sacramento
+2a0a:6044:fec8::/48,US,US-NE,Omaha
+2a0a:6044:fec9::/48,US,US-MO,Kansas City
+2a0a:6044:feca::/48,US,US-CA,Long Beach
+2a0a:6044:fecb::/48,US,US-AZ,Mesa
+2a0a:6044:fecc::/48,US,US-NY,Staten Island
+2a0a:6044:fecd::/48,US,US-GA,Atlanta
+2a0a:6044:fece::/48,US,US-CO,Colorado Springs
+2a0a:6044:fecf::/48,US,US-VA,Virginia Beach
+2a0a:6044:fed0::/48,US,US-NC,Raleigh
+2a0a:6044:fed1::/48,US,US-FL,Miami
+2a0a:6044:fed2::/48,US,US-TN,Nashville
+2a0a:6044:fed3::/48,US,US-TX,El Paso
+2a0a:6044:fed4::/48,US,US-OK,Oklahoma City
+2a0a:6044:fed5::/48,US,US-MI,Detroit
+2a0a:6044:fed6::/48,US,US-MA,Boston
+2a0a:6044:fed7::/48,US,US-OR,Portland
+2a0a:6044:fed8::/48,US,US-TN,New South Memphis
+2a0a:6044:fed9::/48,US,US-TN,Memphis
+2a0a:6044:feda::/48,US,US-NV,Las Vegas
+2a0a:6044:fedb::/48,US,US-WI,Milwaukee
+2a0a:6044:fedc::/48,US,US-MD,Baltimore
+2a0a:6044:fedd::/48,US,US-MA,South Boston
+2a0a:6044:fede::/48,US,US-NM,Albuquerque
+2a0a:6044:fedf::/48,US,US-AZ,Tucson
+2a0a:6044:fee0::/48,US,US-CA,Fresno
+2a0a:6044:fee1::/48,US,US-CA,Sacramento
+2a0a:6044:fee2::/48,US,US-NE,Omaha
+2a0a:6044:fee3::/48,US,US-MO,Kansas City
+2a0a:6044:fee4::/48,US,US-CA,Long Beach
+2a0a:6044:fee5::/48,US,US-AZ,Mesa
+2a0a:6044:fee6::/48,US,US-NY,Staten Island
+2a0a:6044:fee7::/48,US,US-GA,Atlanta
+2a0a:6044:fee8::/48,US,US-CO,Colorado Springs
+2a0a:6044:fee9::/48,US,US-VA,Virginia Beach
+2a0a:6044:feea::/48,US,US-NC,Raleigh
+2a0a:6044:feeb::/48,US,US-FL,Miami
+2a0a:6044:feec::/48,US,US-CA,Oakland
+2a0a:6044:feed::/48,US,US-OK,Tulsa
+2a0a:6044:feee::/48,US,US-MN,Minneapolis
+2a0a:6044:feef::/48,US,US-KS,Wichita
+2a0a:6044:fef0::/48,US,US-LA,New Orleans
+2a0a:6044:fef1::/48,US,US-TX,Arlington
+2a0a:6044:fef2::/48,US,US-OH,Cleveland
+2a0a:6044:fef3::/48,US,US-FL,Tampa
+2a0a:6044:fef4::/48,US,US-CA,Bakersfield
+2a0a:6044:fef5::/48,US,US-HI,Honolulu
+2a0a:6044:fef6::/48,US,US-CO,Aurora
+2a0a:6044:fef7::/48,US,US-CA,Anaheim
+2a0a:6044:fef8::/48,US,US-NC,West Raleigh
+2a0a:6044:fef9::/48,US,US-CA,Santa Ana
+2a0a:6044:fefa::/48,US,US-TX,Corpus Christi
+2a0a:6044:fefb::/48,US,US-CA,Riverside
+2a0a:6044:fefc::/48,US,US-MO,St Louis
+2a0a:6044:fefd::/48,US,US-KY,Lexington-Fayette
+2a0a:6044:fefe::/48,US,US-OH,Cincinnati
+2a0a:6044:feff::/48,US,US-FL,Orlando
+2a0a:6044:ff00::/48,US,US-CA,Stockton
+2a0a:6044:ff01::/48,US,US-PA,Pittsburgh
+2a0a:6044:ff02::/48,US,US-AK,Anchorage
+2a0a:6044:ff03::/48,US,US-KY,Ironville
+2a0a:6044:ff04::/48,US,US-KY,Meads
+2a0a:6044:ff05::/48,US,US-NV,Henderson
+2a0a:6044:ff06::/48,US,US-NC,Greensboro
+2a0a:6044:ff07::/48,US,US-MN,Saint Paul
+2a0a:6044:ff08::/48,US,US-TX,Plano
+2a0a:6044:ff09::/48,US,US-NJ,Newark
+2a0a:6044:ff0a::/48,US,US-OH,Toledo
+2a0a:6044:ff0b::/48,US,US-NE,Lincoln
+2a0a:6044:ff0c::/48,US,US-CA,Chula Vista
+2a0a:6044:ff0d::/48,US,US-NJ,Jersey City
+2a0a:6044:ff0e::/48,US,US-AZ,Chandler
+2a0a:6044:ff0f::/48,US,US-IN,Fort Wayne
+2a0a:6044:ff10::/48,US,US-NY,Buffalo
+2a0a:6044:ff11::/48,US,US-NC,Durham
+2a0a:6044:ff12::/48,US,US-FL,St. Petersburg
+2a0a:6044:ff13::/48,US,US-CA,Irvine
+2a0a:6044:ff14::/48,US,US-TX,Laredo
+2a0a:6044:ff15::/48,US,US-TX,Lubbock
+2a0a:6044:ff16::/48,US,US-WI,Madison
+2a0a:6044:ff17::/48,US,US-AZ,Gilbert
+2a0a:6044:ff18::/48,US,US-VA,Norfolk
+2a0a:6044:ff19::/48,US,US-WA,Tri-Cities
+2a0a:6044:ff1a::/48,US,US-KY,Louisville
+2a0a:6044:ff1b::/48,US,US-NV,Reno
+2a0a:6044:ff1c::/48,US,US-NC,Winston-Salem
+2a0a:6044:ff1d::/48,US,US-AZ,Glendale
+2a0a:6044:ff1e::/48,US,US-FL,Hialeah
+2a0a:6044:ff1f::/48,US,US-TX,Garland
+2a0a:6044:ff20::/48,US,US-AZ,Scottsdale
+2a0a:6044:ff21::/48,US,US-TX,Irving
+2a0a:6044:ff22::/48,US,US-VA,Chesapeake
+2a0a:6044:ff23::/48,US,US-NV,North Las Vegas
+2a0a:6044:ff24::/48,US,US-CA,Fremont
+2a0a:6044:ff25::/48,US,US-LA,Baton Rouge
+2a0a:6044:ff26::/48,US,US-VA,Richmond
+2a0a:6044:ff27::/48,US,US-KY,Lexington
+2a0a:6044:ff28::/48,US,US-NV,Paradise
+2a0a:6044:ff29::/48,US,US-NY,Jamaica
+2a0a:6044:ff2a::/48,US,US-CA,San Bernardino
+2a0a:6044:ff2b::/48,US,US-AL,Huntsville
+2a0a:6044:ff2c::/48,US,US-WA,Spokane
+2a0a:6044:ff2d::/48,US,US-CA,Fontana
+2a0a:6044:ff2e::/48,US,US-AL,Birmingham
+2a0a:6044:ff2f::/48,US,US-CA,Modesto
+2a0a:6044:ff30::/48,US,US-IA,Des Moines
+2a0a:6044:ff31::/48,US,US-NY,Rochester
+2a0a:6044:ff32::/48,US,US-AZ,Maryvale
+2a0a:6044:ff33::/48,US,US-WA,Tacoma
+2a0a:6044:ff34::/48,US,US-VA,Arlington
+2a0a:6044:ff35::/48,US,US-CA,Oxnard
+2a0a:6044:ff36::/48,US,US-GA,Columbus
+2a0a:6044:ff37::/48,US,US-MA,Worcester
+2a0a:6044:ff38::/48,US,US-CA,Moreno Valley
+2a0a:6044:ff39::/48,US,US-NC,Fayetteville
+2a0a:6044:ff3a::/48,US,US-CA,Huntington Beach
+2a0a:6044:ff3b::/48,US,US-NY,Yonkers
+2a0a:6044:ff3c::/48,US,US-CA,Glendale
+2a0a:6044:ff3d::/48,US,US-IL,Aurora
+2a0a:6044:ff3e::/48,US,US-AL,Montgomery
+2a0a:6044:ff3f::/48,US,US-TX,Amarillo
+2a0a:6044:ff40::/48,US,US-AR,Little Rock
+2a0a:6044:ff41::/48,US,US-OH,Akron
+2a0a:6044:ff42::/48,US,US-LA,Shreveport
+2a0a:6044:ff43::/48,US,US-MI,Grand Rapids
+2a0a:6044:ff44::/48,US,US-AL,Mobile
+2a0a:6044:ff45::/48,US,US-UT,Salt Lake City
+2a0a:6044:ff46::/48,US,US-AZ,Peoria
+2a0a:6044:ff47::/48,US,US-RI,Providence
+2a0a:6044:ff48::/48,US,US-FL,Tallahassee
+2a0a:6044:ff49::/48,US,US-NV,Sunrise Manor
+2a0a:6044:ff4a::/48,US,US-TX,Grand Prairie
+2a0a:6044:ff4b::/48,US,US-KS,Overland Park
+2a0a:6044:ff4c::/48,US,US-TN,Knoxville
+2a0a:6044:ff4d::/48,US,US-TX,Brownsville
+2a0a:6044:ff4e::/48,US,US-VA,Newport News
+2a0a:6044:ff4f::/48,US,US-CA,Santa Clarita
+2a0a:6044:ff50::/48,US,US-TN,Chattanooga
+2a0a:6044:ff51::/48,US,US-FL,Fort Lauderdale
+2a0a:6044:ff52::/48,US,US-NY,East Flatbush
+2a0a:6044:ff53::/48,US,US-NV,Spring Valley
+2a0a:6044:ff54::/48,US,US-AZ,Tempe
+2a0a:6044:ff55::/48,US,US-CA,Oceanside
+2a0a:6044:ff56::/48,US,US-CA,Garden Grove
+2a0a:6044:ff57::/48,US,US-CA,Rancho Cucamonga
+2a0a:6044:ff58::/48,US,US-FL,Cape Coral
+2a0a:6044:ff59::/48,US,US-CA,Santa Rosa
+2a0a:6044:ff5a::/48,US,US-NY,East New York
+2a0a:6044:ff5b::/48,US,US-WA,Vancouver
+2a0a:6044:ff5c::/48,US,US-SD,Sioux Falls
+2a0a:6044:ff5d::/48,US,US-CA,Ontario
+2a0a:6044:ff5e::/48,US,US-MS,Jackson
+2a0a:6044:ff5f::/48,US,US-CA,Hollywood
+2a0a:6044:ff60::/48,US,US-CA,Elk Grove
+2a0a:6044:ff61::/48,US,US-MO,Springfield
+2a0a:6044:ff62::/48,US,US-TN,Clarksville
+2a0a:6044:ff63::/48,US,US-FL,Pembroke Pines
+2a0a:6044:ff64::/48,US,US-AZ,Deer Valley
+2a0a:6044:ff65::/48,US,US-FL,Port Saint Lucie
+2a0a:6044:ff66::/48,US,US-OR,Salem
+2a0a:6044:ff67::/48,US,US-CA,Corona
+2a0a:6044:ff68::/48,US,US-OR,Eugene
+2a0a:6044:ff69::/48,US,US-TX,McKinney
+2a0a:6044:ff6a::/48,US,US-CO,Fort Collins
+2a0a:6044:ff6b::/48,US,US-CA,Lancaster
+2a0a:6044:ff6c::/48,US,US-NC,Cary
+2a0a:6044:ff6d::/48,US,US-VA,Alexandria
+2a0a:6044:ff6e::/48,US,US-AZ,Tempe Junction
+2a0a:6044:ff6f::/48,US,US-CA,Palmdale
+2a0a:6044:ff70::/48,US,US-CA,Hayward
+2a0a:6044:ff71::/48,US,US-CA,Salinas
+2a0a:6044:ff72::/48,US,US-CA,Sunnyvale
+2a0a:6044:ff73::/48,US,US-TX,Frisco
+2a0a:6044:ff74::/48,US,US-MA,Springfield
+2a0a:6044:ff75::/48,US,US-TN,East Chattanooga
+2a0a:6044:ff76::/48,US,US-TX,Pasadena
+2a0a:6044:ff77::/48,US,US-CA,Pomona
+2a0a:6044:ff78::/48,US,US-NY,Washington Heights
+2a0a:6044:ff79::/48,US,US-CO,Lakewood
+2a0a:6044:ff7a::/48,US,US-KS,Kansas City
+2a0a:6044:ff7b::/48,US,US-CA,Escondido
+2a0a:6044:ff7c::/48,US,US-NY,Astoria
+2a0a:6044:ff7d::/48,US,US-FL,Hollywood
+2a0a:6044:ff7e::/48,US,US-NY,Borough Park
+2a0a:6044:ff7f::/48,US,US-CA,Valencia
+2a0a:6044:ff80::/48,US,US-IL,Rockford
+2a0a:6044:ff81::/48,US,US-VA,East Hampton
+2a0a:6044:ff82::/48,US,US-IL,Joliet
+2a0a:6044:ff83::/48,US,US-GA,Savannah
+2a0a:6044:ff84::/48,US,US-NJ,Paterson
+2a0a:6044:ff85::/48,US,US-CT,Bridgeport
+2a0a:6044:ff86::/48,US,US-IL,Naperville
+2a0a:6044:ff87::/48,US,US-ID,Boise
+2a0a:6044:ff88::/48,US,US-TX,Mesquite
+2a0a:6044:ff89::/48,US,US-NY,Syracuse
+2a0a:6044:ff8a::/48,US,US-CA,Torrance
+2a0a:6044:ff8b::/48,US,US-AZ,Surprise
+2a0a:6044:ff8c::/48,US,US-LA,Metairie Terrace
+2a0a:6044:ff8d::/48,US,US-CA,Pasadena
+2a0a:6044:ff8e::/48,US,US-FL,Gainesville
+2a0a:6044:ff8f::/48,US,US-CA,Orange
+2a0a:6044:ff90::/48,US,US-CA,Fullerton
+2a0a:6044:ff91::/48,US,US-TX,Killeen
+2a0a:6044:ff92::/48,US,US-TX,McAllen
+2a0a:6044:ff93::/48,US,US-WA,Bellevue
+2a0a:6044:ff94::/48,US,US-LA,Metairie
+2a0a:6044:ff95::/48,US,US-OH,Dayton
+2a0a:6044:ff96::/48,US,US-FL,Miramar
+2a0a:6044:ff97::/48,US,US-VA,Hampton
+2a0a:6044:ff98::/48,US,US-CA,Van Nuys
+2a0a:6044:ff99::/48,US,US-UT,West Valley City
+2a0a:6044:ff9a::/48,US,US-KS,Olathe
+2a0a:6044:ff9b::/48,US,US-MI,Warren
+2a0a:6044:ff9c::/48,US,US-SC,Columbia
+2a0a:6044:ff9d::/48,US,US-CO,Thornton
+2a0a:6044:ff9e::/48,US,US-TX,Carrollton
+2a0a:6044:ff9f::/48,US,US-TX,Midland
+2a0a:6044:ffa0::/48,US,US-SC,Charleston
+2a0a:6044:ffa1::/48,US,US-TX,Waco
+2a0a:6044:ffa2::/48,US,US-MI,Sterling Heights
+2a0a:6044:ffa3::/48,US,US-TX,Denton
+2a0a:6044:ffa4::/48,US,US-IA,Cedar Rapids
+2a0a:6044:ffa5::/48,US,US-CT,New Haven
+2a0a:6044:ffa6::/48,US,US-CA,Roseville
+2a0a:6044:ffa7::/48,US,US-CA,Visalia
+2a0a:6044:ffa8::/48,US,US-FL,Coral Springs
+2a0a:6044:ffa9::/48,US,US-CA,Thousand Oaks
+2a0a:6044:ffaa::/48,US,US-NJ,Elizabeth
+2a0a:6044:ffab::/48,US,US-CT,Stamford
+2a0a:6044:ffac::/48,US,US-CA,Concord
+2a0a:6044:ffad::/48,US,US-AZ,Alhambra
+2a0a:6044:ffae::/48,US,US-LA,Lafayette
+2a0a:6044:ffaf::/48,US,US-GA,Athens
+2a0a:6044:ffb0::/48,US,US-KS,Topeka
+2a0a:6044:ffb1::/48,US,US-WA,Kent
+2a0a:6044:ffb2::/48,US,US-CA,Simi Valley
+2a0a:6044:ffb3::/48,US,US-,East Los Angeles
+2a0a:6044:ffb4::/48,US,US-CA,Santa Clara
+2a0a:6044:ffb5::/48,US,US-TN,Murfreesboro
+2a0a:6044:ffb6::/48,US,US-NY,Sunset Park
+2a0a:6044:ffb7::/48,US,US-TX,Abilene
+2a0a:6044:ffb8::/48,US,US-OK,Norman
+2a0a:6044:ffb9::/48,US,US-CA,Koreatown
+2a0a:6044:ffba::/48,US,US-NY,Sheepshead Bay
+2a0a:6044:ffbb::/48,US,US-NY,Amherst
+2a0a:6044:ffbc::/48,US,US-CA,Victorville
+2a0a:6044:ffbd::/48,US,US-CA,Vallejo
+2a0a:6044:ffbe::/48,US,US-CA,Chico
+2a0a:6044:ffbf::/48,US,US-CT,North Stamford
+2a0a:6044:ffc0::/48,US,US-CT,Hartford
+2a0a:6044:ffc1::/48,US,US-CA,Berkeley
+2a0a:6044:ffc2::/48,US,US-PA,Allentown
+2a0a:6044:ffc3::/48,US,US-IN,Evansville
+2a0a:6044:ffc4::/48,US,US-FL,Palm Bay
+2a0a:6044:ffc5::/48,US,US-MO,Columbia
+2a0a:6044:ffc6::/48,US,US-TX,Odessa
+2a0a:6044:ffc7::/48,US,US-ND,Fargo
+2a0a:6044:ffc8::/48,US,US-MO,Independence
+2a0a:6044:ffc9::/48,US,US-MI,Ann Arbor
+2a0a:6044:ffca::/48,US,US-CA,El Monte
+2a0a:6044:ffcb::/48,US,US-IL,Springfield
+2a0a:6044:ffcc::/48,US,US-NY,Harlem
+2a0a:6044:ffcd::/48,US,US-CO,Westminster
+2a0a:6044:ffce::/48,US,US-TX,Round Rock
+2a0a:6044:ffcf::/48,US,US-NC,Wilmington
+2a0a:6044:ffd0::/48,US,US-NY,East Harlem
+2a0a:6044:ffd1::/48,US,US-CO,Arvada
+2a0a:6044:ffd2::/48,US,US-TX,Beaumont
+2a0a:6044:ffd3::/48,US,US-UT,Provo
+2a0a:6044:ffd4::/48,US,US-IL,Peoria
+2a0a:6044:ffd5::/48,US,US-MI,Lansing
+2a0a:6044:ffd6::/48,US,US-CA,Carlsbad
+2a0a:6044:ffd7::/48,US,US-CA,Downey
+2a0a:6044:ffd8::/48,US,US-NY,Elmhurst
+2a0a:6044:ffd9::/48,US,US-CA,Costa Mesa
+2a0a:6044:ffda::/48,US,US-FL,Miami Gardens
+2a0a:6044:ffdb::/48,US,US-IL,North Peoria
+2a0a:6044:ffdc::/48,US,US-FL,Clearwater
+2a0a:6044:ffdd::/48,US,US-CA,Fairfield
+2a0a:6044:ffde::/48,US,US-NY,Bushwick
+2a0a:6044:ffdf::/48,US,US-NY,Gravesend
+2a0a:6044:ffe0::/48,US,US-MN,Rochester
+2a0a:6044:ffe1::/48,US,US-IL,Elgin
+2a0a:6044:ffe2::/48,US,US-UT,West Jordan
+2a0a:6044:ffe3::/48,US,US-CA,Inglewood
+2a0a:6044:ffe4::/48,US,US-TX,Richardson
+2a0a:6044:ffe5::/48,US,US-MA,Lowell
+2a0a:6044:ffe6::/48,US,US-NY,New York
+2a0a:6044:ffe7::/48,US,US-CA,Los Angeles
+2a0a:6044:ffe8::/48,US,US-NY,Brooklyn
+2a0a:6044:ffe9::/48,US,US-IL,Chicago
+2a0a:6044:ffea::/48,US,US-TX,Houston
+2a0a:6044:ffeb::/48,US,US-NY,Borough of Queens
+2a0a:6044:ffec::/48,US,US-AZ,Phoenix
+2a0a:6044:ffed::/48,US,US-PA,Philadelphia
+2a0a:6044:ffee::/48,US,US-NY,Manhattan
+2a0a:6044:ffef::/48,US,US-TX,San Antonio
+2a0a:6044:fff0::/48,US,US-CA,San Diego
+2a0a:6044:fff1::/48,US,US-NY,Bronx
+2a0a:6044:fff2::/48,US,US-TX,Dallas
+2a0a:6044:fff3::/48,US,US-CA,San Jose
+2a0a:6044:fff4::/48,US,US-FL,Jacksonville
+2a0a:6044:fff5::/48,US,US-TX,Austin
+2a0a:6044:fff6::/48,US,US-NY,New York
+2a0a:6044:fff7::/48,US,US-CA,Los Angeles
+2a0a:6044:fff8::/48,US,US-NY,Brooklyn
+2a0a:6044:fff9::/48,US,US-IL,Chicago
+2a0a:6044:fffa::/48,US,US-TX,Houston
+2a0a:6044:fffb::/48,US,US-NY,Borough of Queens
+2a0a:6044:fffc::/48,US,US-AZ,Phoenix
+2a0a:6044:fffd::/48,US,US-PA,Philadelphia
+2a0a:6044:fffe::/48,US,US-NY,Manhattan
+2a0a:6044:ffff::/48,US,US-NY,New York
